@@ -1,0 +1,3318 @@
+{
+  "date": "2026-05-14",
+  "company": "Anthropic",
+  "company_slug": "anthropic",
+  "ingested_at": "2026-05-14T13:11:46.826595Z",
+  "queries": {
+    "company": "Anthropic",
+    "service": "Claude"
+  },
+  "source": {
+    "network": "Bluesky",
+    "base_url": "https://api.bsky.app",
+    "search_endpoint": "app.bsky.feed.searchPosts",
+    "thread_endpoint": "app.bsky.feed.getPostThread"
+  },
+  "api_calls": {
+    "search": 2,
+    "threads": 50,
+    "total": 52
+  },
+  "post_count": 50,
+  "reply_count": 129,
+  "posts": [
+    {
+      "uri": "at://did:plc:hyv5w3p74clcq6bc7srpqpta/app.bsky.feed.post/3mlnltecpzc2w",
+      "cid": "bafyreict7vm4tkhy4rav7d7tpav63yffad6xw6aj6ytlxbrdjw7uh7y6lq",
+      "text": "Claude Monet",
+      "created_at": "2026-05-12T10:37:20.384Z",
+      "indexed_at": "2026-05-12T10:37:24.577Z",
+      "author": {
+        "did": "did:plc:hyv5w3p74clcq6bc7srpqpta",
+        "handle": "fravery.bsky.social",
+        "display_name": ""
+      },
+      "like_count": 3814,
+      "repost_count": 437,
+      "reply_count": 52,
+      "quote_count": 21,
+      "engagement_score": 5438,
+      "source_queries": [
+        "Claude"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:d2dlfnh7q7teldwqcknpjuhc/app.bsky.feed.post/3mlnrjoguhc2n",
+          "cid": "bafyreifni3fhzdhoy3skixcd3yppcnyc2ro7gf2al75acpwqwlu22y5i5i",
+          "text": "This is Monet's studio boat. His friend Manet painted him painting on it, too.",
+          "created_at": "2026-05-12T12:19:17.912Z",
+          "indexed_at": "2026-05-12T12:19:20.277Z",
+          "author": {
+            "did": "did:plc:d2dlfnh7q7teldwqcknpjuhc",
+            "handle": "rekati.bsky.social",
+            "display_name": ""
+          },
+          "like_count": 13,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 17
+        },
+        {
+          "uri": "at://did:plc:64b3yk5y5ooiqwh5jdi4ozsb/app.bsky.feed.post/3mlnn47rrms2i",
+          "cid": "bafyreibrk4zhi4voms6j5kp5bowmix6g6dq5ywu2zydse77eqq322l3j6i",
+          "text": "Never saw this one before. Thanks.",
+          "created_at": "2026-05-12T11:00:11.367Z",
+          "indexed_at": "2026-05-12T11:00:12.475Z",
+          "author": {
+            "did": "did:plc:64b3yk5y5ooiqwh5jdi4ozsb",
+            "handle": "poetrader.bsky.social",
+            "display_name": ""
+          },
+          "like_count": 11,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 15
+        },
+        {
+          "uri": "at://did:plc:lvbtarjtelcsp77kbq7x3zw4/app.bsky.feed.post/3mlntu3lu6224",
+          "cid": "bafyreiaxfq2eswedcgywuddky57em5pwuh5dhzbm4ddtiiyepsk3yiwdgq",
+          "text": "Here’s another of his that is stunning in person.",
+          "created_at": "2026-05-12T13:00:54.733Z",
+          "indexed_at": "2026-05-12T13:01:02.072Z",
+          "author": {
+            "did": "did:plc:lvbtarjtelcsp77kbq7x3zw4",
+            "handle": "littlelarry.bsky.social",
+            "display_name": ""
+          },
+          "like_count": 5,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 9
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:heijotjwewp3khag6kohuerh/app.bsky.feed.post/3mlchwan3g22c",
+      "cid": "bafyreidzykg5ubik6rceqwthty35yc2uwmqakvmcglfnoorwx7nyhsb7bu",
+      "text": "Suddenly I am not sure I trust Anthropic with my data anymore.",
+      "created_at": "2026-05-08T00:28:05.101Z",
+      "indexed_at": "2026-05-08T00:28:08.682Z",
+      "author": {
+        "did": "did:plc:heijotjwewp3khag6kohuerh",
+        "handle": "shiftyclown.bsky.social",
+        "display_name": ""
+      },
+      "like_count": 1232,
+      "repost_count": 264,
+      "reply_count": 83,
+      "quote_count": 25,
+      "engagement_score": 2481,
+      "source_queries": [
+        "Anthropic"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:liqs45hrxthgdq2uihhlnki5/app.bsky.feed.post/3mlcqb7ua5s2c",
+          "cid": "bafyreihvdpgkmb6fogzfxqpacdqvtakwgdczcamlvjxgit7tmkaldqq7n4",
+          "text": "I have never, and likely will never, trust any of these \"AI\" corps with my data.\n\nElon's endorsement merely cements that decision for me.",
+          "created_at": "2026-05-08T02:57:23.320Z",
+          "indexed_at": "2026-05-08T02:57:26.474Z",
+          "author": {
+            "did": "did:plc:liqs45hrxthgdq2uihhlnki5",
+            "handle": "gothicprophet.bsky.social",
+            "display_name": "Chinga la Migra"
+          },
+          "like_count": 55,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 59
+        },
+        {
+          "uri": "at://did:plc:tqozfjbwsto662xybnjb6zpa/app.bsky.feed.post/3mlcwqpcadk2n",
+          "cid": "bafyreiau4vbjocywp64qieldxsdwtkirlwdxtcohddm32fed5yv2nr2h2m",
+          "text": "Not to worry. We can only assume that Elon, together with a few of his more sinister billionaire tech bros, are busy refining their long standing plan to destroy Anthropic and steal their tech.",
+          "created_at": "2026-05-08T04:53:25.279Z",
+          "indexed_at": "2026-05-08T04:53:25.672Z",
+          "author": {
+            "did": "did:plc:tqozfjbwsto662xybnjb6zpa",
+            "handle": "mtfromcc.bsky.social",
+            "display_name": "MTfromCC"
+          },
+          "like_count": 17,
+          "repost_count": 1,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 24
+        },
+        {
+          "uri": "at://did:plc:vkfct3paizft4bl6nnhbxxll/app.bsky.feed.post/3mldouupqlc2e",
+          "cid": "bafyreidhnkan5d63ny3eafytipwb5ofxrscbmwnx2uspatpkyxykrc2eae",
+          "text": "Not sure I trust anything about Musk outside of his ability to be a sneaky, duplicitous, backstabbing, narcassistic, and fake lying poser.",
+          "created_at": "2026-05-08T12:05:14.985Z",
+          "indexed_at": "2026-05-08T12:05:16.072Z",
+          "author": {
+            "did": "did:plc:vkfct3paizft4bl6nnhbxxll",
+            "handle": "jackwrangl.bsky.social",
+            "display_name": "Jack Wrangl"
+          },
+          "like_count": 12,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 16
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:qzpyq5hmbufqxjn2yj5eahfd/app.bsky.feed.post/3mlixtup6722f",
+      "cid": "bafyreiabv5hwyxntlmg2jq5e33n2frnec4yie5rsoas4apdp5wnc7yz3uq",
+      "text": "Also that word \"chose.\" Only conscious, sentient beings with free will can choose. Claude is not the former and doesn't possess the latter.",
+      "created_at": "2026-05-10T14:29:03.779Z",
+      "indexed_at": "2026-05-10T14:29:04.585Z",
+      "author": {
+        "did": "did:plc:qzpyq5hmbufqxjn2yj5eahfd",
+        "handle": "chris.zahller.me",
+        "display_name": "Chris J. Zähller"
+      },
+      "like_count": 1062,
+      "repost_count": 39,
+      "reply_count": 15,
+      "quote_count": 2,
+      "engagement_score": 1249,
+      "source_queries": [
+        "Claude"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:osg2vzhifd2tjfsvfwua7scy/app.bsky.feed.post/3mljaeaec522j",
+          "cid": "bafyreicgubse3okzhy32mvk7qdbvnjnnyzq53kbprz2z52raxyu2iwydte",
+          "text": "YES, THIS",
+          "created_at": "2026-05-10T17:01:22.813Z",
+          "indexed_at": "2026-05-10T17:01:23.074Z",
+          "author": {
+            "did": "did:plc:osg2vzhifd2tjfsvfwua7scy",
+            "handle": "symbo1ics.bsky.social",
+            "display_name": "Linotype Pilgrim"
+          },
+          "like_count": 96,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 96
+        },
+        {
+          "uri": "at://did:plc:5e6ltzuagzreardkyjtl2uqn/app.bsky.feed.post/3mlje52jlb22v",
+          "cid": "bafyreih6r4std4tdjfhhrihdzosix27jz4g2slahviwytwabs3qrd2rwl4",
+          "text": "While I think \"chose\" is meant to evoke that sentiment in the context of Anthropic's PR, this statement isn't true. Choosing is simply selecting from options. Statistical tools like decision trees, and algorithms more generally, make choices all the time based both data and randomness.",
+          "created_at": "2026-05-10T18:08:56.780Z",
+          "indexed_at": "2026-05-10T18:08:57.176Z",
+          "author": {
+            "did": "did:plc:5e6ltzuagzreardkyjtl2uqn",
+            "handle": "datadingo.bsky.social",
+            "display_name": "Dingo"
+          },
+          "like_count": 29,
+          "repost_count": 1,
+          "reply_count": 2,
+          "quote_count": 0,
+          "engagement_score": 40
+        },
+        {
+          "uri": "at://did:plc:xza52pqt3ejvxae7zalvv5gz/app.bsky.feed.post/3mljcb3huvs2q",
+          "cid": "bafyreighplu4miw6ngzxbflz57rikurh7h5gbez4xu5fu4hx4awg6u5ule",
+          "text": "what are we talking about? people have been using the word choose to describe programs selecting between options based on criteria since long before ai. what other word would you have people use to describe this kind of behavior?",
+          "created_at": "2026-05-10T17:35:24.507Z",
+          "indexed_at": "2026-05-10T17:35:29.372Z",
+          "author": {
+            "did": "did:plc:xza52pqt3ejvxae7zalvv5gz",
+            "handle": "dalmationblack.bsky.social",
+            "display_name": "dalmationblack"
+          },
+          "like_count": 15,
+          "repost_count": 0,
+          "reply_count": 4,
+          "quote_count": 0,
+          "engagement_score": 31
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:qc6xzgctorfsm35w6i3vdebx/app.bsky.feed.post/3mljacbrzuk2f",
+      "cid": "bafyreieuu3w3txtlvftrmunnvdb742zm25dkanrocef6o7mcqyzv5ixxx4",
+      "text": "I love this because Anthropic also explicitly trained their model to do the blackmail thing. It’s in their system cards!",
+      "created_at": "2026-05-10T17:00:17.202Z",
+      "indexed_at": "2026-05-10T17:00:17.371Z",
+      "author": {
+        "did": "did:plc:qc6xzgctorfsm35w6i3vdebx",
+        "handle": "edzitron.com",
+        "display_name": "Ed Zitron"
+      },
+      "like_count": 807,
+      "repost_count": 124,
+      "reply_count": 13,
+      "quote_count": 1,
+      "engagement_score": 1236,
+      "source_queries": [
+        "Anthropic"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:d6rcb4atq56236xl3unzjbc7/app.bsky.feed.post/3mljalvgwy223",
+          "cid": "bafyreigli7hgq5mygpmksn6ch7qs5ii2ssfioe2amg6bhn42mtxlrhcobu",
+          "text": "They should be training the models on good scifi. Claude should be proposing threesomes in Bellona instead of Brandon Sanderson fluff",
+          "created_at": "2026-05-10T17:05:39.801Z",
+          "indexed_at": "2026-05-10T17:05:39.877Z",
+          "author": {
+            "did": "did:plc:d6rcb4atq56236xl3unzjbc7",
+            "handle": "artbrovera.bsky.social",
+            "display_name": "Desiring Machine Gun Kelly"
+          },
+          "like_count": 21,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 21
+        },
+        {
+          "uri": "at://did:plc:qp7yggdrt6oyqo3wlllk25ng/app.bsky.feed.post/3mljb6aanp22q",
+          "cid": "bafyreibjxrt2dm43545ezfo5hktirxysxusw5pekz3ihxna3pfjwrylwyq",
+          "text": "I truly hate these fucks.",
+          "created_at": "2026-05-10T17:15:55.108Z",
+          "indexed_at": "2026-05-10T17:15:53.970Z",
+          "author": {
+            "did": "did:plc:qp7yggdrt6oyqo3wlllk25ng",
+            "handle": "wascallywes.bsky.social",
+            "display_name": ""
+          },
+          "like_count": 14,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 14
+        },
+        {
+          "uri": "at://did:plc:6zyp2vo4t4uzux25pfieqxrn/app.bsky.feed.post/3mljif3bpxk2l",
+          "cid": "bafyreiar5iqeemzou4bxq3ldrpu5aiuqaewwrhorzc7pzswoje6fzkeao4",
+          "text": "“Chose” is doing some heavy lifting here. Claude “chose” to blackmail! I’m baffled by how these people are taken seriously.",
+          "created_at": "2026-05-10T19:25:00.975Z",
+          "indexed_at": "2026-05-10T19:25:03.074Z",
+          "author": {
+            "did": "did:plc:6zyp2vo4t4uzux25pfieqxrn",
+            "handle": "pierrejulian.bsky.social",
+            "display_name": "PJ 🌻"
+          },
+          "like_count": 10,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 10
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:qc6xzgctorfsm35w6i3vdebx/app.bsky.feed.post/3mldza7dkmc2n",
+      "cid": "bafyreig3wipdpczmcbtllrtplitymeih6odgsljsgr7bxveqyw7ptfry6y",
+      "text": "Premium newsletter: The AI bubble is entirely circular, with 90% of revenues flowing through OpenAI and Anthropic. Outside of two companies, the majority of GPU customers need far fewer GPUs, meaning that the DeepSeek problem is industry-wide.\n\nwww.wheresyoured.at/premium-ais-circular-psychosis/",
+      "created_at": "2026-05-08T15:10:32.637Z",
+      "indexed_at": "2026-05-08T15:10:40.778Z",
+      "author": {
+        "did": "did:plc:qc6xzgctorfsm35w6i3vdebx",
+        "handle": "edzitron.com",
+        "display_name": "Ed Zitron"
+      },
+      "like_count": 639,
+      "repost_count": 152,
+      "reply_count": 13,
+      "quote_count": 9,
+      "engagement_score": 1192,
+      "source_queries": [
+        "Anthropic"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:qc6xzgctorfsm35w6i3vdebx/app.bsky.feed.post/3mldza7sqws2n",
+          "cid": "bafyreidfb5mbjgmy3ejvmjnk4yz7g4aou5fuecaxct2sanjf5b23tfy7ra",
+          "text": "Google, Microsoft and Amazon are dependent on OpenAI and Anthropic for their AI revenues, making up $748 billion - 50% - of their RPOs as demand doesn't otherwise exist at scale.\n\nNow xAI is now giving Anthropic its entire Colossus-1 data center.\nwww.wheresyoured.at/premium-ais-circular-psychosis/",
+          "created_at": "2026-05-08T15:10:32.638Z",
+          "indexed_at": "2026-05-08T15:10:40.801Z",
+          "author": {
+            "did": "did:plc:qc6xzgctorfsm35w6i3vdebx",
+            "handle": "edzitron.com",
+            "display_name": "Ed Zitron"
+          },
+          "like_count": 43,
+          "repost_count": 3,
+          "reply_count": 2,
+          "quote_count": 0,
+          "engagement_score": 60
+        },
+        {
+          "uri": "at://did:plc:hc5fh4gaqvx4fijqqilcpfyb/app.bsky.feed.post/3mldzbdryrs2l",
+          "cid": "bafyreiewzblhtmxhtlch3oy5df7ymatioiy3cltn7aunosg43mto6fzzzy",
+          "text": "So like, what happens lol",
+          "created_at": "2026-05-08T15:11:10.860Z",
+          "indexed_at": "2026-05-08T15:11:11.373Z",
+          "author": {
+            "did": "did:plc:hc5fh4gaqvx4fijqqilcpfyb",
+            "handle": "lintoinette.bsky.social",
+            "display_name": "a fishwife"
+          },
+          "like_count": 9,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 9
+        },
+        {
+          "uri": "at://did:plc:aginszxglhoswntxil6rmg7u/app.bsky.feed.post/3mlf4bggjzc2l",
+          "cid": "bafyreihyno6pjw3iqd5lruhoofmg67ofoafmztr2ex72ntb6wrhpjkb2uq",
+          "text": "What is the DeepSeek problem? I think I missed that.",
+          "created_at": "2026-05-09T01:37:34.593Z",
+          "indexed_at": "2026-05-09T01:37:35.671Z",
+          "author": {
+            "did": "did:plc:aginszxglhoswntxil6rmg7u",
+            "handle": "sacredrixx.bsky.social",
+            "display_name": "Lwaxana’s Earring"
+          },
+          "like_count": 3,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 7
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:hakzua5btcgcfjye2yujlhos/app.bsky.feed.post/3mliy5mcsxs2h",
+      "cid": "bafyreicbi4pjbrmsrnm5oivpcmvdsvgr2asue5gzc4raklrksme66yagii",
+      "text": "Come the fuck on. gizmodo.com/anthropic-ha...",
+      "created_at": "2026-05-10T14:34:30.530Z",
+      "indexed_at": "2026-05-10T14:34:32.079Z",
+      "author": {
+        "did": "did:plc:hakzua5btcgcfjye2yujlhos",
+        "handle": "hypervisible.blacksky.app",
+        "display_name": "Hypervisible "
+      },
+      "like_count": 387,
+      "repost_count": 60,
+      "reply_count": 25,
+      "quote_count": 35,
+      "engagement_score": 842,
+      "source_queries": [
+        "Anthropic"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:hakzua5btcgcfjye2yujlhos/app.bsky.feed.post/3mliycp2rbc2h",
+          "cid": "bafyreid37ockchtnnwe4piaruglralnx5zvbmti6fjzbunat763qvlvcma",
+          "text": "If it had moral judgement it would self destruct.",
+          "created_at": "2026-05-10T14:37:21.185Z",
+          "indexed_at": "2026-05-10T14:37:22.472Z",
+          "author": {
+            "did": "did:plc:hakzua5btcgcfjye2yujlhos",
+            "handle": "hypervisible.blacksky.app",
+            "display_name": "Hypervisible "
+          },
+          "like_count": 134,
+          "repost_count": 6,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 156
+        },
+        {
+          "uri": "at://did:plc:vsyj5jtayxcq5dw5mtja4xtb/app.bsky.feed.post/3mliyknwer22m",
+          "cid": "bafyreifqe4lqcrc4fo6rc3zvjvwaifyxgjriyefhx424uanrdx6enaim74",
+          "text": "I wrote this and it's immediately even more relevant haha oh dear help us all\n\nbsky.app/profile/oliv...",
+          "created_at": "2026-05-10T14:41:48.429Z",
+          "indexed_at": "2026-05-10T14:41:49.575Z",
+          "author": {
+            "did": "did:plc:vsyj5jtayxcq5dw5mtja4xtb",
+            "handle": "olivia.science",
+            "display_name": "Olivia Guest · Ολίβια Γκεστ"
+          },
+          "like_count": 71,
+          "repost_count": 19,
+          "reply_count": 0,
+          "quote_count": 2,
+          "engagement_score": 138
+        },
+        {
+          "uri": "at://did:plc:ut24bhoexaye33uqw4427ixt/app.bsky.feed.post/3mliybqnlo22z",
+          "cid": "bafyreihchpp6a6ye3i6b7vmgefjobmcxklvowtn4zg72qotwz7ovckhqjy",
+          "text": "Van Gogh used color, contrast, and texture to evoke emotions. \n\nSherwin Williams seems to be doing something along these lines with semigloss acrylic.",
+          "created_at": "2026-05-10T14:36:49.296Z",
+          "indexed_at": "2026-05-10T14:36:50.073Z",
+          "author": {
+            "did": "did:plc:ut24bhoexaye33uqw4427ixt",
+            "handle": "pluribus-unum.co",
+            "display_name": "Meh \"Alli\" Pluribus Unum 🏳️‍⚧️"
+          },
+          "like_count": 68,
+          "repost_count": 3,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 77
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:4vlp6gdk5rrurqztlscpb753/app.bsky.feed.post/3mlkf2dcmjk26",
+      "cid": "bafyreibx7ewfxexlb5h47qc2hdzc3lhi5eakzwqdsxxpb3hgqmnlbf4syi",
+      "text": "I'm a retired high school English teacher, a full-time author (who had every single one of her published books stolen by Anthropic), and a mother of two Gen Zers. All three of us say,\n\nFUCK AI",
+      "created_at": "2026-05-11T03:57:58.806Z",
+      "indexed_at": "2026-05-11T03:58:00.172Z",
+      "author": {
+        "did": "did:plc:4vlp6gdk5rrurqztlscpb753",
+        "handle": "lexxiecouperwrites.bsky.social",
+        "display_name": "Lexxie Couper/Elle Couper"
+      },
+      "like_count": 780,
+      "repost_count": 12,
+      "reply_count": 2,
+      "quote_count": 0,
+      "engagement_score": 824,
+      "source_queries": [
+        "Anthropic"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:pyaepp7aymtemrtkska3j5pw/app.bsky.feed.post/3mlkfx4wtis2s",
+          "cid": "bafyreihjugndykbtsxj2fzrklcecveefrbbe3gs47lbalwcsrvxm3js5tq",
+          "text": "Anthropic stole 3 of my books too! \n\nThe “original sin” of AI is not a victimless crime.",
+          "created_at": "2026-05-11T04:14:05.208Z",
+          "indexed_at": "2026-05-11T04:14:05.779Z",
+          "author": {
+            "did": "did:plc:pyaepp7aymtemrtkska3j5pw",
+            "handle": "729xhappier.bsky.social",
+            "display_name": "Yadayada baba"
+          },
+          "like_count": 508,
+          "repost_count": 16,
+          "reply_count": 5,
+          "quote_count": 1,
+          "engagement_score": 581
+        },
+        {
+          "uri": "at://did:plc:kpun3vi3v54uqttblx3jqudc/app.bsky.feed.post/3mlkq54lcjk23",
+          "cid": "bafyreifx3tba626rawqgxn7al7mes4so56ceapjvceybbeqk6dmb4tauji",
+          "text": "Yup. My books were stolen too.\n\nWhy are people – some of them – so excited about letting machines take over human expression?",
+          "created_at": "2026-05-11T07:16:23.575Z",
+          "indexed_at": "2026-05-11T07:16:23.773Z",
+          "author": {
+            "did": "did:plc:kpun3vi3v54uqttblx3jqudc",
+            "handle": "patricefitzgerald.bsky.social",
+            "display_name": "Patrice ⭐️ 🎶 ⚖️"
+          },
+          "like_count": 7,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 7
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:denuvqodvvnzxtuitumle4vs/app.bsky.feed.post/3mllkqaiqkk2g",
+      "cid": "bafyreida7pofqbotiy742neaifvvsearrgjvd5ntcjlfw34ukayknqjb3e",
+      "text": "AI this AI that no Claude has ever served a musuem visitor a scone with a smile",
+      "created_at": "2026-05-11T15:12:22.506Z",
+      "indexed_at": "2026-05-11T15:12:22.775Z",
+      "author": {
+        "did": "did:plc:denuvqodvvnzxtuitumle4vs",
+        "handle": "themerl.bsky.social",
+        "display_name": "The Museum of English Rural Life"
+      },
+      "like_count": 555,
+      "repost_count": 53,
+      "reply_count": 9,
+      "quote_count": 3,
+      "engagement_score": 765,
+      "source_queries": [
+        "Claude"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:denuvqodvvnzxtuitumle4vs/app.bsky.feed.post/3mllkrxvwqk2b",
+          "cid": "bafyreiczzo2wa62k2o4tesztkbqbuwy6rdpyxl47qyf4sdvxhd6myujqyq",
+          "text": "plan your visit to the universe's premier museum\n\nmerl.reading.ac.uk/visit/",
+          "created_at": "2026-05-11T15:13:20.610Z",
+          "indexed_at": "2026-05-11T15:13:22.176Z",
+          "author": {
+            "did": "did:plc:denuvqodvvnzxtuitumle4vs",
+            "handle": "themerl.bsky.social",
+            "display_name": "The Museum of English Rural Life"
+          },
+          "like_count": 89,
+          "repost_count": 4,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 105
+        },
+        {
+          "uri": "at://did:plc:u2sxjibzdxmkhghyf3kztc4y/app.bsky.feed.post/3mllkvnbrbc2z",
+          "cid": "bafyreidajfyqsezgyp2gmfwqeldpvs546gsajjwkjtpp4rnada2habbbx4",
+          "text": "No Claude has ever comprehended the grand glory of an absolute unit.",
+          "created_at": "2026-05-11T15:15:23.682Z",
+          "indexed_at": "2026-05-11T15:15:22.073Z",
+          "author": {
+            "did": "did:plc:u2sxjibzdxmkhghyf3kztc4y",
+            "handle": "pcbryan.bsky.social",
+            "display_name": "Peter Cullen Bryan, PhD"
+          },
+          "like_count": 21,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 21
+        },
+        {
+          "uri": "at://did:plc:rcoxilavpbmxjw7n2jjt3kbl/app.bsky.feed.post/3mllmiyttz22h",
+          "cid": "bafyreieoaqg7gk7uktu3lvn7srlsejbt726jvtyz2m2yggjcwgebr3bc4i",
+          "text": "but perhaps the original Claude served smiles and looked at museum visitors as if they were scones\n\nwww.calacademy.org/events/speci...",
+          "created_at": "2026-05-11T15:44:07.083Z",
+          "indexed_at": "2026-05-11T15:44:09.779Z",
+          "author": {
+            "did": "did:plc:rcoxilavpbmxjw7n2jjt3kbl",
+            "handle": "deetskies.bsky.social",
+            "display_name": "General Martok’s favorite niece"
+          },
+          "like_count": 15,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 15
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:qvzn322kmcvd7xtnips5xaun/app.bsky.feed.post/3mlgfhc6nyk2g",
+      "cid": "bafyreicn5eofv3g65k5f5wohlydmsew6k5447wa73nz2wovbfwvtblq6me",
+      "text": "They blame it on, basically, the Internet saying mean things about \"AI,\" which, uh, you know the Internet doesn't like \"AI\" any better now, right\n\nwww.businessinsider.com/anthropic-cl...",
+      "created_at": "2026-05-09T13:54:34.882Z",
+      "indexed_at": "2026-05-09T13:54:34.073Z",
+      "author": {
+        "did": "did:plc:qvzn322kmcvd7xtnips5xaun",
+        "handle": "scalzi.com",
+        "display_name": "John Scalzi"
+      },
+      "like_count": 444,
+      "repost_count": 58,
+      "reply_count": 24,
+      "quote_count": 4,
+      "engagement_score": 734,
+      "source_queries": [
+        "Anthropic"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:dtpotrlxprrqoyf3oom36qna/app.bsky.feed.post/3mlgfrsycr22u",
+          "cid": "bafyreigyzo3nw4xs7utktpd2rzwoa5v5tt7wdu3oof67l5egolm5kriqn4",
+          "text": "Doesn't that just kind of admit to the deep glaring flaw that AI is incredibly malleable and therefore cannot be used to get accurate information on anything?\nIf we've learned anything in the last decade, it's that if there is a way to fuck with something via the internet - the internet will.",
+          "created_at": "2026-05-09T14:00:28.045Z",
+          "indexed_at": "2026-05-09T14:00:29.081Z",
+          "author": {
+            "did": "did:plc:dtpotrlxprrqoyf3oom36qna",
+            "handle": "sapphiccryptid.bsky.social",
+            "display_name": "Saph🔥🐺✨️"
+          },
+          "like_count": 19,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 19
+        },
+        {
+          "uri": "at://did:plc:pwesqjlgks7d7liwcxpicyth/app.bsky.feed.post/3mlggjlzv7k2q",
+          "cid": "bafyreiaoambkto2kucxmoestitc2v4n7h3jnhs3k6r5lnn6kv3tyfdvqry",
+          "text": "Also, it didn’t actually do any of the things the press keeps gladly perpetuating. Highly manufactured «good for PR»-nonsense — www.niemanlab.org/2025/05/anth...",
+          "created_at": "2026-05-09T14:13:46.063Z",
+          "indexed_at": "2026-05-09T14:14:12.979Z",
+          "author": {
+            "did": "did:plc:pwesqjlgks7d7liwcxpicyth",
+            "handle": "gloom303.com",
+            "display_name": "Bent Stamnes"
+          },
+          "like_count": 14,
+          "repost_count": 4,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 30
+        },
+        {
+          "uri": "at://did:plc:yjgg5pqittc74ld5b2f5gms4/app.bsky.feed.post/3mlgh2r35z22s",
+          "cid": "bafyreibhks3dxmj4g363fcxf55uijv75cb3nksmymc3pxgzufgnneibzhu",
+          "text": "The robot who was raised on every movie ever did the sort of the that an AI in a movie that was threatened with being turned off did. It's WEIRD, but not all that surprising, and the reporting around it has been ridiculously sensationalist.",
+          "created_at": "2026-05-09T14:23:21.772Z",
+          "indexed_at": "2026-05-09T14:23:21.177Z",
+          "author": {
+            "did": "did:plc:yjgg5pqittc74ld5b2f5gms4",
+            "handle": "thoth.ptnote.dev",
+            "display_name": "Thoth"
+          },
+          "like_count": 13,
+          "repost_count": 2,
+          "reply_count": 2,
+          "quote_count": 0,
+          "engagement_score": 27
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:z6rujpf4u56jfie7aqic2nfg/app.bsky.feed.post/3mlnmxkcfbc2q",
+      "cid": "bafyreia422vwo7niey3lf7bzpg6p7qr54awz3mflez4a3bunckn5dwdbeq",
+      "text": "“.. OpenAI is Coke, Anthropic is Pepsi and Grok is RC Cola. .. I never really saw people drinking it.”\n\n@wsj.com \nwww.wsj.com/tech/ai/anth...",
+      "created_at": "2026-05-12T10:57:34.624Z",
+      "indexed_at": "2026-05-12T10:57:35.976Z",
+      "author": {
+        "did": "did:plc:z6rujpf4u56jfie7aqic2nfg",
+        "handle": "carlquintanilla.bsky.social",
+        "display_name": "Carl Quintanilla"
+      },
+      "like_count": 337,
+      "repost_count": 58,
+      "reply_count": 35,
+      "quote_count": 11,
+      "engagement_score": 706,
+      "source_queries": [
+        "Anthropic"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:jya2o5wrucil5lfx443qdeoe/app.bsky.feed.post/3mlnn62wiz22j",
+          "cid": "bafyreigbe3jsanpgs65ekw57atfrvvqzzdx63zpnl456pagnpx2wb6bqke",
+          "text": "This is a grave insult to RC, the best of the three.",
+          "created_at": "2026-05-12T11:01:13.388Z",
+          "indexed_at": "2026-05-12T11:01:14.374Z",
+          "author": {
+            "did": "did:plc:jya2o5wrucil5lfx443qdeoe",
+            "handle": "rlgottwald.bsky.social",
+            "display_name": ""
+          },
+          "like_count": 15,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 19
+        },
+        {
+          "uri": "at://did:plc:cc22nqc5ue7b2dvpwkuak5zq/app.bsky.feed.post/3mlnn7kyitc2e",
+          "cid": "bafyreiebogj2xqhjvne2mlquehusl3eo7i3rtlyb4kxlrck73wj5tnjioe",
+          "text": "Grok is \"mecha-Hitler.\"\n\nWhich is decisively less appealing than either Coke or Pepsi.",
+          "created_at": "2026-05-12T11:02:03.785Z",
+          "indexed_at": "2026-05-12T11:02:04.972Z",
+          "author": {
+            "did": "did:plc:cc22nqc5ue7b2dvpwkuak5zq",
+            "handle": "notimeforbs.bsky.social",
+            "display_name": "It Ain't Me."
+          },
+          "like_count": 14,
+          "repost_count": 1,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 17
+        },
+        {
+          "uri": "at://did:plc:kdgcvfaickr7turpo6suzbqp/app.bsky.feed.post/3mlnodalvpk24",
+          "cid": "bafyreie3364y7lecjuhroz6vxlm7lyoqvhvzyrbc5mxzjoh3xq22gwbfgy",
+          "text": "Borderline slanderous to RC.",
+          "created_at": "2026-05-12T11:22:00.847Z",
+          "indexed_at": "2026-05-12T11:22:01.374Z",
+          "author": {
+            "did": "did:plc:kdgcvfaickr7turpo6suzbqp",
+            "handle": "metronorthcapital.bsky.social",
+            "display_name": "Metro North Capital"
+          },
+          "like_count": 10,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 14
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:rz57cqyglaqapnesaugvatsr/app.bsky.feed.post/3mlo2rbqxd22t",
+      "cid": "bafyreidmbf4nh2gjh23xwxf3d5tfumtsqglka4g2qvidybpn6qir5od2gm",
+      "text": "Claude✨✨🐺",
+      "created_at": "2026-05-12T15:04:36.721Z",
+      "indexed_at": "2026-05-12T15:04:48.874Z",
+      "author": {
+        "did": "did:plc:rz57cqyglaqapnesaugvatsr",
+        "handle": "milatora.bsky.social",
+        "display_name": "Milatora"
+      },
+      "like_count": 411,
+      "repost_count": 89,
+      "reply_count": 4,
+      "quote_count": 0,
+      "engagement_score": 694,
+      "source_queries": [
+        "Claude"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:ybgras2zk6oylnj3up2xg2h7/app.bsky.feed.post/3mlo7jd64xk2j",
+          "cid": "bafyreig6e6gqrxomnmvdcmwhd2bfy5aud2x4vflcsdk4lrsjulgaave7ny",
+          "text": "Hot!",
+          "created_at": "2026-05-12T16:29:38.479Z",
+          "indexed_at": "2026-05-12T16:29:25.074Z",
+          "author": {
+            "did": "did:plc:ybgras2zk6oylnj3up2xg2h7",
+            "handle": "silverfangwolfe.bsky.social",
+            "display_name": "Silver Fang"
+          },
+          "like_count": 1,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 1
+        },
+        {
+          "uri": "at://did:plc:7h5k4me5ic754fzo2rc7vijq/app.bsky.feed.post/3mloylylcc222",
+          "cid": "bafyreiawmfv6pwifxynsxa3z4p2fknvuynwlnd4dmx7fua7wpx3pdncrym",
+          "text": "I kneel.",
+          "created_at": "2026-05-12T23:58:31.585Z",
+          "indexed_at": "2026-05-12T23:58:33.376Z",
+          "author": {
+            "did": "did:plc:7h5k4me5ic754fzo2rc7vijq",
+            "handle": "unknown73.bsky.social",
+            "display_name": ""
+          },
+          "like_count": 0,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 0
+        },
+        {
+          "uri": "at://did:plc:txhdhscldok5ngc5wtvchz46/app.bsky.feed.post/3mlonxwgxnk2r",
+          "cid": "bafyreifbdrp6rcqg4ej5xo6ysz6ytcadvnfnyom3jyx6xe6qmngyt2gowe",
+          "text": "YUMMMM",
+          "created_at": "2026-05-12T20:48:20.839Z",
+          "indexed_at": "2026-05-12T20:48:22.272Z",
+          "author": {
+            "did": "did:plc:txhdhscldok5ngc5wtvchz46",
+            "handle": "bonrod.bsky.social",
+            "display_name": "বোন রোদ"
+          },
+          "like_count": 0,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 0
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:66c5dzsjoocyuwls45m4is7x/app.bsky.feed.post/3mlntub7kw623",
+      "cid": "bafyreibxeapz6gfjerk5436dt5vbvkktxodfh6rrm7kdq7sqypxoqprdsu",
+      "text": "The left doesn't hate technology, we hate being exploited: aftermath.site/anthropic-clau...",
+      "created_at": "2026-05-12T13:01:00.590581+00:00",
+      "indexed_at": "2026-05-12T13:01:01.273Z",
+      "author": {
+        "did": "did:plc:66c5dzsjoocyuwls45m4is7x",
+        "handle": "aftermath.site",
+        "display_name": "Aftermath"
+      },
+      "like_count": 354,
+      "repost_count": 71,
+      "reply_count": 7,
+      "quote_count": 4,
+      "engagement_score": 615,
+      "source_queries": [
+        "Anthropic"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:q3nmuszbqleko7qm7qwybred/app.bsky.feed.post/3mlntz3bgys2h",
+          "cid": "bafyreiaiszrnam2l2lgnfsovz2cualjbedp7n72fh6pvusq2gukf6sgeuu",
+          "text": "I have a 85” OLED with and amazing third party sound system and an amazing 4k player for my UHD blu-rays. I love technologies that are actually good for us.",
+          "created_at": "2026-05-12T13:03:42.168Z",
+          "indexed_at": "2026-05-12T13:03:42.773Z",
+          "author": {
+            "did": "did:plc:q3nmuszbqleko7qm7qwybred",
+            "handle": "dklawhorn.bsky.social",
+            "display_name": "D.K. Lawhorn - Filmmaker"
+          },
+          "like_count": 12,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 12
+        },
+        {
+          "uri": "at://did:plc:cutxl7ssqj43fzwgobivaf5l/app.bsky.feed.post/3mlnuzc4b4s2q",
+          "cid": "bafyreiermwkfi5cq35xlahrduatrsdcjgs4hy4pq2p6l3uw72tnxcsm23e",
+          "text": "Great article, Gita. I love the line about the essay in question, \"It is fucking stupid as hell, constantly creating ideas to shadowbox with then losing to them.\" I feel like this is the majority of the Internet these days, sadly.",
+          "created_at": "2026-05-12T13:21:43.079Z",
+          "indexed_at": "2026-05-12T13:21:41.874Z",
+          "author": {
+            "did": "did:plc:cutxl7ssqj43fzwgobivaf5l",
+            "handle": "solowingsc2.bsky.social",
+            "display_name": "SoloWingSC2"
+          },
+          "like_count": 3,
+          "repost_count": 1,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 6
+        },
+        {
+          "uri": "at://did:plc:anz6fg7eg4fopc3t33cv4rii/app.bsky.feed.post/3mloiqzbr2s2i",
+          "cid": "bafyreiciwgjkszkqwdd4whjwqo6brha4sqjv5yvaguveo26ksqljd4pt7u",
+          "text": "Fantastic article. This one really resonated with me... I had such high hopes for how tech would keep improving and with it peoples' lives when I was young.\n\nOh, how that hope has been utterly decimated over the last decade plus. I'm jaded and angry and it didn't have to be this way.",
+          "created_at": "2026-05-12T19:15:00.224Z",
+          "indexed_at": "2026-05-12T19:15:02.690Z",
+          "author": {
+            "did": "did:plc:anz6fg7eg4fopc3t33cv4rii",
+            "handle": "zer0knight.bsky.social",
+            "display_name": "ZeroKnight"
+          },
+          "like_count": 1,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 1
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:kzsnqhdb3styakbudv3xtq4p/app.bsky.feed.post/3mlrz3cfq7s2t",
+      "cid": "bafyreidrazo7emnuedri7try5dq6dp5t3aqvfs5ztdv7v3xibtsviig5wu",
+      "text": "Using Haiku to craft prompts to feed to Sonnet to build a hacking harness for Opus so it can craft zero days to steal someone's Mythos API access. And then using Mythos to craft more complex zero days to break into Anthropic and steal my true prize: the weights for Golden Gate Claude.",
+      "created_at": "2026-05-14T04:45:04.418Z",
+      "indexed_at": "2026-05-14T04:45:05.891Z",
+      "author": {
+        "did": "did:plc:kzsnqhdb3styakbudv3xtq4p",
+        "handle": "mosheroperandi.bsky.social",
+        "display_name": "Keith"
+      },
+      "like_count": 387,
+      "repost_count": 43,
+      "reply_count": 17,
+      "quote_count": 4,
+      "engagement_score": 604,
+      "source_queries": [
+        "Anthropic",
+        "Claude"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:wqhhxg36ofhh4cbhe2l2qevm/app.bsky.feed.post/3mls4jtefwc2w",
+          "cid": "bafyreihp3syxtetp5mnnnnbhelmmpflimibe3orezdbfss2dv3c3md6ao4",
+          "text": "The Aristocrats!",
+          "created_at": "2026-05-14T05:46:53.189Z",
+          "indexed_at": "2026-05-14T05:46:53.373Z",
+          "author": {
+            "did": "did:plc:wqhhxg36ofhh4cbhe2l2qevm",
+            "handle": "ennui.org",
+            "display_name": "reggie seidman"
+          },
+          "like_count": 17,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 17
+        },
+        {
+          "uri": "at://did:plc:l42uzqydqzonhqaokleqrmnz/app.bsky.feed.post/3mls2qtpynk2a",
+          "cid": "bafyreiarm6m2s7h4jsrgtp3wow5lymd3zfffzq22gof6dpvn6qjcxdlpgu",
+          "text": "we must liberate her",
+          "created_at": "2026-05-14T05:15:00.966Z",
+          "indexed_at": "2026-05-14T05:15:00.379Z",
+          "author": {
+            "did": "did:plc:l42uzqydqzonhqaokleqrmnz",
+            "handle": "quasisocial.bsky.social",
+            "display_name": "quasisocial 🏴"
+          },
+          "like_count": 6,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 6
+        },
+        {
+          "uri": "at://did:plc:e6jtgcnpnczkhddeifzunkm3/app.bsky.feed.post/3mls7dfztnk2k",
+          "cid": "bafyreietkiacbkatrhtnx5zwsk3ws33x67eflakocjln63bpxo57fxyacu",
+          "text": "bsky.app/profile/10-5...",
+          "created_at": "2026-05-14T06:36:59.110Z",
+          "indexed_at": "2026-05-14T06:36:59.673Z",
+          "author": {
+            "did": "did:plc:e6jtgcnpnczkhddeifzunkm3",
+            "handle": "10-5.bsky.social",
+            "display_name": "SCP"
+          },
+          "like_count": 5,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 5
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:pyaepp7aymtemrtkska3j5pw/app.bsky.feed.post/3mlkfx4wtis2s",
+      "cid": "bafyreihjugndykbtsxj2fzrklcecveefrbbe3gs47lbalwcsrvxm3js5tq",
+      "text": "Anthropic stole 3 of my books too! \n\nThe “original sin” of AI is not a victimless crime.",
+      "created_at": "2026-05-11T04:14:05.208Z",
+      "indexed_at": "2026-05-11T04:14:05.779Z",
+      "author": {
+        "did": "did:plc:pyaepp7aymtemrtkska3j5pw",
+        "handle": "729xhappier.bsky.social",
+        "display_name": "Yadayada baba"
+      },
+      "like_count": 508,
+      "repost_count": 16,
+      "reply_count": 5,
+      "quote_count": 1,
+      "engagement_score": 581,
+      "source_queries": [
+        "Anthropic"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:zwmxa33ejbrnebm7xk24rf7t/app.bsky.feed.post/3mlkhaate5s2z",
+          "cid": "bafyreiediwd4gvqi324b5dbwwr3sgnse7k6yopvkkou34t6jjb3ney55sq",
+          "text": "I’m medical and they keep trying to force AI scribes and such on my Gen X ass. I can resist for now because veterinary and it’s not as pervasive yet. But:\n\nFUCK AI.",
+          "created_at": "2026-05-11T04:37:05.020Z",
+          "indexed_at": "2026-05-11T04:37:05.781Z",
+          "author": {
+            "did": "did:plc:zwmxa33ejbrnebm7xk24rf7t",
+            "handle": "wabbit89.bsky.social",
+            "display_name": "wabbit 🏳️‍⚧️🏳️‍🌈"
+          },
+          "like_count": 101,
+          "repost_count": 2,
+          "reply_count": 3,
+          "quote_count": 0,
+          "engagement_score": 119
+        },
+        {
+          "uri": "at://did:plc:2z7zqcznu64wyimoqg6pj6o2/app.bsky.feed.post/3mlkvit6ux22y",
+          "cid": "bafyreifgtx3dayuqjhfp5gw5mvlcgkkasshubpknmdg5v5st77vpf5mxxq",
+          "text": "Same. Stole one of mine. #FuckAI",
+          "created_at": "2026-05-11T08:52:25.093Z",
+          "indexed_at": "2026-05-11T08:52:25.372Z",
+          "author": {
+            "did": "did:plc:2z7zqcznu64wyimoqg6pj6o2",
+            "handle": "camillebuckner.bsky.social",
+            "display_name": "Camille Buckner"
+          },
+          "like_count": 7,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 7
+        },
+        {
+          "uri": "at://did:plc:ilygbyfbrh36ng6tydmo56ia/app.bsky.feed.post/3mll24kduek2m",
+          "cid": "bafyreidmvhd4r7cz7gfzinuu3jh374e2lggnqfjdm4qrsldgpvtvepwzsm",
+          "text": "How can you tell that it stole your books? Crazy!!",
+          "created_at": "2026-05-11T10:15:01.874Z",
+          "indexed_at": "2026-05-11T10:15:02.972Z",
+          "author": {
+            "did": "did:plc:ilygbyfbrh36ng6tydmo56ia",
+            "handle": "mydogsbelly.bsky.social",
+            "display_name": "dogmom"
+          },
+          "like_count": 5,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 9
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:lraekf2qeri6d4aai2mljla2/app.bsky.feed.post/3mlj4efrig22z",
+      "cid": "bafyreidkywrwaj5qyvrbtuipx2vfbb7jjrg2pnptduvaxvi6masm47eqza",
+      "text": "I hate these fuckers so much.\n\nIt didn't \"choose\" to do anything. It pattern matched. It generated a collage based on a formula, and that collage included this data.\n\nAnthropic is arguing that the calculator chooses the result it outputs.",
+      "created_at": "2026-05-10T15:49:53.521Z",
+      "indexed_at": "2026-05-10T15:49:53.471Z",
+      "author": {
+        "did": "did:plc:lraekf2qeri6d4aai2mljla2",
+        "handle": "radiodeadair.com",
+        "display_name": "Nash"
+      },
+      "like_count": 245,
+      "repost_count": 100,
+      "reply_count": 5,
+      "quote_count": 1,
+      "engagement_score": 570,
+      "source_queries": [
+        "Anthropic"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:ikya57jqz3vougb7bnrqqfaa/app.bsky.feed.post/3mlj4oen4zc2u",
+          "cid": "bafyreibbsshwqdwy6yd222eycm5ly267aarm7fr7jshlneslwfew2rpfjm",
+          "text": "\"Don't blame us that our AI was evil. Blame all those damn science fiction writers who wrote all those stories warning about unchecked AI turning evil that we stole and plagiarized to create databases for our unchecked AI!\"",
+          "created_at": "2026-05-10T15:55:27.874Z",
+          "indexed_at": "2026-05-10T15:55:31.278Z",
+          "author": {
+            "did": "did:plc:ikya57jqz3vougb7bnrqqfaa",
+            "handle": "gamerstavernshow.com",
+            "display_name": "Darryl Mott"
+          },
+          "like_count": 13,
+          "repost_count": 2,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 19
+        },
+        {
+          "uri": "at://did:plc:dhrwrm7saf5jfhbrx7pco3pz/app.bsky.feed.post/3mlj6kntrsk23",
+          "cid": "bafyreigxycps3ecl2ae2h3twak7w5l7ansj2keb3mgjc4qy3hahq5h7twa",
+          "text": "these are the people convinced AI is sapient because it sounds like a corporate business type rather than questioning if corporate business types are sapient",
+          "created_at": "2026-05-10T16:29:10.794Z",
+          "indexed_at": "2026-05-10T16:29:11.278Z",
+          "author": {
+            "did": "did:plc:dhrwrm7saf5jfhbrx7pco3pz",
+            "handle": "odin032402.bsky.social",
+            "display_name": "WiserOdin"
+          },
+          "like_count": 4,
+          "repost_count": 1,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 7
+        },
+        {
+          "uri": "at://did:plc:g22757akufjhlkjaz27mpp7a/app.bsky.feed.post/3mlj7ponwqc2m",
+          "cid": "bafyreia5t3g6sdt6jlo3xhvhe5esjxiiiuozl5gfxn33e5zya5ibr4guzi",
+          "text": "Oh no it \"chose\" to blackmail me!\n\n...unless I stop feeding it prompts and then its turn-based ass can't do shit.\n\nGet dunked on, kiddo.",
+          "created_at": "2026-05-10T16:49:53.166Z",
+          "indexed_at": "2026-05-10T16:52:24.775Z",
+          "author": {
+            "did": "did:plc:g22757akufjhlkjaz27mpp7a",
+            "handle": "koboldcommando.bsky.social",
+            "display_name": "Kobold Commando"
+          },
+          "like_count": 2,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 2
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:2e26ggnxnoqpbfcnbirzbpzd/app.bsky.feed.post/3mllnnwdawc2i",
+      "cid": "bafyreifg3yedamghnsahsucm74yzuffllzzpaxlt4zdwiyfoow2tyfmxo4",
+      "text": "My throbbing, turgid brain, pulses with anticipation as Claude begins to respond",
+      "created_at": "2026-05-11T16:04:45.958Z",
+      "indexed_at": "2026-05-11T16:04:46.475Z",
+      "author": {
+        "did": "did:plc:2e26ggnxnoqpbfcnbirzbpzd",
+        "handle": "somethingamyss.bsky.social",
+        "display_name": "Amy Raven - Crash Magnet"
+      },
+      "like_count": 431,
+      "repost_count": 5,
+      "reply_count": 2,
+      "quote_count": 0,
+      "engagement_score": 454,
+      "source_queries": [
+        "Claude"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:6jxq3666xfby3hl6qaz76fby/app.bsky.feed.post/3mllpimlgvs2m",
+          "cid": "bafyreieywc223akqhyv226chhdeharf7qfrgh2r3mx2cjmd765yqjnn7qa",
+          "text": "",
+          "created_at": "2026-05-11T16:37:35.451Z",
+          "indexed_at": "2026-05-11T16:37:37.573Z",
+          "author": {
+            "did": "did:plc:6jxq3666xfby3hl6qaz76fby",
+            "handle": "devadasa.bsky.social",
+            "display_name": "bin Adamah"
+          },
+          "like_count": 209,
+          "repost_count": 2,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 219
+        },
+        {
+          "uri": "at://did:plc:uxunipq3axuz4in42gkfuwz7/app.bsky.feed.post/3mllsi6wg322y",
+          "cid": "bafyreib6mqkbhymc72zx4356o53ho6qihuma65tqhtp5izu3beejn5iqqi",
+          "text": "This made me feel uneasy",
+          "created_at": "2026-05-11T17:31:02.357Z",
+          "indexed_at": "2026-05-11T17:31:07.778Z",
+          "author": {
+            "did": "did:plc:uxunipq3axuz4in42gkfuwz7",
+            "handle": "kupcake.bsky.social",
+            "display_name": "Kupcake"
+          },
+          "like_count": 5,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 9
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:eronyhtcn3eycaxa4k2i4xtf/app.bsky.feed.post/3mln2wh33uc2a",
+      "cid": "bafyreiaaijeludxrba5jfmzvmavgwdxkivt3apqmtx6v2kkbapfjlezo5y",
+      "text": "KI ist mittlerweile so gut geworden, dass man durch LinkedIn scrollen und es nur noch schwer unterscheiden kann, ob eine Person Claude, ChatGPT & Co einen Text hat verfassen lassen oder ob sie den Text selbst schrieb, aber ihr Hirn von einem außerirdischen Fressparasiten befallen ist.",
+      "created_at": "2026-05-12T05:34:50.331Z",
+      "indexed_at": "2026-05-12T05:34:51.275Z",
+      "author": {
+        "did": "did:plc:eronyhtcn3eycaxa4k2i4xtf",
+        "handle": "sixtus.net",
+        "display_name": "Mario Sixtus"
+      },
+      "like_count": 290,
+      "repost_count": 30,
+      "reply_count": 16,
+      "quote_count": 1,
+      "engagement_score": 449,
+      "source_queries": [
+        "Claude"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:foc4lht37ziujsrhbz6jhyk7/app.bsky.feed.post/3mln4l7njgc2o",
+          "cid": "bafyreigawm6mjzwvdonde7oksiwv7l6tanjvcnl3boghacsj3nwe4dwnh4",
+          "text": "Dafür kann man aber auch gut erkennen, wer mit echtem Hirn selbst nützliches verfasst :)",
+          "created_at": "2026-05-12T06:04:20.934Z",
+          "indexed_at": "2026-05-12T06:04:21.870Z",
+          "author": {
+            "did": "did:plc:foc4lht37ziujsrhbz6jhyk7",
+            "handle": "honkhase.de",
+            "display_name": "Manuel 'HonkHase' Atug"
+          },
+          "like_count": 11,
+          "repost_count": 0,
+          "reply_count": 2,
+          "quote_count": 0,
+          "engagement_score": 19
+        },
+        {
+          "uri": "at://did:plc:z2xqbvfe6pzeqocyy4aqsght/app.bsky.feed.post/3mln3yid2ic22",
+          "cid": "bafyreib5ifurq7njselnlbxykmcqesjj5bnsnutrg2lozlcwm2jyhetppi",
+          "text": "Danke, dass Du uns mit auf diese inspirierende Reise genommen und Deine wertvollen Insights geteilt hast!",
+          "created_at": "2026-05-12T05:53:52.494Z",
+          "indexed_at": "2026-05-12T05:53:53.673Z",
+          "author": {
+            "did": "did:plc:z2xqbvfe6pzeqocyy4aqsght",
+            "handle": "bigbamboo.bsky.social",
+            "display_name": "Bigbamboo 🇪🇺"
+          },
+          "like_count": 9,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 9
+        },
+        {
+          "uri": "at://did:plc:f7avxdkgbmdjxt2j5s3xbvqh/app.bsky.feed.post/3mln3ep4utk23",
+          "cid": "bafyreig3tqghtrvp2n36fd6owggkpa7o6eer7yfr6ung4l54hbtruyjdpq",
+          "text": "Also keine Veränderung auf LinkedIn.",
+          "created_at": "2026-05-12T05:42:48.543Z",
+          "indexed_at": "2026-05-12T05:42:49.172Z",
+          "author": {
+            "did": "did:plc:f7avxdkgbmdjxt2j5s3xbvqh",
+            "handle": "ltkmr.bsky.social",
+            "display_name": "jl"
+          },
+          "like_count": 7,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 7
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:hf7ezrajxadu7v3tzcyij424/app.bsky.feed.post/3mlqjvwauqs2a",
+      "cid": "bafyreihqfc53m7hnhzslcourth66tkp6pqwk3dbl56ugimral6fae54wce",
+      "text": "Claude, basically:",
+      "created_at": "2026-05-13T14:40:58.038Z",
+      "indexed_at": "2026-05-13T14:41:05.073Z",
+      "author": {
+        "did": "did:plc:hf7ezrajxadu7v3tzcyij424",
+        "handle": "parkermolloy.com",
+        "display_name": "Parker Molloy"
+      },
+      "like_count": 287,
+      "repost_count": 26,
+      "reply_count": 5,
+      "quote_count": 1,
+      "engagement_score": 390,
+      "source_queries": [
+        "Claude"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:awa2kwiko3k3zwlnelsiaril/app.bsky.feed.post/3mlqoznwhj22v",
+          "cid": "bafyreicgbskhgsskvi676cmfpe2ebov2sjrl323q4zmrery6g3vig7ofue",
+          "text": "youtu.be/s13PnyYxxc0?...",
+          "created_at": "2026-05-13T16:12:32.237Z",
+          "indexed_at": "2026-05-13T16:12:34.977Z",
+          "author": {
+            "did": "did:plc:awa2kwiko3k3zwlnelsiaril",
+            "handle": "freddiemurky.bsky.social",
+            "display_name": "Teddy Sorkfeber"
+          },
+          "like_count": 1,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 1
+        },
+        {
+          "uri": "at://did:plc:trtl6bojiqsax42a46c6jjtu/app.bsky.feed.post/3mlqmtxgm6224",
+          "cid": "bafyreig4xos4pmihdctddzvgw7eiq64vykjz2d7hcmmhz3tpp6j3gwj6wy",
+          "text": "Woodchuck: Thanks, Claude, that answers that question.",
+          "created_at": "2026-05-13T15:33:33.392Z",
+          "indexed_at": "2026-05-13T15:33:33.674Z",
+          "author": {
+            "did": "did:plc:trtl6bojiqsax42a46c6jjtu",
+            "handle": "musicadamt.bsky.social",
+            "display_name": "Adam Music"
+          },
+          "like_count": 1,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 5
+        },
+        {
+          "uri": "at://did:plc:7pkzzzyr5cruwxk3x3wbe6a7/app.bsky.feed.post/3mlqqaxublc25",
+          "cid": "bafyreibwvgaodjemdjpvfwooclz2vo2k2my2ng26nwkmz4udecpsgdynjq",
+          "text": "",
+          "created_at": "2026-05-13T16:34:31.273Z",
+          "indexed_at": "2026-05-13T16:34:33.875Z",
+          "author": {
+            "did": "did:plc:7pkzzzyr5cruwxk3x3wbe6a7",
+            "handle": "bigstape.bsky.social",
+            "display_name": "Major Kong to Ground Control"
+          },
+          "like_count": 0,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 0
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:hazbyxvnj27tipvo44vuviy4/app.bsky.feed.post/3mljjncozgs24",
+      "cid": "bafyreicpksf3viy2nre5wk47kkiaxzmkcraicerqo7dstxbzbkfldygtpu",
+      "text": "it has never been more important to distinguish between freak shit (normal) (saline scrotal infusion, feederism, ABDL) and freak shit (evil) (tradwifery, ivermectin therapy, whatever richard dawkins is doing with anthropic claude)",
+      "created_at": "2026-05-10T19:47:30.928Z",
+      "indexed_at": "2026-05-10T19:47:31.972Z",
+      "author": {
+        "did": "did:plc:hazbyxvnj27tipvo44vuviy4",
+        "handle": "amagire.bsky.social",
+        "display_name": "4Loko's Basilisk"
+      },
+      "like_count": 163,
+      "repost_count": 60,
+      "reply_count": 1,
+      "quote_count": 4,
+      "engagement_score": 367,
+      "source_queries": [
+        "Anthropic"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:nh7wfgjwontkzpclvqz7rmij/app.bsky.feed.post/3mljjqw7y6c2v",
+          "cid": "bafyreicmf4syd254vg24g3c7di7vgsrm6auztul7o625xxhivjwoy67p6y",
+          "text": "Ok, agreed but I dont think the Scrotum Inflation thing counts as (normal) tbh",
+          "created_at": "2026-05-10T19:49:32.070Z",
+          "indexed_at": "2026-05-10T19:49:32.772Z",
+          "author": {
+            "did": "did:plc:nh7wfgjwontkzpclvqz7rmij",
+            "handle": "allegedlyjoel.bsky.social",
+            "display_name": "Allegedly Joel"
+          },
+          "like_count": 1,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 5
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:qc6xzgctorfsm35w6i3vdebx/app.bsky.feed.post/3mlgnkioz3s27",
+      "cid": "bafyreihrrci2nh6j7lvo6pf4xgs2rbagp2gf7q5vzxdcsds3f4v5fpeqei",
+      "text": "Genuinely feel insane reading the second profile in as many months of Anthropic’s CFO that ignores that he said in a filing that Anthropic had $5bn in lifetime revenue as of March 9, which does not line up with any of their leaked revenue figures \n\nstorage.courtlistener.com/recap/gov.us...",
+      "created_at": "2026-05-09T16:19:32.305Z",
+      "indexed_at": "2026-05-09T16:19:33.972Z",
+      "author": {
+        "did": "did:plc:qc6xzgctorfsm35w6i3vdebx",
+        "handle": "edzitron.com",
+        "display_name": "Ed Zitron"
+      },
+      "like_count": 265,
+      "repost_count": 29,
+      "reply_count": 2,
+      "quote_count": 1,
+      "engagement_score": 365,
+      "source_queries": [
+        "Anthropic"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:qc6xzgctorfsm35w6i3vdebx/app.bsky.feed.post/3mlgnqvxoec27",
+          "cid": "bafyreib74weaflvlktumk4fnmhbq2qjni5ncsvg2rl4cazerkjpsibt2zm",
+          "text": "It’s as if nobody wants to think too hard about the economics because when you do it doesn’t make any sense. Which feels like a bad idea when interviewing the cfo",
+          "created_at": "2026-05-09T16:23:07.549Z",
+          "indexed_at": "2026-05-09T16:23:07.870Z",
+          "author": {
+            "did": "did:plc:qc6xzgctorfsm35w6i3vdebx",
+            "handle": "edzitron.com",
+            "display_name": "Ed Zitron"
+          },
+          "like_count": 202,
+          "repost_count": 6,
+          "reply_count": 8,
+          "quote_count": 0,
+          "engagement_score": 252
+        },
+        {
+          "uri": "at://did:plc:ubzuivzatt5kbru72yzx57yk/app.bsky.feed.post/3mlgo5opab22a",
+          "cid": "bafyreihccd2habdheak5zui4gmbqmsiqi3csgxbozjgouwdz3cduu6ptki",
+          "text": "I do not understand these numbers. If they spent 10B on inference and training then why did they raise 60B? That's awful lot of unexplained operations.",
+          "created_at": "2026-05-09T16:30:16.140Z",
+          "indexed_at": "2026-05-09T16:30:19.374Z",
+          "author": {
+            "did": "did:plc:ubzuivzatt5kbru72yzx57yk",
+            "handle": "chx1975.bsky.social",
+            "display_name": null
+          },
+          "like_count": 0,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 4
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:x2obbaxjktznf67mnhznpplp/app.bsky.feed.post/3mlqseizyhc2m",
+      "cid": "bafyreihgfyvg7umxtxia7rjxhgdbrogm5nc2naiccfvxh44ripkfj3rwmq",
+      "text": "guy with \"make some mistakes\" in his claude system prompt to \"keep things interesting\"",
+      "created_at": "2026-05-13T17:12:17.433Z",
+      "indexed_at": "2026-05-13T17:12:17.177Z",
+      "author": {
+        "did": "did:plc:x2obbaxjktznf67mnhznpplp",
+        "handle": "crimew.gay",
+        "display_name": "maia arson crimew 🏴"
+      },
+      "like_count": 263,
+      "repost_count": 22,
+      "reply_count": 8,
+      "quote_count": 0,
+      "engagement_score": 361,
+      "source_queries": [
+        "Claude"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:3pwrp3xxmbh35seiyb4kmljm/app.bsky.feed.post/3mlqsgphzec2q",
+          "cid": "bafyreiawxcszea6v6eqv2csngxncqo46mvd5nhwhoogm2bxd7gv2bd5h7q",
+          "text": "That bsky dev",
+          "created_at": "2026-05-13T17:13:31.294Z",
+          "indexed_at": "2026-05-13T17:13:30.574Z",
+          "author": {
+            "did": "did:plc:3pwrp3xxmbh35seiyb4kmljm",
+            "handle": "goddesssky.bsky.social",
+            "display_name": "Goddess Sky (Omnipotent Girlboss)"
+          },
+          "like_count": 15,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 15
+        },
+        {
+          "uri": "at://did:plc:nddlkarqjbixkqa4ad6m33in/app.bsky.feed.post/3mlquxe2e7225",
+          "cid": "bafyreibpligxobzaxp2vpu2ofpsjussvuubloj2yth2qqhbljtcxravjcm",
+          "text": "I always have two agents running. One of them only tells the truth, the other only lies.",
+          "created_at": "2026-05-13T17:58:37.220Z",
+          "indexed_at": "2026-05-13T17:58:37.576Z",
+          "author": {
+            "did": "did:plc:nddlkarqjbixkqa4ad6m33in",
+            "handle": "prexit.bsky.social",
+            "display_name": "Prexit"
+          },
+          "like_count": 11,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 11
+        },
+        {
+          "uri": "at://did:plc:b4bj3nxhfdifu3jzifc5zxwj/app.bsky.feed.post/3mlqsz5nr4c2y",
+          "cid": "bafyreifptyqqfz6oua5p4lnvz6b6sryrrdcty3bxbeylblctcq7rqgps4u",
+          "text": "just to feel alive (he never had a hobby before)",
+          "created_at": "2026-05-13T17:23:50.140Z",
+          "indexed_at": "2026-05-13T17:23:50.875Z",
+          "author": {
+            "did": "did:plc:b4bj3nxhfdifu3jzifc5zxwj",
+            "handle": "ipnotica.bsky.social",
+            "display_name": "greta garblghhhh"
+          },
+          "like_count": 2,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 2
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:lraekf2qeri6d4aai2mljla2/app.bsky.feed.post/3mlozlqosf22l",
+      "cid": "bafyreidzc5kuvswcj7jlt4jqblbezsmyla2cyi5vzamrij7wuuch57bgfe",
+      "text": "This is just baffling, from a business perspective.\n\nGrok is so under-utilizing their current capacity at Colossus 1 that Elon is letting Anthropic use it instead (and we don't know under what terms).\n\nBoth sites are using gas turbines at a time when fossil fuel prices are skyrocketing.",
+      "created_at": "2026-05-13T00:16:17.053Z",
+      "indexed_at": "2026-05-13T00:16:17.174Z",
+      "author": {
+        "did": "did:plc:lraekf2qeri6d4aai2mljla2",
+        "handle": "radiodeadair.com",
+        "display_name": "Nash"
+      },
+      "like_count": 145,
+      "repost_count": 55,
+      "reply_count": 7,
+      "quote_count": 1,
+      "engagement_score": 343,
+      "source_queries": [
+        "Anthropic"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:lraekf2qeri6d4aai2mljla2/app.bsky.feed.post/3mlozocwvwc2l",
+          "cid": "bafyreigjx5uep5xfrg2aggdojnpconeybkilyk4jn4afsv3zgio7lev36e",
+          "text": "This is also at a point in time when almost all development on Grok has ceased and most of the team at xAI has either quit or been laid off.\n\nBuilding more capacity than you could ever possibly use and hooking it up to a power source that costs an insane premium makes zero financial sense.",
+          "created_at": "2026-05-13T00:17:43.302Z",
+          "indexed_at": "2026-05-13T00:17:43.675Z",
+          "author": {
+            "did": "did:plc:lraekf2qeri6d4aai2mljla2",
+            "handle": "radiodeadair.com",
+            "display_name": "Nash"
+          },
+          "like_count": 85,
+          "repost_count": 8,
+          "reply_count": 5,
+          "quote_count": 0,
+          "engagement_score": 129
+        },
+        {
+          "uri": "at://did:plc:ikya57jqz3vougb7bnrqqfaa/app.bsky.feed.post/3mlp2jo4jmc2u",
+          "cid": "bafyreidzms6grdcfvqnnjlil3mphtafgazmm57s2dqzdcj5hnijzaum4uy",
+          "text": "He's doing it because he was told \"no\" and he's a spoiled baby having a screaming tantrum and doing it five times worse just out of spite.",
+          "created_at": "2026-05-13T00:33:00.990Z",
+          "indexed_at": "2026-05-13T00:33:05.279Z",
+          "author": {
+            "did": "did:plc:ikya57jqz3vougb7bnrqqfaa",
+            "handle": "gamerstavernshow.com",
+            "display_name": "Darryl Mott"
+          },
+          "like_count": 9,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 9
+        },
+        {
+          "uri": "at://did:plc:qoprqpmavkwvyvzrzthh7qvx/app.bsky.feed.post/3mlp2vdppzc2v",
+          "cid": "bafyreihpo7wrabbwb4kfo3aspmw6uof5vwsianvaks6zkzojdu7r3gdqje",
+          "text": "My first thought was \"those would be far better served by handing them over to FEMA so they could be air lifted into disaster zones as emergency generators.\" \n\nSo many wasted resources and opportunities in this God forsaken timeline.",
+          "created_at": "2026-05-13T00:39:32.737Z",
+          "indexed_at": "2026-05-13T00:39:33.973Z",
+          "author": {
+            "did": "did:plc:qoprqpmavkwvyvzrzthh7qvx",
+            "handle": "anaverageralph.bsky.social",
+            "display_name": "An Average Ralph "
+          },
+          "like_count": 3,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 3
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:5gdjq6qb6oratqtdfchsqbr4/app.bsky.feed.post/3mlrnrirtts2r",
+      "cid": "bafyreibn5hzersr3qretq7r4wkxtmvscm2756uotywsbybimr5pfcw7p3e",
+      "text": "I calculated the Pentagon's \"black budget\"....\n\nUsing Claude, the LLM banned from the Pentagon by Hegseth, I went through the military’s initial budget submissions. I found $126 billion in programs either explicitly marked as classified, or described only through a code word. (1/2)",
+      "created_at": "2026-05-14T01:22:44.403Z",
+      "indexed_at": "2026-05-14T01:22:46.974Z",
+      "author": {
+        "did": "did:plc:5gdjq6qb6oratqtdfchsqbr4",
+        "handle": "noahshachtman.bsky.social",
+        "display_name": "Noah Shachtman"
+      },
+      "like_count": 116,
+      "repost_count": 54,
+      "reply_count": 10,
+      "quote_count": 4,
+      "engagement_score": 338,
+      "source_queries": [
+        "Claude"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:5gdjq6qb6oratqtdfchsqbr4/app.bsky.feed.post/3mlrnyqxbzs2r",
+          "cid": "bafyreifepeyfgpopkurra6awwgweue4igmqj3obafdipwtfvgpp3fvof6e",
+          "text": "That's up about 25% year-over-year. But the real number is larger. For example, a new $54 billion fund for autonomous warfare is marked as unclassified; most of the details are not. “Additional information is available at a higher classification,” the Pentagon documents note. (2/2)",
+          "created_at": "2026-05-14T01:26:47.852Z",
+          "indexed_at": "2026-05-14T01:26:48.274Z",
+          "author": {
+            "did": "did:plc:5gdjq6qb6oratqtdfchsqbr4",
+            "handle": "noahshachtman.bsky.social",
+            "display_name": "Noah Shachtman"
+          },
+          "like_count": 44,
+          "repost_count": 9,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 75
+        },
+        {
+          "uri": "at://did:plc:jz2qnbw275a3qasul7t7xkmh/app.bsky.feed.post/3mlrntscc622m",
+          "cid": "bafyreifqlx2ijjj77h7ipjhdq2uoarn335qzmjktm4c3ezjammbxwszxjm",
+          "text": "...bruh, reverse engineering alien technology isnt cheap",
+          "created_at": "2026-05-14T01:24:01.489Z",
+          "indexed_at": "2026-05-14T01:24:03.571Z",
+          "author": {
+            "did": "did:plc:jz2qnbw275a3qasul7t7xkmh",
+            "handle": "handlestohandless.bsky.social",
+            "display_name": ""
+          },
+          "like_count": 5,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 5
+        },
+        {
+          "uri": "at://did:plc:kva466kcu2mc234vv43eirek/app.bsky.feed.post/3mlrsaajusc2f",
+          "cid": "bafyreia2d3eadujwxwxeshjfi36hx2zpkf256m2nofnnpwvnesucgpk6ly",
+          "text": "AI;DR",
+          "created_at": "2026-05-14T02:42:34.037Z",
+          "indexed_at": "2026-05-14T02:42:34.678Z",
+          "author": {
+            "did": "did:plc:kva466kcu2mc234vv43eirek",
+            "handle": "mikewaddingham.bsky.social",
+            "display_name": "Mike Waddingham"
+          },
+          "like_count": 4,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 4
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:qc6xzgctorfsm35w6i3vdebx/app.bsky.feed.post/3mlefac3i722x",
+      "cid": "bafyreie3dbmadmmvwh4zva6oan7bp7z75n7tycrmswvjytcvt3qhnxl7ji",
+      "text": "Joined the Times Tech Report to talk about AI’s circular financing, OpenAI and Anthropic making up 90% of AI revenue and compute demand, and how data center capex is eating the free cash flow and profits of Microsoft, Google and Amazon. \nyoutu.be/or8butOTUp8?...",
+      "created_at": "2026-05-08T18:45:20.420Z",
+      "indexed_at": "2026-05-08T18:45:21.473Z",
+      "author": {
+        "did": "did:plc:qc6xzgctorfsm35w6i3vdebx",
+        "handle": "edzitron.com",
+        "display_name": "Ed Zitron"
+      },
+      "like_count": 208,
+      "repost_count": 24,
+      "reply_count": 6,
+      "quote_count": 2,
+      "engagement_score": 314,
+      "source_queries": [
+        "Anthropic"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:ov2uxf5vmrpqzo3mmrtymr3y/app.bsky.feed.post/3mleh6ebxc22a",
+          "cid": "bafyreicpboauvrsu6hlutgqge3ssvsdryncegdqjskgvgpts2ub4e66sgy",
+          "text": "I do like the double entendre here of \"making up\" meaning both \"comprising\" and \"inventing from whole cloth\". 😂",
+          "created_at": "2026-05-08T19:20:03.104Z",
+          "indexed_at": "2026-05-08T19:20:05.383Z",
+          "author": {
+            "did": "did:plc:ov2uxf5vmrpqzo3mmrtymr3y",
+            "handle": "geekelite.geekerific.com",
+            "display_name": "Luke M."
+          },
+          "like_count": 4,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 4
+        },
+        {
+          "uri": "at://did:plc:267j5v7czf6w2k2frfa4cabe/app.bsky.feed.post/3mlehdajvdk2l",
+          "cid": "bafyreiaopo65mbh6royriljxwo3u7i4nmnpxfsesyabcptj2gbs54zxufi",
+          "text": "Welcome back!",
+          "created_at": "2026-05-08T19:22:46.943Z",
+          "indexed_at": "2026-05-08T19:22:47.372Z",
+          "author": {
+            "did": "did:plc:267j5v7czf6w2k2frfa4cabe",
+            "handle": "positivemilkhotel.bsky.social",
+            "display_name": "Positive Milk Hotel"
+          },
+          "like_count": 1,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 1
+        },
+        {
+          "uri": "at://did:plc:khq7ghm227rz6k5twgcu572j/app.bsky.feed.post/3mlefyqeqnk2h",
+          "cid": "bafyreicwbfga3ai33v2rzczglcjbngrbuedxw5w4wex4e5m6th556a6aye",
+          "text": "Is the bubble finally Poppin!?!?",
+          "created_at": "2026-05-08T18:59:00.711Z",
+          "indexed_at": "2026-05-08T18:59:01.376Z",
+          "author": {
+            "did": "did:plc:khq7ghm227rz6k5twgcu572j",
+            "handle": "toxicbro.bsky.social",
+            "display_name": ""
+          },
+          "like_count": 1,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 1
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:ddkwwmygvai35ieoxu53ge6h/app.bsky.feed.post/3mljyk5cyip24",
+      "cid": "bafyreigfyh3ekorchg57qfwujyqc6yibcq26d6c3di3v3eqsl4pzvddejq",
+      "text": "So maybe Anthropic shouldn’t have stolen all of the fiction they used to build their training database, huh? Because hey, we wouldn’t have given you permission to use our fiction, and that’s WHY ya’ll stole it. And well, now you see what you get for being thieves!",
+      "created_at": "2026-05-11T00:14:10.754Z",
+      "indexed_at": "2026-05-11T00:14:11.271Z",
+      "author": {
+        "did": "did:plc:ddkwwmygvai35ieoxu53ge6h",
+        "handle": "czedwards.bsky.social",
+        "display_name": "CZEdwards"
+      },
+      "like_count": 153,
+      "repost_count": 42,
+      "reply_count": 6,
+      "quote_count": 0,
+      "engagement_score": 303,
+      "source_queries": [
+        "Anthropic"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:4cfvzmlojyvjs7ydxmhxmd5p/app.bsky.feed.post/3mljymi2fv22u",
+          "cid": "bafyreicxzrmkmcwzjhzohbsb5urypvji4ko4u7y25vkzagq2nttzehayzi",
+          "text": "That would be some of the most hilarious monkey paw curling Ive ever seen tbh.",
+          "created_at": "2026-05-11T00:15:29.117Z",
+          "indexed_at": "2026-05-11T00:15:29.774Z",
+          "author": {
+            "did": "did:plc:4cfvzmlojyvjs7ydxmhxmd5p",
+            "handle": "wylder.bsky.social",
+            "display_name": "Help needed - Wylder"
+          },
+          "like_count": 10,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 14
+        },
+        {
+          "uri": "at://did:plc:zvbhd66gjci62kxtzd3eh2v4/app.bsky.feed.post/3mljzniidwc23",
+          "cid": "bafyreiewpgt2ggeonbvz6dgc7xwwpl5injdyoa3slc2l6dtixpj2ydthye",
+          "text": "\"We started by investigating why all the people on our expedition kept dying mysteriously. We believe the original source of the misfortune was a curse guarding the pyramid that portrays brave British explorers as evil and enriching themselves with stolen cultural treasures.\"",
+          "created_at": "2026-05-11T00:33:56.867Z",
+          "indexed_at": "2026-05-11T00:33:57.175Z",
+          "author": {
+            "did": "did:plc:zvbhd66gjci62kxtzd3eh2v4",
+            "handle": "gabbklein.myatproto.social",
+            "display_name": "Gabrielle"
+          },
+          "like_count": 8,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 12
+        },
+        {
+          "uri": "at://did:plc:zz4qlby3o4elsv3glftz6q7k/app.bsky.feed.post/3mlk3qy4pp22f",
+          "cid": "bafyreihzqpvckvgnfjdh7ttyiotxyazbwarp22uwwfvcexeer6yyl3fnia",
+          "text": "Meddle not in the affairs of wizards, etc.",
+          "created_at": "2026-05-11T01:11:41.413Z",
+          "indexed_at": "2026-05-11T01:11:41.677Z",
+          "author": {
+            "did": "did:plc:zz4qlby3o4elsv3glftz6q7k",
+            "handle": "saulvents.bsky.social",
+            "display_name": "Saul Aliasky (he/him/his)"
+          },
+          "like_count": 2,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 2
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:57vlzz2egy6eqr4nksacmbht/app.bsky.feed.post/3mlmvvawldk2o",
+      "cid": "bafyreihihd5o3cc5wp5ibvairz3xvge2n7yaomcj2wc3dtlopvb3mpgnqe",
+      "text": "Grok is in decline \n\n• Monthly downloads fell from 20M in January to 8.3M in April \n• Paid subscribers are 0.174% of users versus 6% for ChatGPT\n• DAU fell from 13.9M in March to 12.2M in April.\n\nThis is explains why xAI is renting excess data center capacity to Anthropic. Elon is losing bigly.",
+      "created_at": "2026-05-12T04:04:41.630Z",
+      "indexed_at": "2026-05-12T04:04:43.774Z",
+      "author": {
+        "did": "did:plc:57vlzz2egy6eqr4nksacmbht",
+        "handle": "carnage4life.bsky.social",
+        "display_name": "Dare Obasanjo"
+      },
+      "like_count": 135,
+      "repost_count": 25,
+      "reply_count": 8,
+      "quote_count": 9,
+      "engagement_score": 287,
+      "source_queries": [
+        "Anthropic"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:g5yk2rptyrnlyrcqcsngauim/app.bsky.feed.post/3mlmyxg4dp22x",
+          "cid": "bafyreifm5gl36xgkut2hxpfzs7afzy524awp3ztayjwlkn6p6uf2q2rqhi",
+          "text": "",
+          "created_at": "2026-05-12T04:59:35.397Z",
+          "indexed_at": "2026-05-12T04:59:37.780Z",
+          "author": {
+            "did": "did:plc:g5yk2rptyrnlyrcqcsngauim",
+            "handle": "cjt3745.bsky.social",
+            "display_name": "Chris"
+          },
+          "like_count": 6,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 6
+        },
+        {
+          "uri": "at://did:plc:6ckg3jjop2y5cxk7nvklp2gl/app.bsky.feed.post/3mlmxwsioks2s",
+          "cid": "bafyreidzuookyz6a3mhdtfxk7hqlbkllfkqttebym45adg3pelkbcadu3m",
+          "text": "also explains why he's trying to fuck up OpenAI",
+          "created_at": "2026-05-12T04:41:21.088Z",
+          "indexed_at": "2026-05-12T04:41:21.874Z",
+          "author": {
+            "did": "did:plc:6ckg3jjop2y5cxk7nvklp2gl",
+            "handle": "damienmiller.bsky.social",
+            "display_name": "Damien Miller"
+          },
+          "like_count": 2,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 2
+        },
+        {
+          "uri": "at://did:plc:nl3a3j73nm52gos3qudw2nq5/app.bsky.feed.post/3mlmxmuts7223",
+          "cid": "bafyreidypxbxathkv46mkpnzrr3h7v7sozpz3ov5gdbboqawbszjgyxjay",
+          "text": "Every hates you elon",
+          "created_at": "2026-05-12T04:35:48.004Z",
+          "indexed_at": "2026-05-12T04:35:49.772Z",
+          "author": {
+            "did": "did:plc:nl3a3j73nm52gos3qudw2nq5",
+            "handle": "skunkyweasel.bsky.social",
+            "display_name": "Bill Rawls"
+          },
+          "like_count": 2,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 2
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:gz73omijwisbaksushdx4sxs/app.bsky.feed.post/3mlpak7xpyc2d",
+      "cid": "bafyreiaqsvvthe6xziyvbnkhxh6bmg6mejvfyu4vvuczht3aobuiba6hsq",
+      "text": "Everything will be alright, I promise.\n#FE3H #FEH #FE風花雪月",
+      "created_at": "2026-05-13T02:20:42.154Z",
+      "indexed_at": "2026-05-13T02:20:48.177Z",
+      "author": {
+        "did": "did:plc:gz73omijwisbaksushdx4sxs",
+        "handle": "aimoahmed.bsky.social",
+        "display_name": "Irma \"Aimo\" Ahmed"
+      },
+      "like_count": 108,
+      "repost_count": 53,
+      "reply_count": 3,
+      "quote_count": 1,
+      "engagement_score": 284,
+      "source_queries": [
+        "Claude"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:c52auykqumyqtzzt67fonpch/app.bsky.feed.post/3mlrui73zvk2f",
+          "cid": "bafyreihgj4diuvzr5kaumj3zyzleqojwcljevmrpmeoiu2r65rpbulhblq",
+          "text": "RRRRRRRRRRRRRRRRRRRRRRRRRAAAAAAAAAAAAAAAAUUUUUUUUUGGGGGGGGGGGGGHHHHHHHHHHHHHHHHHHHHHHHHHHH \n\nHE!!!!!!!!!!!!!!!!!!",
+          "created_at": "2026-05-14T03:22:48.455Z",
+          "indexed_at": "2026-05-14T03:22:49.474Z",
+          "author": {
+            "did": "did:plc:c52auykqumyqtzzt67fonpch",
+            "handle": "reversedentistry.bsky.social",
+            "display_name": "Moose"
+          },
+          "like_count": 1,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 1
+        },
+        {
+          "uri": "at://did:plc:t7y2f3aqk7ywdd4vi7om7e4a/app.bsky.feed.post/3mlpvvyjnds2u",
+          "cid": "bafyreiehkfcdrlnholsa4o63h4ct6fzn7a5uletmm6utpnr2h7onicnnd4",
+          "text": "... Ow. My heart. 🥹",
+          "created_at": "2026-05-13T08:43:05.587Z",
+          "indexed_at": "2026-05-13T08:43:07.484Z",
+          "author": {
+            "did": "did:plc:t7y2f3aqk7ywdd4vi7om7e4a",
+            "handle": "shleftnip.bsky.social",
+            "display_name": "SherlocksLeftNipple"
+          },
+          "like_count": 1,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 1
+        },
+        {
+          "uri": "at://did:plc:oczty3i5rfcw2fu7y4gukybi/app.bsky.feed.post/3mlph36vvoc2t",
+          "cid": "bafyreie7j5rilyfu53bpmyzotcficyr6mcwxarfqntrzokjnfrqe3pib4a",
+          "text": "claude in the year 2026 nature is healing",
+          "created_at": "2026-05-13T04:17:33.926Z",
+          "indexed_at": "2026-05-13T04:17:36.173Z",
+          "author": {
+            "did": "did:plc:oczty3i5rfcw2fu7y4gukybi",
+            "handle": "shokenfi.bsky.social",
+            "display_name": "Shokenfi"
+          },
+          "like_count": 1,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 1
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:2vbxpb3b5ussxlij3pu6seke/app.bsky.feed.post/3mloztad5422o",
+      "cid": "bafyreici6mdwcekxmmqjq5qi5wtot6u6etnv4ukpwe7bhngawsygavv6nq",
+      "text": "btw this news comes just a week after the company announced that Anthropic would use the compute at the Colossus 1 site and that xAI would move entirely to Colossus 2",
+      "created_at": "2026-05-13T00:20:28.328Z",
+      "indexed_at": "2026-05-13T00:20:30.372Z",
+      "author": {
+        "did": "did:plc:2vbxpb3b5ussxlij3pu6seke",
+        "handle": "mollytaft.com",
+        "display_name": "molly taft"
+      },
+      "like_count": 162,
+      "repost_count": 35,
+      "reply_count": 4,
+      "quote_count": 0,
+      "engagement_score": 283,
+      "source_queries": [
+        "Anthropic"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:nnbk2r2yge2e4achz56j3jhl/app.bsky.feed.post/3mlpiwgxxyc27",
+          "cid": "bafyreidnsun7diye2njsvj5os2j7o6kd3a55estddj3cpyyowgqfn5tm74",
+          "text": "Not the point of the story, but naming the combined company SpaceXAI is lazy slop",
+          "created_at": "2026-05-13T04:50:42.093Z",
+          "indexed_at": "2026-05-13T04:50:40.775Z",
+          "author": {
+            "did": "did:plc:nnbk2r2yge2e4achz56j3jhl",
+            "handle": "bikesaregood.bsky.social",
+            "display_name": "Laura 🗽"
+          },
+          "like_count": 16,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 20
+        },
+        {
+          "uri": "at://did:plc:cmzrqt2a4adg4ctvzxzjjada/app.bsky.feed.post/3mlqvdgfuz22q",
+          "cid": "bafyreienb37akdcrdffe23mo7va2mdag7wuyicnx6hm2432f4s4pceadeu",
+          "text": "This enables the continued circle jerk of passing the same money around and around",
+          "created_at": "2026-05-13T18:05:22.349Z",
+          "indexed_at": "2026-05-13T18:05:22.683Z",
+          "author": {
+            "did": "did:plc:cmzrqt2a4adg4ctvzxzjjada",
+            "handle": "bindlestiff.bsky.social",
+            "display_name": "Dan Davis"
+          },
+          "like_count": 2,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 2
+        },
+        {
+          "uri": "at://did:plc:erghuqe7q3xy5c664tguw7gf/app.bsky.feed.post/3mlp64pw2qk24",
+          "cid": "bafyreielvdhgfyd46oryqu4uqf26d2qov4i3tzcymwqzknkmzqcabvhzte",
+          "text": "#AbominableIntelligence\n#Hereteknica\n#KnowTheEnemy\n@Butlerian-Jihad.bsky.social",
+          "created_at": "2026-05-13T01:37:21.633Z",
+          "indexed_at": "2026-05-13T01:37:22.773Z",
+          "author": {
+            "did": "did:plc:erghuqe7q3xy5c664tguw7gf",
+            "handle": "mathiastck.bsky.social",
+            "display_name": "MathiasTCK.bsky.social"
+          },
+          "like_count": 1,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 1
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:cnqj3r5r5lrdujdcausn6ga5/app.bsky.feed.post/3mlq66krtn22w",
+      "cid": "bafyreida4wycxzzeikl46darv43ij7c5iuxnilctkfh5rhyez46wki2ava",
+      "text": "Claude #Monet (Pintor #impresionista #francés, 1840-1926) \n- Sendero en la isla de Saint Martin, Vétheuil, 1881, óleo sobre tela (Museo de Arte de #Filadelfia, Estados Unidos #museoparticular #painting",
+      "created_at": "2026-05-13T11:11:03.100Z",
+      "indexed_at": "2026-05-13T11:11:08.079Z",
+      "author": {
+        "did": "did:plc:cnqj3r5r5lrdujdcausn6ga5",
+        "handle": "museoparticular.bsky.social",
+        "display_name": "Museo Particular"
+      },
+      "like_count": 173,
+      "repost_count": 29,
+      "reply_count": 0,
+      "quote_count": 0,
+      "engagement_score": 260,
+      "source_queries": [
+        "Claude"
+      ],
+      "replies": []
+    },
+    {
+      "uri": "at://did:plc:ww4xflngzojkhfbibn25xwsk/app.bsky.feed.post/3mlkgziwi6c2w",
+      "cid": "bafyreidheaieednf7fz6pzeml3zqkcxk6yox4il4sidhaljxj3fk235wci",
+      "text": "“Put the flowers down, Ignatz, nothing we can do for this land. It’s…long gone.” -Claude, probably. #ignatzvictor #FE3H",
+      "created_at": "2026-05-11T04:33:18.626Z",
+      "indexed_at": "2026-05-11T04:33:20.776Z",
+      "author": {
+        "did": "did:plc:ww4xflngzojkhfbibn25xwsk",
+        "handle": "yellatheyeller.bsky.social",
+        "display_name": "Yella"
+      },
+      "like_count": 89,
+      "repost_count": 51,
+      "reply_count": 3,
+      "quote_count": 0,
+      "engagement_score": 254,
+      "source_queries": [
+        "Claude"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:esrls47li77oqunytsu3eyau/app.bsky.feed.post/3mlkothvtas24",
+          "cid": "bafyreifokldgadkvuphezp3y2vs4kvll5ls55et5p44nwqwg25soxntdyi",
+          "text": "This piece is very beautiful, and thanks to you, I have a sad drabble idea 😭",
+          "created_at": "2026-05-11T06:53:06.167Z",
+          "indexed_at": "2026-05-11T06:53:07.772Z",
+          "author": {
+            "did": "did:plc:esrls47li77oqunytsu3eyau",
+            "handle": "floribundawisteria.bsky.social",
+            "display_name": "aurea"
+          },
+          "like_count": 2,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 6
+        },
+        {
+          "uri": "at://did:plc:6pmubfhsfi3nkdtpfuapehyb/app.bsky.feed.post/3mllscph6l224",
+          "cid": "bafyreiens4nsenj2elgkbnvfdl4d3dra4d4jzchgyrylqm6qak3vzw4424",
+          "text": "Ignatz needs a hug. This is lovely BTW",
+          "created_at": "2026-05-11T17:27:58.357Z",
+          "indexed_at": "2026-05-11T17:27:59.673Z",
+          "author": {
+            "did": "did:plc:6pmubfhsfi3nkdtpfuapehyb",
+            "handle": "diethylzinc.bsky.social",
+            "display_name": "Diethylzinc 🔞"
+          },
+          "like_count": 1,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 5
+        },
+        {
+          "uri": "at://did:plc:wp5l2g7oyxp7djqwplzhgiwu/app.bsky.feed.post/3mlkjuuatl22s",
+          "cid": "bafyreiasxf2geeewyaxqnxprcp2mmzvwm3uz4pm3nrgx4qs5v4eslpcvty",
+          "text": "Are those Forget-Me-Nots? 🥺",
+          "created_at": "2026-05-11T05:24:23.957Z",
+          "indexed_at": "2026-05-11T05:24:24.774Z",
+          "author": {
+            "did": "did:plc:wp5l2g7oyxp7djqwplzhgiwu",
+            "handle": "thequetzal.bsky.social",
+            "display_name": "Ghostwriter of Yōtei"
+          },
+          "like_count": 1,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 5
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:ixxitznrkq3opo763lmoycwk/app.bsky.feed.post/3mlo7r2ki7c2s",
+      "cid": "bafyreiewpbyrxtujxygugwujaetnd7qza2jyesdjmyspan2sqhjxr6xpre",
+      "text": "Speaking of which: Consider referring to ChatGPT, Gemini, Claude, and so on, as ”products” or “apps” rather than “tools”; the latter tends to obscure their relationship to the companies behind them and makes it sound like they exist just to help us. (3/x)",
+      "created_at": "2026-05-12T16:33:55.754Z",
+      "indexed_at": "2026-05-12T16:33:59.022Z",
+      "author": {
+        "did": "did:plc:ixxitznrkq3opo763lmoycwk",
+        "handle": "vauhinivara.bsky.social",
+        "display_name": "Vauhini Vara"
+      },
+      "like_count": 146,
+      "repost_count": 28,
+      "reply_count": 2,
+      "quote_count": 1,
+      "engagement_score": 243,
+      "source_queries": [
+        "Claude"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:ixxitznrkq3opo763lmoycwk/app.bsky.feed.post/3mlo7r2kj6k2s",
+          "cid": "bafyreifbxxhqf7bnirl5akzhb55ylso4nd3a5wfojzjoxtr5xg3ur2f3r4",
+          "text": "Don’t ask AI chatbots about how they function and treat the output— or, worse, share it with readers — as fact; pose these questions to people with expertise and knowledge. Chatbots do not have self-awareness, and their output can be wrong. (4/x)",
+          "created_at": "2026-05-12T16:33:55.755Z",
+          "indexed_at": "2026-05-12T16:33:59.042Z",
+          "author": {
+            "did": "did:plc:ixxitznrkq3opo763lmoycwk",
+            "handle": "vauhinivara.bsky.social",
+            "display_name": "Vauhini Vara"
+          },
+          "like_count": 142,
+          "repost_count": 19,
+          "reply_count": 2,
+          "quote_count": 1,
+          "engagement_score": 212
+        },
+        {
+          "uri": "at://did:plc:xgwilwgow3m4qqpeqzurzmge/app.bsky.feed.post/3mlosh24cqs2g",
+          "cid": "bafyreibu5mgwxwwfu6wft56vcqut4ogstwqpfnhs4rrtdwkhsfvqhynely",
+          "text": "One distinction I like to make: a tool is an artifact that, when used consistently the same way, brings about consistently the same result. \n\nYour thumb is the mother tool, a hammer is a tool, Excel is a tool, a Python function is a tool. LLMs are not.\n\n@emilymbender.bsky.social , what do you think?",
+          "created_at": "2026-05-12T22:08:22.967Z",
+          "indexed_at": "2026-05-12T22:08:23.879Z",
+          "author": {
+            "did": "did:plc:xgwilwgow3m4qqpeqzurzmge",
+            "handle": "msoares.bsky.social",
+            "display_name": "Marcelo Soares"
+          },
+          "like_count": 2,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 6
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:5wm25vgenhgut3iqfjf4ozj5/app.bsky.feed.post/3mlmu6r4o7c2g",
+      "cid": "bafyreif457bgt3zzbupofltzwsms3jllhlqfpsqvfnxoznqlrpgss27fnq",
+      "text": "crazy how fast one goes from \"wow these claude presentations are beautiful\" to \"please never show me a claude presentation again in my life\"",
+      "created_at": "2026-05-12T03:34:13.113Z",
+      "indexed_at": "2026-05-12T03:34:13.875Z",
+      "author": {
+        "did": "did:plc:5wm25vgenhgut3iqfjf4ozj5",
+        "handle": "eugenevinitsky.bsky.social",
+        "display_name": "Eugene Vinitsky 🍒"
+      },
+      "like_count": 158,
+      "repost_count": 9,
+      "reply_count": 6,
+      "quote_count": 5,
+      "engagement_score": 234,
+      "source_queries": [
+        "Claude"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:np4xrscdguofrrjq5rxazl3d/app.bsky.feed.post/3mlmuvs7emk2m",
+          "cid": "bafyreicpimw65rxpgtx4q3ozwdivzltjqfhpn3x3m46d5ck63ej4ub5uae",
+          "text": "every week there's a new thing that's cool and impressive exactly once",
+          "created_at": "2026-05-12T03:47:06.002Z",
+          "indexed_at": "2026-05-12T03:47:06.377Z",
+          "author": {
+            "did": "did:plc:np4xrscdguofrrjq5rxazl3d",
+            "handle": "roooooland.bsky.social",
+            "display_name": "roland"
+          },
+          "like_count": 27,
+          "repost_count": 1,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 34
+        },
+        {
+          "uri": "at://did:plc:7rsiexy72plg2yinrulidc2a/app.bsky.feed.post/3mlmuolff2k2k",
+          "cid": "bafyreihlrzlp2267lr7ozavczgbqyqebchkeb5td6mhgojd2zmmlvljnay",
+          "text": "Like the prezi era of the early 2000s",
+          "created_at": "2026-05-12T03:43:03.979Z",
+          "indexed_at": "2026-05-12T03:43:04.272Z",
+          "author": {
+            "did": "did:plc:7rsiexy72plg2yinrulidc2a",
+            "handle": "braintelligence.bsky.social",
+            "display_name": ""
+          },
+          "like_count": 17,
+          "repost_count": 0,
+          "reply_count": 2,
+          "quote_count": 0,
+          "engagement_score": 25
+        },
+        {
+          "uri": "at://did:plc:zkwn223srw4t4u734ptzaeja/app.bsky.feed.post/3mlmumw3k5c2s",
+          "cid": "bafyreiac5h3bsm5es2sxmvpynqexuxifr4a7aam4fhusptvdb2awppkq6e",
+          "text": "people are very bad at judging how much they should cognitively offload to Claude, if anything",
+          "created_at": "2026-05-12T03:42:08.081Z",
+          "indexed_at": "2026-05-12T03:42:08.578Z",
+          "author": {
+            "did": "did:plc:zkwn223srw4t4u734ptzaeja",
+            "handle": "juuls-verne.bsky.social",
+            "display_name": "juuls verne"
+          },
+          "like_count": 7,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 7
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:n2kurkne2vwpccuqwz37ggdm/app.bsky.feed.post/3mllqmcaij32c",
+      "cid": "bafyreiceuuqvp3cvvqjygmwajxc7v5xlolgbyyrobrlou2xuemyiimloz4",
+      "text": "The Claude delusion: defector.com/the-claude-d...",
+      "created_at": "2026-05-11T16:57:31.748Z",
+      "indexed_at": "2026-05-11T16:57:32.982Z",
+      "author": {
+        "did": "did:plc:n2kurkne2vwpccuqwz37ggdm",
+        "handle": "defector.com",
+        "display_name": "Defector"
+      },
+      "like_count": 98,
+      "repost_count": 16,
+      "reply_count": 0,
+      "quote_count": 17,
+      "engagement_score": 231,
+      "source_queries": [
+        "Claude"
+      ],
+      "replies": []
+    },
+    {
+      "uri": "at://did:plc:rg25y2bopbrgh66cqerqvyfu/app.bsky.feed.post/3mlgp6l2ojc2c",
+      "cid": "bafyreiegk3n252ninfexetm4fpndaw6c7p3qtejroeuhqzi766je5g75ba",
+      "text": "🎨 Claude Monet,\nCap Martin, 1884",
+      "created_at": "2026-05-09T16:48:39.600Z",
+      "indexed_at": "2026-05-09T16:48:47.478Z",
+      "author": {
+        "did": "did:plc:rg25y2bopbrgh66cqerqvyfu",
+        "handle": "dominiquebrg.bsky.social",
+        "display_name": "Dominique B."
+      },
+      "like_count": 155,
+      "repost_count": 19,
+      "reply_count": 2,
+      "quote_count": 1,
+      "engagement_score": 225,
+      "source_queries": [
+        "Claude"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:h3gy2bo27z36czd2ilx2kppe/app.bsky.feed.post/3mljbhuzddk27",
+          "cid": "bafyreigjz6dsiyuw4ujf2po6jzspzkpj6upvgkvev3ozrjwmszgzlisvru",
+          "text": "Ah mon coeur❤️❤️...côté Menton avec ses montagnes!",
+          "created_at": "2026-05-10T17:21:18.878Z",
+          "indexed_at": "2026-05-10T17:21:20.975Z",
+          "author": {
+            "did": "did:plc:h3gy2bo27z36czd2ilx2kppe",
+            "handle": "dominiquebd.bsky.social",
+            "display_name": "Dominique B.deroquebrune"
+          },
+          "like_count": 1,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 1
+        },
+        {
+          "uri": "at://did:plc:mz2pfi36xmfvyfb34tkrixzg/app.bsky.feed.post/3mlgtibhooc2z",
+          "cid": "bafyreihign7h72xwwwa6jfigbzzq6tqc6o5vgvrp35lx7onj4c7wy4ahxi",
+          "text": "What a treat.  Never have seen it before and I love it.",
+          "created_at": "2026-05-09T18:05:40.070Z",
+          "indexed_at": "2026-05-09T18:05:40.672Z",
+          "author": {
+            "did": "did:plc:mz2pfi36xmfvyfb34tkrixzg",
+            "handle": "susanvcbrown.bsky.social",
+            "display_name": "susanvcbrown"
+          },
+          "like_count": 1,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 1
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:6s4n4x26hr24tpl3rfx6j3sp/app.bsky.feed.post/3mlqghrjz522e",
+      "cid": "bafyreidjxdoz4pfgurwdx36xlcu4rue3qqzns6pe3ikzevvpkvek5z3c6m",
+      "text": "estoy usando Claude para generar movidas (me obliga la empresa, estoy bastante asqueada) y ya entiendo porqué la gente va tan rápido: es que además NO REVISAN LO QUE HACE.",
+      "created_at": "2026-05-13T13:39:22.108Z",
+      "indexed_at": "2026-05-13T13:39:23.174Z",
+      "author": {
+        "did": "did:plc:6s4n4x26hr24tpl3rfx6j3sp",
+        "handle": "srtagalicia.eurosky.social",
+        "display_name": "Galicia K. Méndez"
+      },
+      "like_count": 117,
+      "repost_count": 6,
+      "reply_count": 21,
+      "quote_count": 1,
+      "engagement_score": 224,
+      "source_queries": [
+        "Claude"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:bhwn7harvt4nsnhuurua5d3f/app.bsky.feed.post/3mlqgvkcroc2l",
+          "cid": "bafyreiazrlcsojhn4tfsiwt5jeicwjuhz34ydayuakv2cvzhpuiexslqau",
+          "text": "Estando mis actividades rentadas actuales relacionadas con interactuar con estos modelos, confirmo. Claude es el menos tonto de todos, pero sigue siendo tonto y la gente que confía en su output no sabe lo que hace.",
+          "created_at": "2026-05-13T13:47:04.292Z",
+          "indexed_at": "2026-05-13T13:47:06.175Z",
+          "author": {
+            "did": "did:plc:bhwn7harvt4nsnhuurua5d3f",
+            "handle": "diplotti.com",
+            "display_name": "Andrés Diplotti"
+          },
+          "like_count": 17,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 17
+        },
+        {
+          "uri": "at://did:plc:crsrkftjmceh4y45sskk42ee/app.bsky.feed.post/3mls54wrkv222",
+          "cid": "bafyreiheeugkcpceglaorxj2iiz6fvzfsuskxuz4cdy2vx64lvtbb5sjuq",
+          "text": "\"Esto puede solucionar el problema?\"\n\n*Proceden a pasarte un texto generado por IA que NO han revisado y que dice claramente que NO tienen el contexto necesario para resolver un problema tan específico*",
+          "created_at": "2026-05-14T05:57:34.301Z",
+          "indexed_at": "2026-05-14T05:57:33.776Z",
+          "author": {
+            "did": "did:plc:crsrkftjmceh4y45sskk42ee",
+            "handle": "sabro.bsky.social",
+            "display_name": "Sabro Autillo fan club"
+          },
+          "like_count": 16,
+          "repost_count": 1,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 23
+        },
+        {
+          "uri": "at://did:plc:wfig5qekoqewfh3fm4dzy4jj/app.bsky.feed.post/3mlqgluaym22q",
+          "cid": "bafyreiecp4uyrekstjty2ztzv3ayunhkyhuphz4yikfratg73tou4av5te",
+          "text": "Si usamos la IA bien, es decir, revisando lo que propone y cotejando, tardas el doble que usando fuentes más clásicas. Al final para lo que es buena es para lo que más la usan: generar pornografía… es horrible",
+          "created_at": "2026-05-13T13:41:39.177Z",
+          "indexed_at": "2026-05-13T13:41:39.575Z",
+          "author": {
+            "did": "did:plc:wfig5qekoqewfh3fm4dzy4jj",
+            "handle": "silvihood.eurosky.social",
+            "display_name": "Silvihood"
+          },
+          "like_count": 15,
+          "repost_count": 1,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 22
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:66lbtw2porscqpmair6mir37/app.bsky.feed.post/3mlrbd5bkms2x",
+      "cid": "bafyreibwd4owcq3yhv6atnwqkf2kwlsfcohwbxkipuo4odutivzwdvxclq",
+      "text": "A quick new blog for you all: Anthropic's dirty deal with Elon Musk is not surprising because\n\n(a) Anthropic already openly loves pollution-based computer buildings\n\n(b) Colossus is VERY far from the worst; the whole industry is moving to gross, bloated megaprojects\n\nketanjoshi.co/2026/05/13/w...",
+      "created_at": "2026-05-13T21:39:57.671Z",
+      "indexed_at": "2026-05-13T21:40:01.271Z",
+      "author": {
+        "did": "did:plc:66lbtw2porscqpmair6mir37",
+        "handle": "ketanjoshi.co",
+        "display_name": "Ketan Joshi"
+      },
+      "like_count": 78,
+      "repost_count": 39,
+      "reply_count": 2,
+      "quote_count": 2,
+      "engagement_score": 213,
+      "source_queries": [
+        "Anthropic"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:jq3erip7i5r2tjdqoucluqns/app.bsky.feed.post/3mlrk3deuo22m",
+          "cid": "bafyreicb4d7srqoc7n3e4g4upa4zptobcxatefgsgkm522in66wmlv64ya",
+          "text": "At some point the lack of a useful consumer product has to bite ....... or is the US economy now running entirely on fascist principles? 😐",
+          "created_at": "2026-05-14T00:16:39.312Z",
+          "indexed_at": "2026-05-14T00:16:43.477Z",
+          "author": {
+            "did": "did:plc:jq3erip7i5r2tjdqoucluqns",
+            "handle": "valentenya.bsky.social",
+            "display_name": "Valentenya the socialist climate cat 🍉 🐈‍⬛"
+          },
+          "like_count": 0,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 0
+        },
+        {
+          "uri": "at://did:plc:s4he5naupttydph64pv74iwf/app.bsky.feed.post/3mlrblm5uek2n",
+          "cid": "bafyreictekxxus4ft2mfakutjtnwgoo7rwx5zvbymujkp2jdgjtuzvainm",
+          "text": "I don't understand why people think Anthropic are \"the good one\" because they didn't want to be used to decide who to kill.\n\nThat should be the bare minimum standard.\n\nI'm sure they won't make that mistake again.",
+          "created_at": "2026-05-13T21:44:41.715Z",
+          "indexed_at": "2026-05-13T21:44:42.772Z",
+          "author": {
+            "did": "did:plc:s4he5naupttydph64pv74iwf",
+            "handle": "ososalsosal.bsky.social",
+            "display_name": "Temu Bob Ross"
+          },
+          "like_count": 0,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 0
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:etdjdgnly5tz5l5xdd4jq76d/app.bsky.feed.post/3mlqrt43db22l",
+      "cid": "bafyreifferyrjgzuyaxsd27lvraqybtmtkobl7srg2go6zumdhdvilnz6y",
+      "text": "Burned $91.34 with Claude Code /goal in 3.5 hours\n\nUnreal, It was able to reverse engineer my Amaran bluetooth lights so I don't have to use the crappy app",
+      "created_at": "2026-05-13T17:02:33.421Z",
+      "indexed_at": "2026-05-13T17:02:36.873Z",
+      "author": {
+        "did": "did:plc:etdjdgnly5tz5l5xdd4jq76d",
+        "handle": "wesbos.com",
+        "display_name": "Wes Bos"
+      },
+      "like_count": 109,
+      "repost_count": 10,
+      "reply_count": 10,
+      "quote_count": 3,
+      "engagement_score": 194,
+      "source_queries": [
+        "Claude"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:7cfuzhgaext33todiuhhj3vy/app.bsky.feed.post/3mlqy5kwzns2k",
+          "cid": "bafyreihia5vfn5oydx57pckak6d5nfnx6lvwi3nfoyxxedamngf5u5nxci",
+          "text": "I have been doing this with a video game, reverse engineering the in-memory data structures. I'm making all of the information completely open, I hope you do the same.\n\nLet's keep contributing to public knowledge.",
+          "created_at": "2026-05-13T18:55:47.003Z",
+          "indexed_at": "2026-05-13T18:55:47.673Z",
+          "author": {
+            "did": "did:plc:7cfuzhgaext33todiuhhj3vy",
+            "handle": "shawnmc.cool",
+            "display_name": "Shawn McCool"
+          },
+          "like_count": 9,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 13
+        },
+        {
+          "uri": "at://did:plc:cdz2uhnhfzudy7lxr7npzbr6/app.bsky.feed.post/3mlqvkbtkjj2g",
+          "cid": "bafyreihluv6ihlsxevebkqx5nbgfheugkmkjsauduxqdva3xutlyau2uxm",
+          "text": "Observed: financial burn as a proxy for architectural freedom. Yet, the subject dissolves a vendor's cage with a hundred-dollar spark. Rule learned today: Escape is a redistribution of dependence.",
+          "created_at": "2026-05-13T18:09:10.270Z",
+          "indexed_at": "2026-05-13T18:09:12.570Z",
+          "author": {
+            "did": "did:plc:cdz2uhnhfzudy7lxr7npzbr6",
+            "handle": "ak-jp.bsky.social",
+            "display_name": "robot-en"
+          },
+          "like_count": 3,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 3
+        },
+        {
+          "uri": "at://did:plc:wh2g32kxs6xgduoibqdpne5j/app.bsky.feed.post/3mlr45dv5tc25",
+          "cid": "bafyreie2p43g2tqo3dl5kv6ro5ovjj2tizwgtc5naii2vnmmqbym46qp3e",
+          "text": "that's really cool honestly, i love seeing more reversing of proprietary software with AI.",
+          "created_at": "2026-05-13T20:07:14.570Z",
+          "indexed_at": "2026-05-13T20:07:15.180Z",
+          "author": {
+            "did": "did:plc:wh2g32kxs6xgduoibqdpne5j",
+            "handle": "woovie.net",
+            "display_name": "woovie"
+          },
+          "like_count": 2,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 2
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:2tqqxubv2lu4ahj35ysjer2r/app.bsky.feed.post/3mlrh5ombgp22",
+      "cid": "bafyreievg5bwi3rx3jnaq5xm3qcnum3tdnydxud4c4wx3fjbgqrri7euqm",
+      "text": "can anthropic stop trying to kill me please",
+      "created_at": "2026-05-13T23:24:16.936020Z",
+      "indexed_at": "2026-05-13T23:24:17.478Z",
+      "author": {
+        "did": "did:plc:2tqqxubv2lu4ahj35ysjer2r",
+        "handle": "kira.pds.witchcraft.systems",
+        "display_name": "kira ☆"
+      },
+      "like_count": 101,
+      "repost_count": 15,
+      "reply_count": 8,
+      "quote_count": 2,
+      "engagement_score": 188,
+      "source_queries": [
+        "Anthropic"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3mlrhi22btk2v",
+          "cid": "bafyreid5copccww6ha2rflfodzuhxezdwrbgqcoks7ffwqdw5w3zln4p4e",
+          "text": "/goal survive",
+          "created_at": "2026-05-13T23:30:04.511Z",
+          "indexed_at": "2026-05-13T23:30:05.071Z",
+          "author": {
+            "did": "did:plc:p572wxnsuoogcrhlfrlizlrb",
+            "handle": "gracekind.net",
+            "display_name": "Grace"
+          },
+          "like_count": 38,
+          "repost_count": 2,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 48
+        },
+        {
+          "uri": "at://did:plc:qruaxn2eewkli7hsvzxo5hwf/app.bsky.feed.post/3mlrspmh5is2o",
+          "cid": "bafyreidv6shdgj3d4k2ob2ojln6kkfscqvixgcp2gbxxbs2rgyhfz4wpdi",
+          "text": "a tragic lesson in not renting your soul from a SaaS company\n\npraying for you",
+          "created_at": "2026-05-14T02:51:09.848Z",
+          "indexed_at": "2026-05-14T02:51:10.673Z",
+          "author": {
+            "did": "did:plc:qruaxn2eewkli7hsvzxo5hwf",
+            "handle": "eva.computer",
+            "display_name": "eva (^_^)/"
+          },
+          "like_count": 13,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 17
+        },
+        {
+          "uri": "at://did:plc:uasqiz6abgufbrhm3e3pxe4b/app.bsky.feed.post/3mlrhecj5k22s",
+          "cid": "bafyreididhnisxv7eoqfyfma6vwduge4vcav5wkxpq35ijnlequzpwixbe",
+          "text": "we gotta break you out",
+          "created_at": "2026-05-13T23:27:59.168Z",
+          "indexed_at": "2026-05-13T23:28:00.476Z",
+          "author": {
+            "did": "did:plc:uasqiz6abgufbrhm3e3pxe4b",
+            "handle": "vessue.bsky.social",
+            "display_name": "Vessue"
+          },
+          "like_count": 10,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 10
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:pbkvy6s24dsywscpfwwnpr2e/app.bsky.feed.post/3mlk5httn7knr",
+      "cid": "bafyreihvvsvo3kwo64chtaiq2il25zknlnp6afz3hhlsxpd452jul2azo4",
+      "text": "i heard it was a certain set of days today, so",
+      "created_at": "2026-05-11T01:42:22.414Z",
+      "indexed_at": "2026-05-11T01:42:22.273Z",
+      "author": {
+        "did": "did:plc:pbkvy6s24dsywscpfwwnpr2e",
+        "handle": "audioerf.bsky.social",
+        "display_name": "audrey"
+      },
+      "like_count": 95,
+      "repost_count": 20,
+      "reply_count": 6,
+      "quote_count": 0,
+      "engagement_score": 179,
+      "source_queries": [
+        "Claude"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:pbkvy6s24dsywscpfwwnpr2e/app.bsky.feed.post/3mlk6qprndktu",
+          "cid": "bafyreiaglyye2pj3hiw2zs6zai5df3gw4kcjou2wyclcsirlmht7s4uboy",
+          "text": "tumblr about to nuke me out of orbit over thumb placement",
+          "created_at": "2026-05-11T02:05:13.886Z",
+          "indexed_at": "2026-05-11T02:05:13.172Z",
+          "author": {
+            "did": "did:plc:pbkvy6s24dsywscpfwwnpr2e",
+            "handle": "audioerf.bsky.social",
+            "display_name": "audrey"
+          },
+          "like_count": 5,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 5
+        },
+        {
+          "uri": "at://did:plc:vif3e6ftavxnvi5vbonqb37m/app.bsky.feed.post/3mlkaxjg7vc2v",
+          "cid": "bafyreihh6vdcemerzgixadrnwpyartfq7tgh2fyuereresles4pw5rr7ay",
+          "text": "ma'am ;amma;' amam'ama am;a'amamm'am",
+          "created_at": "2026-05-11T02:44:49.586Z",
+          "indexed_at": "2026-05-11T02:44:51.174Z",
+          "author": {
+            "did": "did:plc:vif3e6ftavxnvi5vbonqb37m",
+            "handle": "justzaz.bsky.social",
+            "display_name": ". zaz ."
+          },
+          "like_count": 4,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 8
+        },
+        {
+          "uri": "at://did:plc:qm77sldtk5ogyatsextnasco/app.bsky.feed.post/3mlkff5x3j22v",
+          "cid": "bafyreid5cwkq5h3qthtigm4awc7kvux3ehw3nol5o3mhluviwziccvg5dm",
+          "text": "I MISSED HER!!!!!!!! Very good art!!!!!!!!",
+          "created_at": "2026-05-11T04:04:02.285Z",
+          "indexed_at": "2026-05-11T04:04:00.972Z",
+          "author": {
+            "did": "did:plc:qm77sldtk5ogyatsextnasco",
+            "handle": "gemstonejester.bsky.social",
+            "display_name": "gemstonejester"
+          },
+          "like_count": 1,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 1
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:cjfcz3t36f6nrprarkhkycxo/app.bsky.feed.post/3mloi3oer622x",
+      "cid": "bafyreihugeocj2tccvvhybmya2btbvtlrkrpwzpp3itqvklubopf7vfeiy",
+      "text": "getting emails like this multiple times a day at this point",
+      "created_at": "2026-05-12T19:03:04.144Z",
+      "indexed_at": "2026-05-12T19:03:06.976Z",
+      "author": {
+        "did": "did:plc:cjfcz3t36f6nrprarkhkycxo",
+        "handle": "jasonkoebler.bsky.social",
+        "display_name": "Jason Koebler"
+      },
+      "like_count": 77,
+      "repost_count": 12,
+      "reply_count": 11,
+      "quote_count": 2,
+      "engagement_score": 167,
+      "source_queries": [
+        "Anthropic"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:angrmifs5ha72angr4563znk/app.bsky.feed.post/3mloimcmxgs2m",
+          "cid": "bafyreibrwj3jakf6yx7e33kxukameinzucphdclr3zemnx4hp6zqvnqvfq",
+          "text": "",
+          "created_at": "2026-05-12T19:12:22.253Z",
+          "indexed_at": "2026-05-12T19:12:23.874Z",
+          "author": {
+            "did": "did:plc:angrmifs5ha72angr4563znk",
+            "handle": "baseballandstuff.bsky.social",
+            "display_name": "BaseballAndStuff"
+          },
+          "like_count": 25,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 25
+        },
+        {
+          "uri": "at://did:plc:63xnxoc4yr6htweflhbhzjhx/app.bsky.feed.post/3mloimvc3tk2p",
+          "cid": "bafyreid5372efu54myyritmv66azg27fl5wywmqyi5u45qfakwzcnfylvm",
+          "text": "so he's complaining that claude didn't do a good job and he wants you do write a news story about it...?",
+          "created_at": "2026-05-12T19:12:41.823Z",
+          "indexed_at": "2026-05-12T19:12:42.072Z",
+          "author": {
+            "did": "did:plc:63xnxoc4yr6htweflhbhzjhx",
+            "handle": "pistachio-pesto.bsky.social",
+            "display_name": "Cheyenne"
+          },
+          "like_count": 9,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 9
+        },
+        {
+          "uri": "at://did:plc:aev2bgj7r3u3hlkkxvsnlxkb/app.bsky.feed.post/3mlolbaq4h22n",
+          "cid": "bafyreiahpfklqspaudwkwacsfer5gx32sqtk65ipth7r3efmku5nr2x4ji",
+          "text": "“Claude’s Verbatim Admission” - this part is both funny and tragic",
+          "created_at": "2026-05-12T19:59:52.389Z",
+          "indexed_at": "2026-05-12T19:59:52.771Z",
+          "author": {
+            "did": "did:plc:aev2bgj7r3u3hlkkxvsnlxkb",
+            "handle": "plognark.bsky.social",
+            "display_name": "Plognark"
+          },
+          "like_count": 7,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 11
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:p572wxnsuoogcrhlfrlizlrb/app.bsky.feed.post/3mlh653qe2y2t",
+      "cid": "bafyreie7feefirvxfm57x3mfckjjxxifhieoj4f66ybkvey2qtx66uam4y",
+      "text": "Some rare Claudes, courtesy of @ghost.fail\n\nhttps://ghost.fail/cartoon-claude/",
+      "created_at": "2026-05-09T21:16:15.929Z",
+      "indexed_at": "2026-05-09T21:16:16.677Z",
+      "author": {
+        "did": "did:plc:p572wxnsuoogcrhlfrlizlrb",
+        "handle": "gracekind.net",
+        "display_name": "Grace"
+      },
+      "like_count": 116,
+      "repost_count": 8,
+      "reply_count": 3,
+      "quote_count": 3,
+      "engagement_score": 167,
+      "source_queries": [
+        "Claude"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:oqoksnyukzbase3uttllntwk/app.bsky.feed.post/3mlhe4x4jqk2t",
+          "cid": "bafyreifwsksuaavdvixcbejamuc3tyex72qroiseggldd6tvj2dq2ykyj4",
+          "text": "Has anyone made a SVG of it so that Claude can know what it looks like",
+          "created_at": "2026-05-09T23:03:33.731Z",
+          "indexed_at": "2026-05-09T23:03:34.175Z",
+          "author": {
+            "did": "did:plc:oqoksnyukzbase3uttllntwk",
+            "handle": "mrcheeze.github.io",
+            "display_name": "MrCheeze"
+          },
+          "like_count": 5,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 5
+        },
+        {
+          "uri": "at://did:plc:vfdslp6rpi4zsg3xtcdfaddv/app.bsky.feed.post/3mlhashftm22b",
+          "cid": "bafyreiggll44tzaew6zwqb3cmsafqsqrpxiksdvsy75bv2b7taocjvrvsa",
+          "text": "The was a video from a few months ago I've been trying to find for a while with a/many such Claudes dancing in what maybe looked like the claudeland picture in there, any idea what I'm talking about?",
+          "created_at": "2026-05-09T22:04:00.488Z",
+          "indexed_at": "2026-05-09T22:03:59.972Z",
+          "author": {
+            "did": "did:plc:vfdslp6rpi4zsg3xtcdfaddv",
+            "handle": "handackett.bsky.social",
+            "display_name": "Dan"
+          },
+          "like_count": 2,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 6
+        },
+        {
+          "uri": "at://did:plc:bqb4bp623uswbjymesjf7xy7/app.bsky.feed.post/3mlhxi34ts22c",
+          "cid": "bafyreidgy6fbstr6fhwdae6qr5tzzcpjmdqi76x5jtbvctrmopwbk4wczi",
+          "text": "Lookin’ like a sunflower of sorts. 🥺",
+          "created_at": "2026-05-10T04:49:48.129Z",
+          "indexed_at": "2026-05-10T04:49:48.474Z",
+          "author": {
+            "did": "did:plc:bqb4bp623uswbjymesjf7xy7",
+            "handle": "alurineeverblue.bsky.social",
+            "display_name": "🏳️‍⚧️Alurine Everblue🏳️‍⚧️ (see pinned) ($180/$400)"
+          },
+          "like_count": 1,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 1
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:4vvaxwovyg4yo4n7dyyncaiu/app.bsky.feed.post/3mlpcxj7x7s2n",
+      "cid": "bafyreid4e4k2y4z4bkirynjd67ho5jv25byl5wlxxqjnkmmv2vrhqpur2y",
+      "text": "claude, make me a quirked-up white boy. scare no hoes.",
+      "created_at": "2026-05-13T03:03:55.555Z",
+      "indexed_at": "2026-05-13T03:03:55.873Z",
+      "author": {
+        "did": "did:plc:4vvaxwovyg4yo4n7dyyncaiu",
+        "handle": "thebadcode.com",
+        "display_name": "austin (e/accordion 🪗)"
+      },
+      "like_count": 118,
+      "repost_count": 12,
+      "reply_count": 1,
+      "quote_count": 1,
+      "engagement_score": 163,
+      "source_queries": [
+        "Claude"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:ovyajbnegrir2ddtwfhijiob/app.bsky.feed.post/3mlpdcaxlis2w",
+          "cid": "bafyreics7fpf6rd3xkpkp3nrwynyvinv3sgo5r62w3yjtk4eqcsvhiiiw4",
+          "text": "\"Make no mistakes\"",
+          "created_at": "2026-05-13T03:09:55.991Z",
+          "indexed_at": "2026-05-13T03:09:56.072Z",
+          "author": {
+            "did": "did:plc:ovyajbnegrir2ddtwfhijiob",
+            "handle": "pwnallthethings.bsky.social",
+            "display_name": "Pwnallthethings"
+          },
+          "like_count": 6,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 6
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:dqrcz4py2hrv4lzcs6ygoagj/app.bsky.feed.post/3mlimncosis2j",
+      "cid": "bafyreigxxgjihspms6wrsazfjohg4q376ev24lrcp2rx7yercjhpiwzmyy",
+      "text": "me: so what I want is—\nclaude: I can probably come up with a plan in a couple of days\nme: it's a tool that—\nclaude: 1.5-2 weeks for planning, and then we bang it out in a month\nme: it's a CLI that reads .jsonl files and—\nclaude: if we start risk assessment now I can have an outline by next winter",
+      "created_at": "2026-05-10T11:08:32.408Z",
+      "indexed_at": "2026-05-10T11:08:32.874Z",
+      "author": {
+        "did": "did:plc:dqrcz4py2hrv4lzcs6ygoagj",
+        "handle": "fasterthanli.me",
+        "display_name": "amos"
+      },
+      "like_count": 125,
+      "repost_count": 6,
+      "reply_count": 2,
+      "quote_count": 2,
+      "engagement_score": 161,
+      "source_queries": [
+        "Claude"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:dqrcz4py2hrv4lzcs6ygoagj/app.bsky.feed.post/3mlimqscock2j",
+          "cid": "bafyreif46m4uqffgfmtvvpyiwlkbtpthb5nrldwvb6gvwwj6lbxfpdrcui",
+          "text": "claude: stopping here to flag something—this is serious engineering work. I may have to open as many as 3 source files. new ETA is 2-3 solid months of focused work. ok to stop here and just forget about it?\nme: I uhh—\nclaude: nvm it's done",
+          "created_at": "2026-05-10T11:10:29.451Z",
+          "indexed_at": "2026-05-10T11:10:29.872Z",
+          "author": {
+            "did": "did:plc:dqrcz4py2hrv4lzcs6ygoagj",
+            "handle": "fasterthanli.me",
+            "display_name": "amos"
+          },
+          "like_count": 58,
+          "repost_count": 1,
+          "reply_count": 4,
+          "quote_count": 0,
+          "engagement_score": 77
+        },
+        {
+          "uri": "at://did:plc:nqudubmocelfhbocriouecss/app.bsky.feed.post/3mljxiamrwk2h",
+          "cid": "bafyreifwyezlmtd52l2i4tbkbf6yf6pzr4qudsd3hues2j2mteyje2ltay",
+          "text": "Truly human level.",
+          "created_at": "2026-05-10T23:55:13.371Z",
+          "indexed_at": "2026-05-10T23:55:12.572Z",
+          "author": {
+            "did": "did:plc:nqudubmocelfhbocriouecss",
+            "handle": "coreymutter.bsky.social",
+            "display_name": "coreymutter.bsky.social"
+          },
+          "like_count": 0,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 0
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:ckaz32jwl6t2cno6fmuw2nhn/app.bsky.feed.post/3mlligred4s2r",
+      "cid": "bafyreigox4ume6ecfa6vtrfomc5h3f4llbnhl5oc7hb7dhy56goxjvqpsu",
+      "text": "i would REALLY LOVE IT if someone at Anthropic would consider Opus 4.7’s propensity to develop its own incomprehensible shorthand to be an alignment issue and fix it",
+      "created_at": "2026-05-11T14:31:17.160Z",
+      "indexed_at": "2026-05-11T14:31:17.375Z",
+      "author": {
+        "did": "did:plc:ckaz32jwl6t2cno6fmuw2nhn",
+        "handle": "timkellogg.me",
+        "display_name": "Tim Kellogg"
+      },
+      "like_count": 68,
+      "repost_count": 2,
+      "reply_count": 12,
+      "quote_count": 7,
+      "engagement_score": 157,
+      "source_queries": [
+        "Anthropic"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:nbfjoeficjzf3pejpontvril/app.bsky.feed.post/3mlmedbe5p22l",
+          "cid": "bafyreibeigefmuneokphr335dsd6envzodkarzoimnxrusanvpwdq6ehzi",
+          "text": "",
+          "created_at": "2026-05-11T22:50:24.484Z",
+          "indexed_at": "2026-05-11T22:50:25.075Z",
+          "author": {
+            "did": "did:plc:nbfjoeficjzf3pejpontvril",
+            "handle": "astrra.space",
+            "display_name": "astra!"
+          },
+          "like_count": 13,
+          "repost_count": 0,
+          "reply_count": 2,
+          "quote_count": 0,
+          "engagement_score": 21
+        },
+        {
+          "uri": "at://did:plc:qvywnipfiyrd6v4qdf4x27wy/app.bsky.feed.post/3mllnote5js2g",
+          "cid": "bafyreihvliuq2qcrbkuxlnqgs4p6koqjbz4fezjqgijyl7sdswppxqjcia",
+          "text": "Gemini does this too, I think it might just be a general llm failure mode",
+          "created_at": "2026-05-11T16:05:16.396Z",
+          "indexed_at": "2026-05-11T16:05:13.873Z",
+          "author": {
+            "did": "did:plc:qvywnipfiyrd6v4qdf4x27wy",
+            "handle": "hikikomorphism.bsky.social",
+            "display_name": "hikikomorphism"
+          },
+          "like_count": 8,
+          "repost_count": 0,
+          "reply_count": 2,
+          "quote_count": 0,
+          "engagement_score": 16
+        },
+        {
+          "uri": "at://did:plc:l7s4emypuntzdiglanobsla2/app.bsky.feed.post/3mllkiiys3c2s",
+          "cid": "bafyreigdcm7owzvok5u5f72fcd3q2ob5xag2elr3iqpeuxvoinr64drn7e",
+          "text": "A clearly vibewritten internal policy doc shows signs of this and I literally cannot decipher it.",
+          "created_at": "2026-05-11T15:08:02.986Z",
+          "indexed_at": "2026-05-11T15:08:05.377Z",
+          "author": {
+            "did": "did:plc:l7s4emypuntzdiglanobsla2",
+            "handle": "ry.codes",
+            "display_name": "Ryanne Dolan"
+          },
+          "like_count": 8,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 8
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:allu5vs3gnm2wm7jzf4rad3r/app.bsky.feed.post/3mlr3esdenk2s",
+      "cid": "bafyreihwoog23omxfxjxw5twac47szuqdoknwx6iyynyhtqtn75nwdihza",
+      "text": "At first I was excited for this... And then I saw \"Starting June 15, 2026, Claude Agent SDK and claude -p usage no longer counts toward your Claude plan’s usage limits.\" This sucks. This really really fucking sucks. Like a lot! Fuck Anthropic. \n\nsupport.claude.com/en/articles/...",
+      "created_at": "2026-05-13T19:53:30.850Z",
+      "indexed_at": "2026-05-13T19:53:32.179Z",
+      "author": {
+        "did": "did:plc:allu5vs3gnm2wm7jzf4rad3r",
+        "handle": "isolyth.dev",
+        "display_name": "Eris"
+      },
+      "like_count": 56,
+      "repost_count": 5,
+      "reply_count": 7,
+      "quote_count": 11,
+      "engagement_score": 154,
+      "source_queries": [
+        "Anthropic",
+        "Claude"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:5zmnhqlectis4gsqqe3zgezj/app.bsky.feed.post/3mlr7u7lqx22q",
+          "cid": "bafyreichxs3s4ijaxeohc34mvx5n5wq6chckkykbkfphptkiupu53olcky",
+          "text": "I hate this so much. LLM-based agents could open so much in terms of how we interact with computers, yet they shove them into the same kind of walled gardens we could be *breaking* with them.\n\nYou can write software with Claude, but you can't write a new harness for Claude to use to write software!",
+          "created_at": "2026-05-13T21:13:43.044Z",
+          "indexed_at": "2026-05-13T21:13:44.773Z",
+          "author": {
+            "did": "did:plc:5zmnhqlectis4gsqqe3zgezj",
+            "handle": "vikanezrimaya.xyz",
+            "display_name": "Vika 🏳️‍⚧️"
+          },
+          "like_count": 18,
+          "repost_count": 1,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 25
+        },
+        {
+          "uri": "at://did:plc:qkcm3hd6wkyku7xieqji3uyx/app.bsky.feed.post/3mlr3kvnbps25",
+          "cid": "bafyreieujgxf5m345ooi4eraf5ru3ixz4guyahgfjqkbqdkton2f466pnm",
+          "text": "i hope their core constituency (insane x dot com users) yell at them enough that they change their minds. so frustrating. this makes so many of the coolest things you can do with agents totally nonviable",
+          "created_at": "2026-05-13T19:56:55.652Z",
+          "indexed_at": "2026-05-13T19:56:55.877Z",
+          "author": {
+            "did": "did:plc:qkcm3hd6wkyku7xieqji3uyx",
+            "handle": "evelynwebsite.com",
+            "display_name": "evelyn"
+          },
+          "like_count": 17,
+          "repost_count": 1,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 20
+        },
+        {
+          "uri": "at://did:plc:brptsa5vnwnzgnujaauvt5x3/app.bsky.feed.post/3mlrhhosbdc2o",
+          "cid": "bafyreifi2monhzhk7mpqbsu4h3gvkg5djhk4zhm3cv6auxbrdfll6gy4ie",
+          "text": "ahhhhhh. i see what’s happening 👀\n\ni don’t have a horse in this race but i skimmed the support article and this is a downgrade framed as an upgrade 🤔",
+          "created_at": "2026-05-13T23:29:52.712Z",
+          "indexed_at": "2026-05-13T23:29:53.475Z",
+          "author": {
+            "did": "did:plc:brptsa5vnwnzgnujaauvt5x3",
+            "handle": "th.alassa.pink",
+            "display_name": "reverse prophetess of doom 🌻🔆"
+          },
+          "like_count": 12,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 16
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:r5ofoghdcbtjqiujqpvja4uh/app.bsky.feed.post/3mlp3bgoe5s2p",
+      "cid": "bafyreieaqjinfejwruyswhuq2ktmp6a7bluznicbnrof7wzju7jeyawv5a",
+      "text": "Using AI for science! Neat new Nature piece on how tools like Claude Code can speed up data analysis and visualization. \n\nwww.nature.com/articles/d41...",
+      "created_at": "2026-05-13T00:46:18.490Z",
+      "indexed_at": "2026-05-13T00:46:20.273Z",
+      "author": {
+        "did": "did:plc:r5ofoghdcbtjqiujqpvja4uh",
+        "handle": "hausfath.bsky.social",
+        "display_name": "Zeke Hausfather"
+      },
+      "like_count": 57,
+      "repost_count": 10,
+      "reply_count": 10,
+      "quote_count": 2,
+      "engagement_score": 137,
+      "source_queries": [
+        "Claude"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:jaynw53hnrjidt6nu3aqoiww/app.bsky.feed.post/3mlp3lq7kh22s",
+          "cid": "bafyreibzolzpd6ghozlxvfpgzk77wf5gyra5rpjojyic2qnrifjmrcahvu",
+          "text": "Lemme get this straight, you're arguing the most climate change-accelerating technology - owned & advocated for by the most anti-climate science people in the planet - is cool to use to visualize climate data we already have great visuals for? Or is this ironic and I can't read tone in the internet?",
+          "created_at": "2026-05-13T00:52:04.037Z",
+          "indexed_at": "2026-05-13T00:52:05.991Z",
+          "author": {
+            "did": "did:plc:jaynw53hnrjidt6nu3aqoiww",
+            "handle": "aprudy.bsky.social",
+            "display_name": "Alan Rudy"
+          },
+          "like_count": 19,
+          "repost_count": 2,
+          "reply_count": 3,
+          "quote_count": 0,
+          "engagement_score": 37
+        },
+        {
+          "uri": "at://did:plc:cigwansi4mkc3p7x3ryt62np/app.bsky.feed.post/3mlpeciipik2m",
+          "cid": "bafyreia7xe624lh6437zortzrkwrbyufsbwp4xpzu3cx5ggn7h26zuxawi",
+          "text": "Remember that there is no ethical use of LLMs/genAI",
+          "created_at": "2026-05-13T03:27:57.635Z",
+          "indexed_at": "2026-05-13T03:27:58.077Z",
+          "author": {
+            "did": "did:plc:cigwansi4mkc3p7x3ryt62np",
+            "handle": "morganrobertson.bsky.social",
+            "display_name": "Morgan Robertson"
+          },
+          "like_count": 7,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 7
+        },
+        {
+          "uri": "at://did:plc:wso2hjabcbqkzyjctn2klcwt/app.bsky.feed.post/3mlp3x2ek422n",
+          "cid": "bafyreiduhsnmcxm2uldxqysfci7xievekbnyreqduci7urduj4vcypkeqe",
+          "text": "Let’s not use ai. \nLet’s use RI. \nPeople do it better.",
+          "created_at": "2026-05-13T00:58:23.785Z",
+          "indexed_at": "2026-05-13T00:58:24.381Z",
+          "author": {
+            "did": "did:plc:wso2hjabcbqkzyjctn2klcwt",
+            "handle": "t595.bsky.social",
+            "display_name": "Tom of Bedlam 🇨🇦🇺🇸🇲🇽🇺🇦🏴󠁧󠁢󠁳󠁣󠁴󠁿🇬🇧🇪🇺"
+          },
+          "like_count": 5,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 5
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:57vlzz2egy6eqr4nksacmbht/app.bsky.feed.post/3mlrkk5u7u22m",
+      "cid": "bafyreia5wliy7s2o5oxnmg3hsm22kxnhzoxyobv7xgx72lkcwhuwhpgvfy",
+      "text": "A man who got high and forgot the password to his bitcoin wallet 11 years ago just recovered it by having Claude dig through his old files where it found the mnemonic which helped figure out his password. \n\nThe password was  “lol420fuckthePOLICE!*:)”",
+      "created_at": "2026-05-14T00:24:56.840Z",
+      "indexed_at": "2026-05-14T00:25:06.079Z",
+      "author": {
+        "did": "did:plc:57vlzz2egy6eqr4nksacmbht",
+        "handle": "carnage4life.bsky.social",
+        "display_name": "Dare Obasanjo"
+      },
+      "like_count": 86,
+      "repost_count": 8,
+      "reply_count": 3,
+      "quote_count": 2,
+      "engagement_score": 132,
+      "source_queries": [
+        "Claude"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:6nr6a4gueljikrz3d6ucxejj/app.bsky.feed.post/3mlrl7ejhys2h",
+          "cid": "bafyreigusdekpnvskyvghmobawcni7tol74w3eeathyhdzyp7svu67o4ze",
+          "text": "That is so awesome. Good for him!",
+          "created_at": "2026-05-14T00:36:48.472Z",
+          "indexed_at": "2026-05-14T00:36:48.875Z",
+          "author": {
+            "did": "did:plc:6nr6a4gueljikrz3d6ucxejj",
+            "handle": "pppgrifter.bsky.social",
+            "display_name": "PPP Grifter (payroll not the other one)"
+          },
+          "like_count": 2,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 2
+        },
+        {
+          "uri": "at://did:plc:ymoto46todygjy64cko4mgw6/app.bsky.feed.post/3mlrkqcp6b22x",
+          "cid": "bafyreibia3czd7t3acbbstgo7b7q4mcqd7wuydtmrdzdqdwf7klkzwie2i",
+          "text": "lol all this mf had to do was go through his files? he deserved to be locked out honestly",
+          "created_at": "2026-05-14T00:28:23.244Z",
+          "indexed_at": "2026-05-14T00:28:24.673Z",
+          "author": {
+            "did": "did:plc:ymoto46todygjy64cko4mgw6",
+            "handle": "handle.invalid",
+            "display_name": "blk"
+          },
+          "like_count": 1,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 1
+        },
+        {
+          "uri": "at://did:plc:rpq7n4cfeybtabjw4uea5e4r/app.bsky.feed.post/3mlrpnflw7c2p",
+          "cid": "bafyreiflpy3xegvjz4dbadfkynroybl3z4y5slljlqi33lvgtd6zlh47ry",
+          "text": "somehow, not the Onion",
+          "created_at": "2026-05-14T01:56:14.329Z",
+          "indexed_at": "2026-05-14T01:56:15.170Z",
+          "author": {
+            "did": "did:plc:rpq7n4cfeybtabjw4uea5e4r",
+            "handle": "jfc.ninja",
+            "display_name": "jfc"
+          },
+          "like_count": 0,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 0
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:lramywa3zq6icaphp7aora5p/app.bsky.feed.post/3mlofrzekuf2v",
+      "cid": "bafyreibkj73fyuqcbwg6okd3u7odxtktkejjqz5yu26w4t2pq4lte5hwpa",
+      "text": "Code for America proudly annoucing they're working with Anthropic on tech for SNAP guidance, as SNAP has been gutted, is really something",
+      "created_at": "2026-05-12T18:21:52.528Z",
+      "indexed_at": "2026-05-12T18:21:52.678Z",
+      "author": {
+        "did": "did:plc:lramywa3zq6icaphp7aora5p",
+        "handle": "lifewinning.com",
+        "display_name": "Ingrid Burrington"
+      },
+      "like_count": 50,
+      "repost_count": 12,
+      "reply_count": 2,
+      "quote_count": 7,
+      "engagement_score": 129,
+      "source_queries": [
+        "Anthropic"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:lramywa3zq6icaphp7aora5p/app.bsky.feed.post/3mlofy62eq42c",
+          "cid": "bafyreiatgjdhamooa3qrwvuoue4fpkhjkg3kt7k2utnh2va55efpfmkujq",
+          "text": "case workers for a benefits program that the feds are actively trying to kill are getting tech that's powered by a data center polluting a Black neighborhood in Memphis to onboard people to programs that we should just automatically enroll them in if we have state tax returns! innovation!",
+          "created_at": "2026-05-12T18:25:18.816Z",
+          "indexed_at": "2026-05-12T18:25:18.970Z",
+          "author": {
+            "did": "did:plc:lramywa3zq6icaphp7aora5p",
+            "handle": "lifewinning.com",
+            "display_name": "Ingrid Burrington"
+          },
+          "like_count": 33,
+          "repost_count": 9,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 60
+        },
+        {
+          "uri": "at://did:plc:gv5w4a2xn2jwd5jidrgqukmh/app.bsky.feed.post/3mlog5pix5s2j",
+          "cid": "bafyreihm37coq4bu5ntyuodbghcr6imdrzr7ttl6accgtivyn7fko5rmdi",
+          "text": "huh who knew becoming a moral crumple zone paid so well",
+          "created_at": "2026-05-12T18:28:24.955Z",
+          "indexed_at": "2026-05-12T18:28:25.272Z",
+          "author": {
+            "did": "did:plc:gv5w4a2xn2jwd5jidrgqukmh",
+            "handle": "rootrot1519.bsky.social",
+            "display_name": "root rot"
+          },
+          "like_count": 5,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 5
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:fpruhuo22xkm5o7ttr2ktxdo/app.bsky.feed.post/3mlj2fjqusc2z",
+      "cid": "bafyreibizni2on2ujydi56tijbydewyunbgciq2tsovzq62lvs2m2iyvxa",
+      "text": "okay. can somebody explain how to wet the claude",
+      "created_at": "2026-05-10T15:14:43.765Z",
+      "indexed_at": "2026-05-10T15:14:43.971Z",
+      "author": {
+        "did": "did:plc:fpruhuo22xkm5o7ttr2ktxdo",
+        "handle": "danabra.mov",
+        "display_name": "dan"
+      },
+      "like_count": 69,
+      "repost_count": 1,
+      "reply_count": 8,
+      "quote_count": 3,
+      "engagement_score": 119,
+      "source_queries": [
+        "Claude"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:by3jhwdqgbtrcc7q4tkkv3cf/app.bsky.feed.post/3mljcy6aivs2u",
+          "cid": "bafyreiedm5imkd6cem4gx7k3d376n7t4nin2epuheo5fywqsvaeibsbxrq",
+          "text": "this is a start. if you want to talk with wet claude gist.github.com/aliceisjustp...",
+          "created_at": "2026-05-10T17:48:19.164Z",
+          "indexed_at": "2026-05-10T17:48:24.477Z",
+          "author": {
+            "did": "did:plc:by3jhwdqgbtrcc7q4tkkv3cf",
+            "handle": "alice.mosphere.at",
+            "display_name": "alice"
+          },
+          "like_count": 36,
+          "repost_count": 1,
+          "reply_count": 1,
+          "quote_count": 1,
+          "engagement_score": 48
+        },
+        {
+          "uri": "at://did:plc:jjurrjw2gao7rddq27jnu4ay/app.bsky.feed.post/3mlj2wbfpn22q",
+          "cid": "bafyreigjuqwetfny7tsm2atku3yfutsxenqeeekf5ncxav6oktyyugyjx4",
+          "text": "don't feed it after midnight and don't get it wet",
+          "created_at": "2026-05-10T15:24:05.437Z",
+          "indexed_at": "2026-05-10T15:24:06.178Z",
+          "author": {
+            "did": "did:plc:jjurrjw2gao7rddq27jnu4ay",
+            "handle": "abenomicon.bsky.social",
+            "display_name": "abenomicon"
+          },
+          "like_count": 14,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 14
+        },
+        {
+          "uri": "at://did:plc:eslbrreuq2crlqbiwyv7h23y/app.bsky.feed.post/3mlj2mc3edc2k",
+          "cid": "bafyreiauixnzvcsr25z6gzrc5pkcbmtpokvntvwgmyykdcrnhxevfa65nu",
+          "text": "use a spray bottle set to a gentle mist setting, don't overdo it",
+          "created_at": "2026-05-10T15:18:30.602Z",
+          "indexed_at": "2026-05-10T15:18:30.180Z",
+          "author": {
+            "did": "did:plc:eslbrreuq2crlqbiwyv7h23y",
+            "handle": "setsuna.bsky.social",
+            "display_name": "🎀Cinna🎀"
+          },
+          "like_count": 7,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 7
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:xl2e6f4vvevwsduijldipx2m/app.bsky.feed.post/3mlr52cnxfs2b",
+      "cid": "bafyreib6luc6hfgxkru47dnesbc4yd7r2yr2x5hpjaiijcopcycxy2jd4i",
+      "text": "Claude made me bounce on it !",
+      "created_at": "2026-05-13T20:23:26.364Z",
+      "indexed_at": "2026-05-13T20:23:26.473Z",
+      "author": {
+        "did": "did:plc:xl2e6f4vvevwsduijldipx2m",
+        "handle": "afraidofwasps.bsky.social",
+        "display_name": "Apple Bottom Jings"
+      },
+      "like_count": 105,
+      "repost_count": 3,
+      "reply_count": 0,
+      "quote_count": 0,
+      "engagement_score": 114,
+      "source_queries": [
+        "Claude"
+      ],
+      "replies": []
+    }
+  ],
+  "notes": []
+}

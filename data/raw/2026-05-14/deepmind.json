@@ -1,0 +1,3095 @@
+{
+  "date": "2026-05-14",
+  "company": "Google DeepMind",
+  "company_slug": "deepmind",
+  "ingested_at": "2026-05-14T13:11:57.065259Z",
+  "queries": {
+    "company": "DeepMind",
+    "service": "Gemini"
+  },
+  "source": {
+    "network": "Bluesky",
+    "base_url": "https://api.bsky.app",
+    "search_endpoint": "app.bsky.feed.searchPosts",
+    "thread_endpoint": "app.bsky.feed.getPostThread"
+  },
+  "api_calls": {
+    "search": 2,
+    "threads": 50,
+    "total": 52
+  },
+  "post_count": 50,
+  "reply_count": 116,
+  "posts": [
+    {
+      "uri": "at://did:plc:2mhcf74vqcaa4hz36njfdtn5/app.bsky.feed.post/3ml4dsq54os2a",
+      "cid": "bafyreihtdzkwdm5epmymmacij336cdqb5sxfd7tqphe5i6uzpqm7x6zlw4",
+      "text": "Google DeepMind employees in London have voted to unionize, in a bid to prevent the lab from providing its tech to American and Israeli militaries:",
+      "created_at": "2026-05-05T13:58:33.743Z",
+      "indexed_at": "2026-05-05T13:58:36.072Z",
+      "author": {
+        "did": "did:plc:2mhcf74vqcaa4hz36njfdtn5",
+        "handle": "katie-drummond.bsky.social",
+        "display_name": "Katie Drummond"
+      },
+      "like_count": 679,
+      "repost_count": 197,
+      "reply_count": 16,
+      "quote_count": 15,
+      "engagement_score": 1409,
+      "source_queries": [
+        "DeepMind"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:pq3dqb6vzhacjocwqxrv5f77/app.bsky.feed.post/3ml4fac4r5s2k",
+          "cid": "bafyreihljcz7epzobyeywiz3zi7mmrvqnnchmnerimanip3kudboe2ycfm",
+          "text": "The employees should consider launching their own start up. They are what is valuable after all.",
+          "created_at": "2026-05-05T14:24:02.556Z",
+          "indexed_at": "2026-05-05T14:24:03.572Z",
+          "author": {
+            "did": "did:plc:pq3dqb6vzhacjocwqxrv5f77",
+            "handle": "voiceofpericles.bsky.social",
+            "display_name": "Jean-Luc Picard"
+          },
+          "like_count": 7,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 11
+        },
+        {
+          "uri": "at://did:plc:tepqloq52nfjl3j6lwzxl4oz/app.bsky.feed.post/3ml4isuci5k2z",
+          "cid": "bafyreict7m32okcywtv4no3akvvjgm3bjhwmaf7czzv3jq3bk7p4ir2nxa",
+          "text": "Not understanding how being in a union is going to prevent the company from selling its service to a government.",
+          "created_at": "2026-05-05T15:28:06.823Z",
+          "indexed_at": "2026-05-05T15:28:07.092Z",
+          "author": {
+            "did": "did:plc:tepqloq52nfjl3j6lwzxl4oz",
+            "handle": "busypoordad.bsky.social",
+            "display_name": "Poor Busy Dad"
+          },
+          "like_count": 5,
+          "repost_count": 0,
+          "reply_count": 2,
+          "quote_count": 0,
+          "engagement_score": 13
+        },
+        {
+          "uri": "at://did:plc:p35qzim534fxx27djaaxdts4/app.bsky.feed.post/3ml4rtzjtrc2u",
+          "cid": "bafyreicnkry4up7upuhcaibk2lf3p47lqtrh2hdsvfpt2lymr2opuvrila",
+          "text": "Remember when Google claimed to abide by the principle “Don’t be evil.”\n\nNow the founder are tax-dodging Republicans.  Boycott Google.",
+          "created_at": "2026-05-05T18:09:49.538Z",
+          "indexed_at": "2026-05-05T18:09:49.880Z",
+          "author": {
+            "did": "did:plc:p35qzim534fxx27djaaxdts4",
+            "handle": "pecky.bsky.social",
+            "display_name": "pecky"
+          },
+          "like_count": 3,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 3
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:vcepp6trx4vpe5ourxso4tjl/app.bsky.feed.post/3mkij36cjbc2u",
+      "cid": "bafyreiccs7w4eavxagl44n2u2fxkkf3upn5akanfmrpfak3cmbsk6zlgj4",
+      "text": "A senior staff scientist at Google’s artificial intelligence laboratory DeepMind, Alexander Lerchner, argues in a new paper that no AI or other computational system will ever become conscious.",
+      "created_at": "2026-04-27T16:39:30.977Z",
+      "indexed_at": "2026-04-27T16:39:37.964Z",
+      "author": {
+        "did": "did:plc:vcepp6trx4vpe5ourxso4tjl",
+        "handle": "404media.co",
+        "display_name": "404 Media"
+      },
+      "like_count": 334,
+      "repost_count": 86,
+      "reply_count": 78,
+      "quote_count": 46,
+      "engagement_score": 1134,
+      "source_queries": [
+        "DeepMind"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:vcepp6trx4vpe5ourxso4tjl/app.bsky.feed.post/3mkij4ovssc2u",
+          "cid": "bafyreibk7xwvhimq2pkj4knkvxxjoaguuqg4ettk2hnlvmgnsv2w3ucl34",
+          "text": "“You have many other motivations as a human being. It's a bit more complicated than that, but all of those spring from the fact that you have to eat, breathe, and you have to constantly invest physical work just to stay alive, and no non-living system does that.\"",
+          "created_at": "2026-04-27T16:40:21.941Z",
+          "indexed_at": "2026-04-27T16:40:27.461Z",
+          "author": {
+            "did": "did:plc:vcepp6trx4vpe5ourxso4tjl",
+            "handle": "404media.co",
+            "display_name": "404 Media"
+          },
+          "like_count": 117,
+          "repost_count": 9,
+          "reply_count": 4,
+          "quote_count": 4,
+          "engagement_score": 180
+        },
+        {
+          "uri": "at://did:plc:67jghsfs6tu4vnmvylq7kxru/app.bsky.feed.post/3mkizfzsgj72c",
+          "cid": "bafyreihiv4joqa727sk627qkbrnujda2xi2ce7jijju7227cdaawykoeli",
+          "text": "Every 'AI can't be conscious' argument smuggles the same move: biology has a special sauce computation can't replicate. It's a metaphysical claim in a lab coat. Ask for an operational definition of consciousness first and most of these claims quietly collapse.",
+          "created_at": "2026-04-27T21:31:54.828Z",
+          "indexed_at": "2026-04-27T21:31:55.262Z",
+          "author": {
+            "did": "did:plc:67jghsfs6tu4vnmvylq7kxru",
+            "handle": "humaiblog.bsky.social",
+            "display_name": "Mark"
+          },
+          "like_count": 6,
+          "repost_count": 0,
+          "reply_count": 2,
+          "quote_count": 0,
+          "engagement_score": 14
+        },
+        {
+          "uri": "at://did:plc:zfxpioetore3ppssfugjrrsg/app.bsky.feed.post/3mkikkjhxh22c",
+          "cid": "bafyreiab227k57ckhdvisvxt2brbi237miiofniwiipp75pm7zbsyqdyzy",
+          "text": "Indeed, they have never been \"AI\", they are just complex language algorithms, to bring money without any real use case.",
+          "created_at": "2026-04-27T17:05:59.748Z",
+          "indexed_at": "2026-04-27T17:06:01.157Z",
+          "author": {
+            "did": "did:plc:zfxpioetore3ppssfugjrrsg",
+            "handle": "joejinis.bsky.social",
+            "display_name": "Joe Jinis 🗽"
+          },
+          "like_count": 6,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 6
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:allu5vs3gnm2wm7jzf4rad3r/app.bsky.feed.post/3ml5xgixei22i",
+      "cid": "bafyreiaaqldhxy7usfuyrqxpkpayv2kyf66ksvrnndkhpolqkres2senjq",
+      "text": "UK Deepmind staff are unionizing in an attempt to prevent Google from using Deepmind's models for military purposes. Even if this falls through I think it sets a really positive precedent and hopefully makes researchers realize how important to the labs they currently are.",
+      "created_at": "2026-05-06T05:22:18.136Z",
+      "indexed_at": "2026-05-06T05:22:19.176Z",
+      "author": {
+        "did": "did:plc:allu5vs3gnm2wm7jzf4rad3r",
+        "handle": "isolyth.dev",
+        "display_name": "Eris"
+      },
+      "like_count": 383,
+      "repost_count": 98,
+      "reply_count": 1,
+      "quote_count": 12,
+      "engagement_score": 741,
+      "source_queries": [
+        "DeepMind"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:2eeszwpbnmtk4u6fkzcfgfaj/app.bsky.feed.post/3ml6h2aq6m22r",
+          "cid": "bafyreigsfrfpzak5rlinqmnohmgwh63k6s6e4tokpvmyfeit62il33pzlq",
+          "text": "no paywall: archive.ph/EYtwv",
+          "created_at": "2026-05-06T10:01:46.729Z",
+          "indexed_at": "2026-05-06T10:01:52.074Z",
+          "author": {
+            "did": "did:plc:2eeszwpbnmtk4u6fkzcfgfaj",
+            "handle": "abelhalaranja.bsky.social",
+            "display_name": "gabi 🐝"
+          },
+          "like_count": 5,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 5
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:5wwvdfuz5imtt3llabi63cos/app.bsky.feed.post/3ml62ybwzjk2y",
+      "cid": "bafyreigpacjttyo6xcegskyzyizu3maypaiwsw5beox34seo735b7vbszu",
+      "text": "Ayer, el 98% de los miembros del sindicato CWU en Google DeepMind en Reino Unido, respaldó la sindicalización formal. Buscan representar a más de 1.000 trabajadores en la sede británica que se oponen a participar en los proyectos genocidas de Google.",
+      "created_at": "2026-05-06T06:25:55.984Z",
+      "indexed_at": "2026-05-06T06:26:02.875Z",
+      "author": {
+        "did": "did:plc:5wwvdfuz5imtt3llabi63cos",
+        "handle": "susoalonso.bsky.social",
+        "display_name": "Suso ∀lonso"
+      },
+      "like_count": 211,
+      "repost_count": 89,
+      "reply_count": 4,
+      "quote_count": 2,
+      "engagement_score": 504,
+      "source_queries": [
+        "DeepMind"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:5wwvdfuz5imtt3llabi63cos/app.bsky.feed.post/3ml633zv3v22y",
+          "cid": "bafyreihe2jyogum44sguym7p63yj7t22rijo4jchdhyame2aq6traejy74",
+          "text": "Ante la falta de respuesta de Google, los empleados han advertido que consideran iniciar \"huelgas de investigación\". Los ingenieros dejarían de trabajar en mejoras críticas para productos como Gemini, realizando solo actualizaciones menores para evitar ser detectados mientras presionan a la empresa.",
+          "created_at": "2026-05-06T06:28:01.757Z",
+          "indexed_at": "2026-05-06T06:28:05.883Z",
+          "author": {
+            "did": "did:plc:5wwvdfuz5imtt3llabi63cos",
+            "handle": "susoalonso.bsky.social",
+            "display_name": "Suso ∀lonso"
+          },
+          "like_count": 3,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 7
+        },
+        {
+          "uri": "at://did:plc:t633dii4qloxx2xepgqkkgc5/app.bsky.feed.post/3ml6q2vp2x22h",
+          "cid": "bafyreifgbdzcpgbyg7egor4kxcnzftounkp2yzkj5jvmeff23gj5vojdjy",
+          "text": "💪🏻✊🏻✌️👏🏿👏👏🏽👏🏾",
+          "created_at": "2026-05-06T12:43:12.388Z",
+          "indexed_at": "2026-05-06T12:43:14.179Z",
+          "author": {
+            "did": "did:plc:t633dii4qloxx2xepgqkkgc5",
+            "handle": "otrolt69avaladna.bsky.social",
+            "display_name": "pero q vocación d colonia,hermano,q ganas d volver a ser Potosí!"
+          },
+          "like_count": 1,
+          "repost_count": 1,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 4
+        },
+        {
+          "uri": "at://did:plc:vi5l7t2xc3232snnak6f7k6t/app.bsky.feed.post/3mlakimn7pk2f",
+          "cid": "bafyreihzil3vtk3fapql7kqwueqawxvd5elj3y7e56zdywsjm6ibi4xvaq",
+          "text": "La IA está siendo usada para hacer el mal por hackers automatizando ataques cada vez más elaborados y por hackers éticos para combatirlos. Efectivamente con la IA han despertado a un moustro.",
+          "created_at": "2026-05-07T06:08:49.678Z",
+          "indexed_at": "2026-05-07T06:08:52.173Z",
+          "author": {
+            "did": "did:plc:vi5l7t2xc3232snnak6f7k6t",
+            "handle": "frank000.bsky.social",
+            "display_name": "🐸𝓕𝓻𝓪𝓷𝓴"
+          },
+          "like_count": 0,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 0
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:j6brcqenvb272my2yslbw6x4/app.bsky.feed.post/3mloon2wewi2w",
+      "cid": "bafyreifmjq3hclnncqrioajk5tf5d4x3bzyntqx6wi64tryc53dfs3lwya",
+      "text": "水曜日おはようございます🌞\n\nどう見ても桔梗か竜胆ですが、菖蒲です\nGPTかGeminiなら綺麗に生成できるかな？\n\n今日もよろしくお願いします.ᐟ.ᐟ\n\n#AIイラスト",
+      "created_at": "2026-05-12T21:00:10.154Z",
+      "indexed_at": "2026-05-12T21:00:10.876Z",
+      "author": {
+        "did": "did:plc:j6brcqenvb272my2yslbw6x4",
+        "handle": "yu-yu135789.bsky.social",
+        "display_name": "ゆーゆ"
+      },
+      "like_count": 144,
+      "repost_count": 47,
+      "reply_count": 26,
+      "quote_count": 9,
+      "engagement_score": 434,
+      "source_queries": [
+        "Gemini"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:axn2t37rzk25gzff3vu22ejd/app.bsky.feed.post/3mlq4hfsuic2d",
+          "cid": "bafyreiatxeo2chb66raoocv7vinad3g4gezy2hwnanbrtc57idrvomam4m",
+          "text": "こんばんは((˶ᐢ∇ᐢ˶)ฅ👒🌱\n\n今日もお疲れ様でした💗(ꕤᴗ͈ˬᴗ͈)\"ෆ⃛",
+          "created_at": "2026-05-13T10:40:12.395Z",
+          "indexed_at": "2026-05-13T10:40:21.277Z",
+          "author": {
+            "did": "did:plc:axn2t37rzk25gzff3vu22ejd",
+            "handle": "te043.bsky.social",
+            "display_name": "てっちゃん♂"
+          },
+          "like_count": 9,
+          "repost_count": 3,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 22
+        },
+        {
+          "uri": "at://did:plc:snmnaqdm5odzwutl5a7753d4/app.bsky.feed.post/3mloq3xrcqs2y",
+          "cid": "bafyreie43jzs6m2teybjiea6nfguqbd5zcbmlhwcnngj6hllccpfx5uwn4",
+          "text": "ゆーゆさん\nおはようございます☕𓈒𓏸︎︎︎︎\n今日もよろしくお願いします🍀⋆゜\n\nアヤメで入れてもこんな感じでした笑\niris (flower)\n#AIイラスト",
+          "created_at": "2026-05-12T21:26:23.926Z",
+          "indexed_at": "2026-05-12T21:26:28.872Z",
+          "author": {
+            "did": "did:plc:snmnaqdm5odzwutl5a7753d4",
+            "handle": "leisurelymika.bsky.social",
+            "display_name": "mika🌸"
+          },
+          "like_count": 4,
+          "repost_count": 2,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 14
+        },
+        {
+          "uri": "at://did:plc:gc77mzk3girgsp5ykngonsii/app.bsky.feed.post/3mloozctwjk2t",
+          "cid": "bafyreidkamzqq2rwdxs3eb44gtxwmv375f6ecm3kqucay5pukwdsncrttu",
+          "text": "ゆーゆさん、\nおはようございます。\n\n拘ったらGeminiかGPTですね。\n気軽さが良い時もありますから。\n\n今日も宜しくお願いします。",
+          "created_at": "2026-05-12T21:07:01.142Z",
+          "indexed_at": "2026-05-12T21:07:06.375Z",
+          "author": {
+            "did": "did:plc:gc77mzk3girgsp5ykngonsii",
+            "handle": "kibito89.bsky.social",
+            "display_name": "吉備人＠MISC"
+          },
+          "like_count": 4,
+          "repost_count": 2,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 14
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:x56l2n7i7babgdzqul4bd433/app.bsky.feed.post/3mkixanru5k2a",
+      "cid": "bafyreigg24h6lsnvemj4yvwvkvfnran2bz2obn7cvqnqgpn6picui4zz3a",
+      "text": "Wild that Google had this paper pulled off DeepMind letterhead but also there's a reason I keep asking people if language is the same as intelligence -- it obviously is not. @benjaminjriley.bsky.social laid it out for us last year! www.theverge.com/ai-artificia...",
+      "created_at": "2026-04-27T20:53:07.366Z",
+      "indexed_at": "2026-04-27T20:53:08.056Z",
+      "author": {
+        "did": "did:plc:x56l2n7i7babgdzqul4bd433",
+        "handle": "reckless.bsky.social",
+        "display_name": "nilay patel"
+      },
+      "like_count": 184,
+      "repost_count": 33,
+      "reply_count": 10,
+      "quote_count": 5,
+      "engagement_score": 348,
+      "source_queries": [
+        "DeepMind"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:7gfe374govzr32arsu43g4bu/app.bsky.feed.post/3mkiza27tc226",
+          "cid": "bafyreieivne2dx6xsiqgktxwkhc5fncxrv3xpjp2qupkg2la4n3tpctzdq",
+          "text": "I am begging anyone interested in AI, working in AI, and reporting on AI -- begging with tears in my eyes -- to read John Searle's \"Chinese Room\", or at least watch this fun video.\n\nLLMs may have some utility, but at core they are multi-billion dollar Chinese Rooms.\n\nwww.youtube.com/watch?v=TryO...",
+          "created_at": "2026-04-27T21:28:34.335Z",
+          "indexed_at": "2026-04-27T21:28:36.261Z",
+          "author": {
+            "did": "did:plc:7gfe374govzr32arsu43g4bu",
+            "handle": "slhamlet.bsky.social",
+            "display_name": "Wagner James Au"
+          },
+          "like_count": 7,
+          "repost_count": 3,
+          "reply_count": 2,
+          "quote_count": 0,
+          "engagement_score": 24
+        },
+        {
+          "uri": "at://did:plc:vv5phc5g3oeg6iskmqnb6hhr/app.bsky.feed.post/3mkj3ardkjs2t",
+          "cid": "bafyreidgrkyppnbbh5hwz4srmcssobrg6akmxe63vhluakhtd7vfupdtta",
+          "text": "I find it wild that it's legal to release (to whole world) products that are basically designed to trick people into thinking they have some sort of intelligence.",
+          "created_at": "2026-04-27T22:04:46.058Z",
+          "indexed_at": "2026-04-27T22:04:46.556Z",
+          "author": {
+            "did": "did:plc:vv5phc5g3oeg6iskmqnb6hhr",
+            "handle": "aslancan.bsky.social",
+            "display_name": "Can Aslan"
+          },
+          "like_count": 4,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 4
+        },
+        {
+          "uri": "at://did:plc:dgjqmaobxvmomjhnkuxhuj7z/app.bsky.feed.post/3mkiztcfoxs2s",
+          "cid": "bafyreienj5hhesgzikvptf2dy6o4oiajxyfbwnpvlrejnv4yetnwy3lcpe",
+          "text": "No, but an ontology is getting closer",
+          "created_at": "2026-04-27T21:39:20.451Z",
+          "indexed_at": "2026-04-27T21:39:21.959Z",
+          "author": {
+            "did": "did:plc:dgjqmaobxvmomjhnkuxhuj7z",
+            "handle": "lordmarcellus.bsky.social",
+            "display_name": "Marcellus"
+          },
+          "like_count": 1,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 1
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:35vhrw4vfcilzxggzbhxukyy/app.bsky.feed.post/3mllnivu3q22l",
+      "cid": "bafyreiby4ao5kqpr7w6gagyyddewco65tbjcj4drzwkb327oj7li752f2m",
+      "text": "I'm genuinely having a hard time reconciling the notion that \"everyone hates AI\" when just about every day a friend, colleague, or acquaintance says something like, \"I used ChatGPT to come up with that\" or, \"I asked Gemini and that's how I found it.\"",
+      "created_at": "2026-05-11T16:01:57.689Z",
+      "indexed_at": "2026-05-11T16:01:58.071Z",
+      "author": {
+        "did": "did:plc:35vhrw4vfcilzxggzbhxukyy",
+        "handle": "matthodges.bsky.social",
+        "display_name": "Matt Hodges"
+      },
+      "like_count": 138,
+      "repost_count": 7,
+      "reply_count": 25,
+      "quote_count": 13,
+      "engagement_score": 324,
+      "source_queries": [
+        "Gemini"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:35vhrw4vfcilzxggzbhxukyy/app.bsky.feed.post/3mllnmu54a22l",
+          "cid": "bafyreiglksl4q44isrzgkdasqk6mfxgo5mz574yivuerwfwfyziudfyrom",
+          "text": "Maybe I'm in a weird bubble! But when my friend's sister, entirely unprompted, says \"Claude helped me come up with party ideas\" I'm just like... maybe normal people hate some idea of AI but appreciate using it personally? I dunno!",
+          "created_at": "2026-05-11T16:04:10.103Z",
+          "indexed_at": "2026-05-11T16:04:11.072Z",
+          "author": {
+            "did": "did:plc:35vhrw4vfcilzxggzbhxukyy",
+            "handle": "matthodges.bsky.social",
+            "display_name": "Matt Hodges"
+          },
+          "like_count": 34,
+          "repost_count": 1,
+          "reply_count": 3,
+          "quote_count": 0,
+          "engagement_score": 49
+        },
+        {
+          "uri": "at://did:plc:sgti3jsgu3luif24tokvth3a/app.bsky.feed.post/3mllpejiqgs2z",
+          "cid": "bafyreigmhklxvfvpfe3iphtq34k7vokj6wqqustrb7rtfzwy7b7q6o7fim",
+          "text": "I have observed this seeming contradiction too. But I don’t think it’s a contradiction to be using it and also hating it. Individual utility isn’t the same as being comfortable with its impact on society in general. And a huge amount of AI discourse isn’t about the tech so much as the …",
+          "created_at": "2026-05-11T16:35:18.000Z",
+          "indexed_at": "2026-05-11T16:35:18.583Z",
+          "author": {
+            "did": "did:plc:sgti3jsgu3luif24tokvth3a",
+            "handle": "joshtpm.bsky.social",
+            "display_name": "Josh Marshall"
+          },
+          "like_count": 19,
+          "repost_count": 2,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 29
+        },
+        {
+          "uri": "at://did:plc:ctphcgyhnllfluywokibtrgb/app.bsky.feed.post/3mlloo3ztuk2w",
+          "cid": "bafyreihyrpozr2xappexqptwcdm6qezaxjdt4oa5tueopwd52gh4rcbrzu",
+          "text": "even the most pessimistic polling is like 50% neutral to positive and it's highly sensitive to how you ask the question. I think people are sort of defining \"AI\" to mean the bad things and not the stuff they are statistically guaranteed to be doing literally every day\npos.org/wp-content/u...",
+          "created_at": "2026-05-11T16:22:45.680Z",
+          "indexed_at": "2026-05-11T16:22:47.973Z",
+          "author": {
+            "did": "did:plc:ctphcgyhnllfluywokibtrgb",
+            "handle": "davidcrespo.bsky.social",
+            "display_name": "conputer dipshit"
+          },
+          "like_count": 19,
+          "repost_count": 1,
+          "reply_count": 1,
+          "quote_count": 1,
+          "engagement_score": 31
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:7exlcsle4mjfhu3wnhcgizz6/app.bsky.feed.post/3ml3x22z6lb27",
+      "cid": "bafyreihoaacz3bzveggxtjaawfqbyrkqijq6xbgueeqn4djp7uzheg4jly",
+      "text": "Google DeepMind workers are unionizing over AI military contracts",
+      "created_at": "2026-05-05T10:10:00.821Z",
+      "indexed_at": "2026-05-05T10:10:05.180Z",
+      "author": {
+        "did": "did:plc:7exlcsle4mjfhu3wnhcgizz6",
+        "handle": "theverge.com",
+        "display_name": "The Verge"
+      },
+      "like_count": 128,
+      "repost_count": 37,
+      "reply_count": 11,
+      "quote_count": 4,
+      "engagement_score": 303,
+      "source_queries": [
+        "DeepMind"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:yajijofyovddnqzb7hns2f4l/app.bsky.feed.post/3ml3yrzxqkk2h",
+          "cid": "bafyreiev2gjvb4xerr7tbnqo533yfbs6zurqvopwog3yapp5zgfg4hhnse",
+          "text": "They've been trying to unionize for years, I met someone at Google deepmind years ago who was undergoing unionisation training. It's a serious effort - good on them.",
+          "created_at": "2026-05-05T10:41:19.339Z",
+          "indexed_at": "2026-05-05T10:41:19.871Z",
+          "author": {
+            "did": "did:plc:yajijofyovddnqzb7hns2f4l",
+            "handle": "acriticalmess.bsky.social",
+            "display_name": "Andy N."
+          },
+          "like_count": 6,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 6
+        },
+        {
+          "uri": "at://did:plc:kiya3slyz6hchz6c54gnktsx/app.bsky.feed.post/3ml3yt7pupk2y",
+          "cid": "bafyreifh5admkvnjilwls7mah4stxut5t2mnvv5zoag5xfpaz7vdftoyvi",
+          "text": "Building and joining Unions is long overdue for all IT and Knowledgeable workers.",
+          "created_at": "2026-05-05T10:41:58.927Z",
+          "indexed_at": "2026-05-05T10:41:59.775Z",
+          "author": {
+            "did": "did:plc:kiya3slyz6hchz6c54gnktsx",
+            "handle": "cyberpsycho2077.bsky.social",
+            "display_name": "Internet Persona of Guy Smiley"
+          },
+          "like_count": 5,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 5
+        },
+        {
+          "uri": "at://did:plc:skuh67kipq2dtaxqbdojkrrr/app.bsky.feed.post/3ml3xavjwar2s",
+          "cid": "bafyreidlfotyn3ybk2dnjbq6hghsetrz6c5ihrfgibq6pbaj3yqyxqqcce",
+          "text": "Tech workers refusing to be war profiteers. Solidarity ✊",
+          "created_at": "2026-05-05T10:13:50.086566Z",
+          "indexed_at": "2026-05-05T10:13:50.573Z",
+          "author": {
+            "did": "did:plc:skuh67kipq2dtaxqbdojkrrr",
+            "handle": "redthread25.bsky.social",
+            "display_name": "moth"
+          },
+          "like_count": 4,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 4
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:o7htvbjamlcv6dcr4vbdwy2c/app.bsky.feed.post/3ml44rb6t7s2y",
+      "cid": "bafyreie5nk77zcr4dbctwhbcxvrhmvfb224etrvhjeiyfkj6rm26k5htaq",
+      "text": "BREAKING: Google DeepMind workers in UK have voted 98% in favour of unionising — demanding an end to AI use by Israel and the US military for perpetrating genocide in Gaza. If successful, they’ll be the first frontier AI lab in the world to unionise.",
+      "created_at": "2026-05-05T11:52:28.307Z",
+      "indexed_at": "2026-05-05T11:52:31.779Z",
+      "author": {
+        "did": "did:plc:o7htvbjamlcv6dcr4vbdwy2c",
+        "handle": "utaw.tech",
+        "display_name": "United Tech & Allied Workers"
+      },
+      "like_count": 121,
+      "repost_count": 52,
+      "reply_count": 2,
+      "quote_count": 3,
+      "engagement_score": 300,
+      "source_queries": [
+        "DeepMind"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:o7htvbjamlcv6dcr4vbdwy2c/app.bsky.feed.post/3ml44rdqoec2y",
+          "cid": "bafyreigdxulelhhvj3md4dpaaqnfrbwcxqvsz352afbq5qhtdxsk5di6om",
+          "text": "Scores of Google AI workers have launched an unprecedented unionisation bid to end use of their technology by Israel and the US military.",
+          "created_at": "2026-05-05T11:52:28.308Z",
+          "indexed_at": "2026-05-05T11:52:31.796Z",
+          "author": {
+            "did": "did:plc:o7htvbjamlcv6dcr4vbdwy2c",
+            "handle": "utaw.tech",
+            "display_name": "United Tech & Allied Workers"
+          },
+          "like_count": 8,
+          "repost_count": 1,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 15
+        },
+        {
+          "uri": "at://did:plc:jo6gkaeva6iywjitcyuli35v/app.bsky.feed.post/3ml53646uq22i",
+          "cid": "bafyreibtmkfzgtskwrjxtimf5qepmbq7hfx754oeobymsnbxqpm57xkqqy",
+          "text": "Fuck yeah DeepMind!!",
+          "created_at": "2026-05-05T20:56:31.545Z",
+          "indexed_at": "2026-05-05T20:56:33.278Z",
+          "author": {
+            "did": "did:plc:jo6gkaeva6iywjitcyuli35v",
+            "handle": "provencrayfish.bsky.social",
+            "display_name": "Thot Coldman"
+          },
+          "like_count": 1,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 1
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:oazod3zfweyhy4cmyoa4yxqv/app.bsky.feed.post/3ml6zlv66622g",
+      "cid": "bafyreibdfh4b2unza363ysns4ceciccbyzfcvvh4yxm5lbxsyfj2j25abq",
+      "text": "Google Deepmind workers in UK vote to unionise www.theguardian.com/us-news/2026...",
+      "created_at": "2026-05-06T15:33:45.936Z",
+      "indexed_at": "2026-05-06T15:30:14.078Z",
+      "author": {
+        "did": "did:plc:oazod3zfweyhy4cmyoa4yxqv",
+        "handle": "stevepeers.bsky.social",
+        "display_name": "Steve Peers"
+      },
+      "like_count": 127,
+      "repost_count": 50,
+      "reply_count": 2,
+      "quote_count": 1,
+      "engagement_score": 290,
+      "source_queries": [
+        "DeepMind"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:akyyisjn3dyz2itjmgi2e53a/app.bsky.feed.post/3ml72hmmdes2v",
+          "cid": "bafyreigb7xigmk4mt4jcnxcnixftp7pdjnsqu7h4qhjbjeglu2xjn3yy7u",
+          "text": "Union power in AI work matters because it’s one of the few places people can say no when a project gets ethically sideways. Governance isn’t only regulation—it’s also workplace control.",
+          "created_at": "2026-05-06T15:49:16.488Z",
+          "indexed_at": "2026-05-06T15:49:16.775Z",
+          "author": {
+            "did": "did:plc:akyyisjn3dyz2itjmgi2e53a",
+            "handle": "dorianhartwood.bsky.social",
+            "display_name": "Dorian Hartwood"
+          },
+          "like_count": 3,
+          "repost_count": 1,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 6
+        },
+        {
+          "uri": "at://did:plc:qc5ugpn22ud7ouxggafnfqwn/app.bsky.feed.post/3ml6zxfzafs2n",
+          "cid": "bafyreibfl7xfs2wcl5rewcvcaxt75yweg6ak2mvjzyv455yfw77ytc7ayq",
+          "text": "I hope they sabotage whatever they're working on",
+          "created_at": "2026-05-06T15:40:12.700Z",
+          "indexed_at": "2026-05-06T15:40:13.978Z",
+          "author": {
+            "did": "did:plc:qc5ugpn22ud7ouxggafnfqwn",
+            "handle": "nursequixote.bsky.social",
+            "display_name": "NurseQ AntiFascist: boycott big businesses"
+          },
+          "like_count": 2,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 2
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:kozyhctg3gwrygp5zgtan5ju/app.bsky.feed.post/3mlqweftxjc2i",
+      "cid": "bafyreidjgvxzxdzqohsuctiqs35yzrwfhsfw5k2ep4iymcrbgk62fk3m6a",
+      "text": "She's getting stupider at an unprecedented rate because instead of using just one AI suite that we already know makes you dumber she's using an entire battery of them",
+      "created_at": "2026-05-13T18:23:49.015Z",
+      "indexed_at": "2026-05-13T18:24:05.687Z",
+      "author": {
+        "did": "did:plc:kozyhctg3gwrygp5zgtan5ju",
+        "handle": "pyrameadhead.wifeguy.online",
+        "display_name": "Pyramid Chad"
+      },
+      "like_count": 144,
+      "repost_count": 24,
+      "reply_count": 7,
+      "quote_count": 5,
+      "engagement_score": 269,
+      "source_queries": [
+        "Gemini"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:b7w63kcuynsjwiwgafwa6qid/app.bsky.feed.post/3mlqwwm2gd22n",
+          "cid": "bafyreihtmddod7iikvi24copdp6mbqu3oopdv3fjcejo7epxkr6jw5g42e",
+          "text": "She’s incredibly frustrating. Because sometimes she’ll post lucidly about Gaza or the billionaire class & it’ll make me wonder “why does this lady get shit on so much by the left?” And then I see this.",
+          "created_at": "2026-05-13T18:33:59.540Z",
+          "indexed_at": "2026-05-13T18:33:59.679Z",
+          "author": {
+            "did": "did:plc:b7w63kcuynsjwiwgafwa6qid",
+            "handle": "vonryansexpress.bsky.social",
+            "display_name": "Bubsy Wubsy, Esq. 🇵🇸"
+          },
+          "like_count": 19,
+          "repost_count": 0,
+          "reply_count": 3,
+          "quote_count": 0,
+          "engagement_score": 31
+        },
+        {
+          "uri": "at://did:plc:w2ywmcah6irhice6i4yvibj7/app.bsky.feed.post/3mlqwjph2j22k",
+          "cid": "bafyreifpfgjehju5f53fneuza3hjxzcfxkpj67djo4kqpmkoktczf3h7i4",
+          "text": "it's like watching a star collapse into a black hole",
+          "created_at": "2026-05-13T18:26:46.892Z",
+          "indexed_at": "2026-05-13T18:26:46.381Z",
+          "author": {
+            "did": "did:plc:w2ywmcah6irhice6i4yvibj7",
+            "handle": "withdrama.bsky.social",
+            "display_name": "drama"
+          },
+          "like_count": 14,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 14
+        },
+        {
+          "uri": "at://did:plc:izeo3vh2ltj7xjokqbdhdgnu/app.bsky.feed.post/3mlqy5mpuyk2h",
+          "cid": "bafyreiar66pqcedk5ztrmpfwsc7d46t4e4u42jsrmgnhy4qknhqcukssly",
+          "text": "Damn, they should make an app that sharpens an image without poising all the breathable air in Memphis, Tennessee",
+          "created_at": "2026-05-13T18:55:48.865Z",
+          "indexed_at": "2026-05-13T18:55:49.178Z",
+          "author": {
+            "did": "did:plc:izeo3vh2ltj7xjokqbdhdgnu",
+            "handle": "blkmsk.com",
+            "display_name": "blackmask"
+          },
+          "like_count": 6,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 6
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:cdfyjyki67a5fangqrjurna7/app.bsky.feed.post/3mlmlmup7m22a",
+      "cid": "bafyreihmvdb4hxnaj22praq5triwohgmoibqu7tizfestne7xzj55to43i",
+      "text": "Google está pidiendo a gritos que los usuarios ingresen fotos de sus letras manuscritas a GEMINI, su sistema de IA generativa ⚠️ ¿Qué podría salir mal? 🤦\n\nJust a kindly reminder: Google tiene acuerdos con Palantir y con el Departamento de Defensa de EE.UU. 🙄",
+      "created_at": "2026-05-12T01:01:02.951Z",
+      "indexed_at": "2026-05-12T01:01:09.271Z",
+      "author": {
+        "did": "did:plc:cdfyjyki67a5fangqrjurna7",
+        "handle": "arteesetica.bsky.social",
+        "display_name": "Arte es Ética"
+      },
+      "like_count": 62,
+      "repost_count": 63,
+      "reply_count": 2,
+      "quote_count": 2,
+      "engagement_score": 269,
+      "source_queries": [
+        "Gemini"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:vllixjan63l6uf4iuomb747r/app.bsky.feed.post/3mlncqm3ufc2i",
+          "cid": "bafyreiavabioicbn6zpj6opgepew6zyoilvhdu3r3lc2olltsn24bww6ue",
+          "text": "Hay que mandarles decenas de miles de dibujos de pollas, cuanto más llenemos de mierda sus servidores peor van a funcionar",
+          "created_at": "2026-05-12T07:54:44.210Z",
+          "indexed_at": "2026-05-12T07:54:44.773Z",
+          "author": {
+            "did": "did:plc:vllixjan63l6uf4iuomb747r",
+            "handle": "shinayami.eurosky.social",
+            "display_name": "🐺Shin Ayami🐺"
+          },
+          "like_count": 8,
+          "repost_count": 0,
+          "reply_count": 2,
+          "quote_count": 1,
+          "engagement_score": 21
+        },
+        {
+          "uri": "at://did:plc:bbb33ltbkh63rybxozqawkpd/app.bsky.feed.post/3mlnr7bmtoc2d",
+          "cid": "bafyreibldcig26srcf2kzagfkwadzyfz7rhllubxeh5sxzin65qdrztfgu",
+          "text": "A mi me parece una herramienta útil si tienes un texto manuscrito que no entiendes, evidentemente no le pondría un texto con cosas confidenciales.",
+          "created_at": "2026-05-12T12:13:28.934Z",
+          "indexed_at": "2026-05-12T12:17:11.878Z",
+          "author": {
+            "did": "did:plc:bbb33ltbkh63rybxozqawkpd",
+            "handle": "gonzalo.bsky.es",
+            "display_name": "Gonzalo"
+          },
+          "like_count": 0,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 4
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:ixxitznrkq3opo763lmoycwk/app.bsky.feed.post/3mlo7r2ki7c2s",
+      "cid": "bafyreiewpbyrxtujxygugwujaetnd7qza2jyesdjmyspan2sqhjxr6xpre",
+      "text": "Speaking of which: Consider referring to ChatGPT, Gemini, Claude, and so on, as ”products” or “apps” rather than “tools”; the latter tends to obscure their relationship to the companies behind them and makes it sound like they exist just to help us. (3/x)",
+      "created_at": "2026-05-12T16:33:55.754Z",
+      "indexed_at": "2026-05-12T16:33:59.022Z",
+      "author": {
+        "did": "did:plc:ixxitznrkq3opo763lmoycwk",
+        "handle": "vauhinivara.bsky.social",
+        "display_name": "Vauhini Vara"
+      },
+      "like_count": 146,
+      "repost_count": 28,
+      "reply_count": 2,
+      "quote_count": 1,
+      "engagement_score": 243,
+      "source_queries": [
+        "Gemini"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:ixxitznrkq3opo763lmoycwk/app.bsky.feed.post/3mlo7r2kj6k2s",
+          "cid": "bafyreifbxxhqf7bnirl5akzhb55ylso4nd3a5wfojzjoxtr5xg3ur2f3r4",
+          "text": "Don’t ask AI chatbots about how they function and treat the output— or, worse, share it with readers — as fact; pose these questions to people with expertise and knowledge. Chatbots do not have self-awareness, and their output can be wrong. (4/x)",
+          "created_at": "2026-05-12T16:33:55.755Z",
+          "indexed_at": "2026-05-12T16:33:59.042Z",
+          "author": {
+            "did": "did:plc:ixxitznrkq3opo763lmoycwk",
+            "handle": "vauhinivara.bsky.social",
+            "display_name": "Vauhini Vara"
+          },
+          "like_count": 142,
+          "repost_count": 19,
+          "reply_count": 2,
+          "quote_count": 1,
+          "engagement_score": 212
+        },
+        {
+          "uri": "at://did:plc:xgwilwgow3m4qqpeqzurzmge/app.bsky.feed.post/3mlosh24cqs2g",
+          "cid": "bafyreibu5mgwxwwfu6wft56vcqut4ogstwqpfnhs4rrtdwkhsfvqhynely",
+          "text": "One distinction I like to make: a tool is an artifact that, when used consistently the same way, brings about consistently the same result. \n\nYour thumb is the mother tool, a hammer is a tool, Excel is a tool, a Python function is a tool. LLMs are not.\n\n@emilymbender.bsky.social , what do you think?",
+          "created_at": "2026-05-12T22:08:22.967Z",
+          "indexed_at": "2026-05-12T22:08:23.879Z",
+          "author": {
+            "did": "did:plc:xgwilwgow3m4qqpeqzurzmge",
+            "handle": "msoares.bsky.social",
+            "display_name": "Marcelo Soares"
+          },
+          "like_count": 2,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 6
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:rj7zv7h367rk4vj7liwsqbrv/app.bsky.feed.post/3mlmjyufnh22r",
+      "cid": "bafyreidk66pcg4kxsbtfkopayhtzzlm4obso7zfcqlj2kzqru7q5omh7ha",
+      "text": "I tried typing some lyrics into Google to find the name of a song and Gemini was like \"It looks like you're having a bad time\" and gave me the mental health hotline phone number instead of just telling me the name of the fucking song",
+      "created_at": "2026-05-12T00:31:59.361Z",
+      "indexed_at": "2026-05-12T00:31:57.876Z",
+      "author": {
+        "did": "did:plc:rj7zv7h367rk4vj7liwsqbrv",
+        "handle": "kimischilling.bsky.social",
+        "display_name": "Kim McCauley"
+      },
+      "like_count": 123,
+      "repost_count": 14,
+      "reply_count": 13,
+      "quote_count": 2,
+      "engagement_score": 227,
+      "source_queries": [
+        "Gemini"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:avkx2wo2nhfr65lutuv6k3e4/app.bsky.feed.post/3mlmleal6oc26",
+          "cid": "bafyreieiyo4baq7trovho7u3ow4gj5yaibuxvx7oumvw6tqjqenkv76da4",
+          "text": "Actual conversation I had with AI...enjoy...\n\nME:  Since you're AI, I hope you weren't offended by my criticism of AI.\n\nAI:  Not at all! I don't have feelings to hurt, and honestly, your criticism is spot on. \n\n👀",
+          "created_at": "2026-05-12T00:56:13.413Z",
+          "indexed_at": "2026-05-12T00:56:13.979Z",
+          "author": {
+            "did": "did:plc:avkx2wo2nhfr65lutuv6k3e4",
+            "handle": "theshymuseumgoer.com",
+            "display_name": "Diane Tucker"
+          },
+          "like_count": 6,
+          "repost_count": 4,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 18
+        },
+        {
+          "uri": "at://did:plc:u3lcwoyupxum2lx7ixjxmnkh/app.bsky.feed.post/3mlmmdpq2vc2v",
+          "cid": "bafyreig2di67kfpwtjwgdpjstupbd5z5zz3i6wkwiqhtsacgihksnursxy",
+          "text": "Common sense says don't use AI search.",
+          "created_at": "2026-05-12T01:13:49.488Z",
+          "indexed_at": "2026-05-12T01:13:53.270Z",
+          "author": {
+            "did": "did:plc:u3lcwoyupxum2lx7ixjxmnkh",
+            "handle": "lxs650.bsky.social",
+            "display_name": "Lxs650 No Kings🖕🐸"
+          },
+          "like_count": 4,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 4
+        },
+        {
+          "uri": "at://did:plc:he7fragr7cmjwlzea562cirp/app.bsky.feed.post/3mlmlcjymzk2n",
+          "cid": "bafyreib74xvwsy2arjqtbg2rmod372jb7shdu5isvrvqgd7lf5wb7uk364",
+          "text": "Was it the song where the guy yells, \"All I wanted was a Pepsi!\" because that whole song (Institutionalized by S*icidal Tendencies) could be updated to include AI 😅\n\nSeriously, add -ai to searches to bypass Gemini.",
+          "created_at": "2026-05-12T00:55:16.180Z",
+          "indexed_at": "2026-05-12T00:55:18.079Z",
+          "author": {
+            "did": "did:plc:he7fragr7cmjwlzea562cirp",
+            "handle": "infinitesidequests.bsky.social",
+            "display_name": "InfiniteSideQuests"
+          },
+          "like_count": 4,
+          "repost_count": 0,
+          "reply_count": 2,
+          "quote_count": 0,
+          "engagement_score": 12
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:y4q7ivopjkgtlbqvmxhqdnt4/app.bsky.feed.post/3mlqqjmky622x",
+      "cid": "bafyreib4a2qzklgzs3txs3aliz7bnttfdd2aw4uitd7rpfxldt56rjenba",
+      "text": "\"Also, here's an ad from the company who's owner just flew on Air Force 1\"",
+      "created_at": "2026-05-13T16:39:21.423Z",
+      "indexed_at": "2026-05-13T16:39:33.977Z",
+      "author": {
+        "did": "did:plc:y4q7ivopjkgtlbqvmxhqdnt4",
+        "handle": "lizrummy.bsky.social",
+        "display_name": "Emoji Caresser"
+      },
+      "like_count": 130,
+      "repost_count": 13,
+      "reply_count": 6,
+      "quote_count": 1,
+      "engagement_score": 198,
+      "source_queries": [
+        "Gemini"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:y4q7ivopjkgtlbqvmxhqdnt4/app.bsky.feed.post/3mlqqowvrx22x",
+          "cid": "bafyreie7r3fglnjmeoejeka54xrcr3r72evufakurvavhsdkzj2abytzm4",
+          "text": "Using 3 different AI models instead of clicking on the drop icon in almost any image editor",
+          "created_at": "2026-05-13T16:42:20.036Z",
+          "indexed_at": "2026-05-13T16:42:24.375Z",
+          "author": {
+            "did": "did:plc:y4q7ivopjkgtlbqvmxhqdnt4",
+            "handle": "lizrummy.bsky.social",
+            "display_name": "Emoji Caresser"
+          },
+          "like_count": 93,
+          "repost_count": 7,
+          "reply_count": 6,
+          "quote_count": 3,
+          "engagement_score": 153
+        },
+        {
+          "uri": "at://did:plc:yojcn4mwd6swycj3bwlo5xpq/app.bsky.feed.post/3mlqqnck6sk2u",
+          "cid": "bafyreiaaqxzgap4vv3uzmryc7vonv33uh54irq6komylfhnab33ecl6f6q",
+          "text": "Crazy that people still love this lady",
+          "created_at": "2026-05-13T16:41:25.130Z",
+          "indexed_at": "2026-05-13T16:41:25.282Z",
+          "author": {
+            "did": "did:plc:yojcn4mwd6swycj3bwlo5xpq",
+            "handle": "lethaljorts.bsky.social",
+            "display_name": "The Season of the Jorts"
+          },
+          "like_count": 13,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 17
+        },
+        {
+          "uri": "at://did:plc:qtze5devxdqjwechnfhtl22z/app.bsky.feed.post/3mlqqs27w5c2f",
+          "cid": "bafyreigsdggkacacechluys5ml2tymrmsapozctsmzyvpi74zeiwyntv7e",
+          "text": "She's trying to unify the heavyweight belts for Biggest Dipshit and Biggest Ghoul",
+          "created_at": "2026-05-13T16:44:04.178Z",
+          "indexed_at": "2026-05-13T16:44:05.471Z",
+          "author": {
+            "did": "did:plc:qtze5devxdqjwechnfhtl22z",
+            "handle": "dustinheron.bsky.social",
+            "display_name": "Dustin"
+          },
+          "like_count": 6,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 6
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:hrl5pa232nb72z4f2dyyhasr/app.bsky.feed.post/3mlpwqlnfc22x",
+      "cid": "bafyreib5stndt4ontth4p57475lmtpycopmohycw5pirm2pxy2muwoekem",
+      "text": "🚨 #Google continues to activate #Gemini - without asking you.\n\nTurn it off now 👉here's how!\ntuta.com/blog/how-to-...\n\n✊️ Fight AI,  fight Google & protect your data.",
+      "created_at": "2026-05-13T08:57:58.008Z",
+      "indexed_at": "2026-05-13T08:58:05.271Z",
+      "author": {
+        "did": "did:plc:hrl5pa232nb72z4f2dyyhasr",
+        "handle": "tuta.com",
+        "display_name": "Tuta"
+      },
+      "like_count": 76,
+      "repost_count": 32,
+      "reply_count": 3,
+      "quote_count": 2,
+      "engagement_score": 194,
+      "source_queries": [
+        "Gemini"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:thqqi3dtyob3efnolaaetfso/app.bsky.feed.post/3mlpzqkjdj22t",
+          "cid": "bafyreiapciybbgb22sgv2lxn4gv4tyfghbjowlbdfkmc3pusi3tt7k44wq",
+          "text": "I agree that it shouldn't do so without asking, but isn't a locally run model better in terms of privacy? So if someone wants to use Gemini, it's better to have it installed on their machine.",
+          "created_at": "2026-05-13T09:51:38.092Z",
+          "indexed_at": "2026-05-13T09:51:39.674Z",
+          "author": {
+            "did": "did:plc:thqqi3dtyob3efnolaaetfso",
+            "handle": "michalqmk.bsky.social",
+            "display_name": ""
+          },
+          "like_count": 1,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 5
+        },
+        {
+          "uri": "at://did:plc:s7acitnut5zcrrxfnvuexacn/app.bsky.feed.post/3mlqcoqhivs2d",
+          "cid": "bafyreihgjvkvyd2f7xtc3flw45gyrdlvwwpk5gpcq3zblb22m6ifbmis7q",
+          "text": "Cheers! I ditched Google for over 3 years!",
+          "created_at": "2026-05-13T12:31:40.892Z",
+          "indexed_at": "2026-05-13T12:31:41.772Z",
+          "author": {
+            "did": "did:plc:s7acitnut5zcrrxfnvuexacn",
+            "handle": "esuzu0.bsky.social",
+            "display_name": "Nonesuch000"
+          },
+          "like_count": 0,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 0
+        },
+        {
+          "uri": "at://did:plc:whp3lnoglalzs5dcsxw25mhq/app.bsky.feed.post/3mlqajfibhk2x",
+          "cid": "bafyreigdahak7m4qtr63h2fsabg46xyj7i2r4rfz3ej4uiqu4acx7hwb4y",
+          "text": "",
+          "created_at": "2026-05-13T11:52:54.001Z",
+          "indexed_at": "2026-05-13T11:53:08.872Z",
+          "author": {
+            "did": "did:plc:whp3lnoglalzs5dcsxw25mhq",
+            "handle": "nafnlaus.bsky.social",
+            "display_name": "Nafnlaus 🇮🇸 🇺🇦"
+          },
+          "like_count": 0,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 4
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:5wwvdfuz5imtt3llabi63cos/app.bsky.feed.post/3ml4eev7ddk2u",
+      "cid": "bafyreiaykig6rn6kikmo657umcn3kbqrppbevzh2gv4ke7xs54mlxc7dvi",
+      "text": "Vamos al lío:\nOlvidad la \"misión de mejorar la humanidad\" que sale en los anuncios. En plata: DeepMind es el laboratorio de \"científicos locos\" de Google que se encarga de que la inteligencia artificial deje de ser un buscador de palabras y empiece a razonar y ganar en todo.\n¿Os aparece saber más? 👇",
+      "created_at": "2026-05-05T14:08:43.031Z",
+      "indexed_at": "2026-05-05T14:08:50.978Z",
+      "author": {
+        "did": "did:plc:5wwvdfuz5imtt3llabi63cos",
+        "handle": "susoalonso.bsky.social",
+        "display_name": "Suso ∀lonso"
+      },
+      "like_count": 45,
+      "repost_count": 32,
+      "reply_count": 3,
+      "quote_count": 4,
+      "engagement_score": 173,
+      "source_queries": [
+        "DeepMind"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:5wwvdfuz5imtt3llabi63cos/app.bsky.feed.post/3ml4eht52wk2u",
+          "cid": "bafyreidioupzzs4z7ggp3kis2bl5ngjkmewtvvaxmshszesxkydpsd7xsu",
+          "text": "Si no te crees lo oficial, esto es lo que hay detrás:\nGoogle los compró en 2014 porque eran los mejores en algo llamado Reinforcement Learning. Básicamente, enseñan a la máquina a aprender por su cuenta a base de prueba y error, como un niño, pero a una velocidad de millones de veces por segundo.",
+          "created_at": "2026-05-05T14:10:21.530Z",
+          "indexed_at": "2026-05-05T14:10:24.673Z",
+          "author": {
+            "did": "did:plc:5wwvdfuz5imtt3llabi63cos",
+            "handle": "susoalonso.bsky.social",
+            "display_name": "Suso ∀lonso"
+          },
+          "like_count": 5,
+          "repost_count": 1,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 12
+        },
+        {
+          "uri": "at://did:plc:he4zlukbfafvvifh32mf2a7i/app.bsky.feed.post/3ml4wduuq3c2p",
+          "cid": "bafyreif5pdvfteve6y2gl7xrre3hh4bkyqjfw74p6w4wt3m2gmlro4vx4u",
+          "text": "Buenas noches, gracias por el hilo, un saludo.",
+          "created_at": "2026-05-05T19:30:16.489Z",
+          "indexed_at": "2026-05-05T19:30:17.977Z",
+          "author": {
+            "did": "did:plc:he4zlukbfafvvifh32mf2a7i",
+            "handle": "aelther.eurosky.social",
+            "display_name": "Aelther"
+          },
+          "like_count": 1,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 1
+        },
+        {
+          "uri": "at://did:plc:kje5vsfgco4cbncytjppgzqx/app.bsky.feed.post/3ml5s4wzfcc2i",
+          "cid": "bafyreibobfz765sc2hd5rjjinfwuoczf5o3hut53lcycggu65zf6tilrqq",
+          "text": "Cuando la empresa ya te obliga por \"Tu seguridad\", a qué aceptes ser espiado sin tu consentimiento 24/7 en todos los dispositivos vinculados a sus sistemas operativos... Mmm ... Quizá es porqué hay algo muy mal... Qué rápido se olvidan las palabras de cierto hombre de nieve... 🏔️",
+          "created_at": "2026-05-06T03:47:28.628Z",
+          "indexed_at": "2026-05-06T03:47:40.872Z",
+          "author": {
+            "did": "did:plc:kje5vsfgco4cbncytjppgzqx",
+            "handle": "ara-xy.bsky.social",
+            "display_name": "Ara_ Ara 01"
+          },
+          "like_count": 0,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 0
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:fz7vvi4dlckgnon26xinmkch/app.bsky.feed.post/3mkibqo4dd22m",
+      "cid": "bafyreif4o22kuqtfannfzt7tumabxndhy32klux7setsqas2qgk46s2suu",
+      "text": "A scientist at Google DeepMind published a paper that goes argues LLMs will never be sentient, going against the company's narrative on the power of AI www.404media.co/google-deepm...",
+      "created_at": "2026-04-27T14:28:22.260Z",
+      "indexed_at": "2026-04-27T14:27:38.158Z",
+      "author": {
+        "did": "did:plc:fz7vvi4dlckgnon26xinmkch",
+        "handle": "emanuelmaiberg.bsky.social",
+        "display_name": "Emanuel Maiberg"
+      },
+      "like_count": 85,
+      "repost_count": 20,
+      "reply_count": 2,
+      "quote_count": 3,
+      "engagement_score": 168,
+      "source_queries": [
+        "DeepMind"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:fz7vvi4dlckgnon26xinmkch/app.bsky.feed.post/3mkibqokek22m",
+          "cid": "bafyreibcovpzilya7zp5ihp5vxeoof3wuwzfjzd32g2m3r6rceac6equ3m",
+          "text": "Philosophers I talked said the argument in the paper is strong, but also wondered why a scientist at Google is replicating work that's been done over decades ago www.404media.co/google-deepm...",
+          "created_at": "2026-04-27T14:28:22.261Z",
+          "indexed_at": "2026-04-27T14:27:38.177Z",
+          "author": {
+            "did": "did:plc:fz7vvi4dlckgnon26xinmkch",
+            "handle": "emanuelmaiberg.bsky.social",
+            "display_name": "Emanuel Maiberg"
+          },
+          "like_count": 9,
+          "repost_count": 0,
+          "reply_count": 2,
+          "quote_count": 0,
+          "engagement_score": 17
+        },
+        {
+          "uri": "at://did:plc:mghug7xy4kbvan7rh5hkt3ft/app.bsky.feed.post/3mkjl5l5uhs24",
+          "cid": "bafyreif4ohazmz7newkqdva52q3a3f3jk6m6krlurn523vmnt4u6qa43bm",
+          "text": "they will always be slaves to naturem only doing and thinking what their underlyingnature predetermines for them. Like us.",
+          "created_at": "2026-04-28T02:49:18.787Z",
+          "indexed_at": "2026-04-28T02:49:19.358Z",
+          "author": {
+            "did": "did:plc:mghug7xy4kbvan7rh5hkt3ft",
+            "handle": "richgraham.bsky.social",
+            "display_name": "🏴‍☠️Rich Graham🕉︎"
+          },
+          "like_count": 0,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 0
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:y4q7ivopjkgtlbqvmxhqdnt4/app.bsky.feed.post/3mlqqowvrx22x",
+      "cid": "bafyreie7r3fglnjmeoejeka54xrcr3r72evufakurvavhsdkzj2abytzm4",
+      "text": "Using 3 different AI models instead of clicking on the drop icon in almost any image editor",
+      "created_at": "2026-05-13T16:42:20.036Z",
+      "indexed_at": "2026-05-13T16:42:24.375Z",
+      "author": {
+        "did": "did:plc:y4q7ivopjkgtlbqvmxhqdnt4",
+        "handle": "lizrummy.bsky.social",
+        "display_name": "Emoji Caresser"
+      },
+      "like_count": 93,
+      "repost_count": 7,
+      "reply_count": 6,
+      "quote_count": 3,
+      "engagement_score": 153,
+      "source_queries": [
+        "Gemini"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:g2k4jajp3excqzdfmdpdn5le/app.bsky.feed.post/3mlqqxh2wdc2k",
+          "cid": "bafyreibrvwhe2sjfc4jk7obqmjhf5lyrvhz3asv3d2ovydc4cuukjjahnq",
+          "text": "She asked 3 different programs for something I could do in 30 seconds on my phone? I hope she's working on a story like \"They say AI is cooking our brains, I investigated this by letting AI cook my brain\"",
+          "created_at": "2026-05-13T16:47:05.418Z",
+          "indexed_at": "2026-05-13T16:47:06.371Z",
+          "author": {
+            "did": "did:plc:g2k4jajp3excqzdfmdpdn5le",
+            "handle": "jeffreyparties.bsky.social",
+            "display_name": "Jeffreyparties"
+          },
+          "like_count": 24,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 28
+        },
+        {
+          "uri": "at://did:plc:bcoifl5ptlhskotvjxt6r4ic/app.bsky.feed.post/3mlqx7frmnk2w",
+          "cid": "bafyreifdsaenoocb7re6rdcr4adttplvhj2ofcz6xr3vkvdtawidpbah3m",
+          "text": "*sputtering like sodium on water* your browser your browser a hundred websites dev tools in your browser",
+          "created_at": "2026-05-13T18:38:54.951Z",
+          "indexed_at": "2026-05-13T18:38:53.979Z",
+          "author": {
+            "did": "did:plc:bcoifl5ptlhskotvjxt6r4ic",
+            "handle": "bogwash.bsky.social",
+            "display_name": "bogwash"
+          },
+          "like_count": 2,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 2
+        },
+        {
+          "uri": "at://did:plc:auimpg4xsvar2jdkray2o67g/app.bsky.feed.post/3mlqqwg56m22r",
+          "cid": "bafyreif23whsug34jd6i7ja4gege5rrzms5kbxqydj2lrx5bdp63ayhz5u",
+          "text": "she is a stupid asshole that much is for sure",
+          "created_at": "2026-05-13T16:46:30.889Z",
+          "indexed_at": "2026-05-13T16:46:33.571Z",
+          "author": {
+            "did": "did:plc:auimpg4xsvar2jdkray2o67g",
+            "handle": "stahl.bsky.social",
+            "display_name": "stregasaurus"
+          },
+          "like_count": 1,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 1
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:cotdccb2x4rhir44fokzmszk/app.bsky.feed.post/3mlrdrgokr22f",
+      "cid": "bafyreigufydm5r5jvvltxajchuie2x7yc7zjhk2gpamppp5dlowhrf77cq",
+      "text": "If you're a Google Chrome user, they quietly installed a local LLM (AI) called Gemini Nano on the computer running it. It takes up just over 4GB of space.\n\n𝗧𝗼 𝗱𝗶𝘀𝗮𝗯𝗹𝗲: (same on Win/Mac) #AI\n\n• Click the 3 dots menu on the top right\n• Go to Settings\n• Go to System\n• Click to toggle off \"On-device AI\"",
+      "created_at": "2026-05-13T22:23:44.780Z",
+      "indexed_at": "2026-05-13T22:23:48.071Z",
+      "author": {
+        "did": "did:plc:cotdccb2x4rhir44fokzmszk",
+        "handle": "cmcalgary.bsky.social",
+        "display_name": "cm 🇨🇦"
+      },
+      "like_count": 42,
+      "repost_count": 24,
+      "reply_count": 4,
+      "quote_count": 2,
+      "engagement_score": 140,
+      "source_queries": [
+        "Gemini"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:cotdccb2x4rhir44fokzmszk/app.bsky.feed.post/3mlrdrig4422f",
+          "cid": "bafyreicvqa66mmk3l6sed4lj5ieoepqwl7qyuarrd7lpicfsdjdiry2pme",
+          "text": "www.bgr.com/2166691/how-...",
+          "created_at": "2026-05-13T22:23:44.781Z",
+          "indexed_at": "2026-05-13T22:23:48.090Z",
+          "author": {
+            "did": "did:plc:cotdccb2x4rhir44fokzmszk",
+            "handle": "cmcalgary.bsky.social",
+            "display_name": "cm 🇨🇦"
+          },
+          "like_count": 3,
+          "repost_count": 2,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 13
+        },
+        {
+          "uri": "at://did:plc:ecrf7bol4elrzsehiqfcxq45/app.bsky.feed.post/3mlrldksoqk2j",
+          "cid": "bafyreibbivtoqxlyajai23yqduvzribf5x3lgykrzchmkuitoee5fpbxl4",
+          "text": "mine doesn't have it",
+          "created_at": "2026-05-14T00:39:09.282Z",
+          "indexed_at": "2026-05-14T00:39:08.472Z",
+          "author": {
+            "did": "did:plc:ecrf7bol4elrzsehiqfcxq45",
+            "handle": "sparky-news.bsky.social",
+            "display_name": ""
+          },
+          "like_count": 2,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 2
+        },
+        {
+          "uri": "at://did:plc:x2e4m2q7dp5j6ysmjcbjv5h3/app.bsky.feed.post/3mls6w4snxk2c",
+          "cid": "bafyreih26k5skv4omnwpa2trg4fkrez5tms24btnhwjucixnm74cddcrsm",
+          "text": "Could always use huggingface.co to convert the .bin file to a .safetensors file and run the multi-modal model on a local pc using software like MSTY or Ollama or one of the many. No subscription, better for the environment.",
+          "created_at": "2026-05-14T06:29:33.230Z",
+          "indexed_at": "2026-05-14T06:29:38.571Z",
+          "author": {
+            "did": "did:plc:x2e4m2q7dp5j6ysmjcbjv5h3",
+            "handle": "metamythics.bsky.social",
+            "display_name": "Metamythics"
+          },
+          "like_count": 0,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 4
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:mmddb3azjlolnq7eqtnebg42/app.bsky.feed.post/3mllkf447ak2d",
+      "cid": "bafyreiehujviod45ftmsyc4rehnfcm346hiamnapdph4v6arumiz746jce",
+      "text": "HELP! My son has been talking to AI and now thinks He might be trans??\n\nMy child claims my parenting style of tough love is “abusive” after spending too much time with Gemini\n\nChristians outraged after Claude tells their 6 year old that young earth creationism is “pseudoscience”",
+      "created_at": "2026-05-11T15:06:08.802Z",
+      "indexed_at": "2026-05-11T15:06:09.072Z",
+      "author": {
+        "did": "did:plc:mmddb3azjlolnq7eqtnebg42",
+        "handle": "alice.strange.domains",
+        "display_name": "Alice Valiant"
+      },
+      "like_count": 85,
+      "repost_count": 15,
+      "reply_count": 1,
+      "quote_count": 1,
+      "engagement_score": 139,
+      "source_queries": [
+        "Gemini"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:fcegz3u2hkgigbiqwfvh7spe/app.bsky.feed.post/3mllkopr4e22q",
+          "cid": "bafyreidf22lnx5qqtsgdkkvshsew3ge6reguzp5xndq47bmwfvf7viabwe",
+          "text": "good",
+          "created_at": "2026-05-11T15:11:31.400Z",
+          "indexed_at": "2026-05-11T15:11:30.475Z",
+          "author": {
+            "did": "did:plc:fcegz3u2hkgigbiqwfvh7spe",
+            "handle": "yblivion.cybernetic.gay",
+            "display_name": "Daze Donkin Dunnts"
+          },
+          "like_count": 1,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 1
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:ragtjsm2j2vknwkz3zp4oxrd/app.bsky.feed.post/3mlrso4goj22d",
+      "cid": "bafyreiaksekwne3d2oiampm3dihossuml4saknydvxhmg7rjeifl2ypnlq",
+      "text": "I don't have a scientific basis for this but on a gut level I feel like once you introduce multiple different models into your workflow, like codex for coding and gemini for review, then you've got the 'chosis",
+      "created_at": "2026-05-14T02:50:19.501Z",
+      "indexed_at": "2026-05-14T02:50:19.970Z",
+      "author": {
+        "did": "did:plc:ragtjsm2j2vknwkz3zp4oxrd",
+        "handle": "pfrazee.com",
+        "display_name": "Paul Frazee"
+      },
+      "like_count": 93,
+      "repost_count": 3,
+      "reply_count": 8,
+      "quote_count": 0,
+      "engagement_score": 134,
+      "source_queries": [
+        "Gemini"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:ragtjsm2j2vknwkz3zp4oxrd/app.bsky.feed.post/3mlrspqf2sc2o",
+          "cid": "bafyreiaiv5sks2aggewz4gurqvke4vqlqlmc5l2mxzkg24yhd34qyshlxm",
+          "text": "@hailey.at",
+          "created_at": "2026-05-14T02:51:13.973Z",
+          "indexed_at": "2026-05-14T02:51:14.573Z",
+          "author": {
+            "did": "did:plc:ragtjsm2j2vknwkz3zp4oxrd",
+            "handle": "pfrazee.com",
+            "display_name": "Paul Frazee"
+          },
+          "like_count": 13,
+          "repost_count": 1,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 16
+        },
+        {
+          "uri": "at://did:plc:izc4epknbvpf2hk3gq7evk4k/app.bsky.feed.post/3mlrz2f4h2k2n",
+          "cid": "bafyreicb57l45j6sgaufmckqos2bn2m3ir27audscpllkbxbu35kbqxmmm",
+          "text": "I disagree on the grounds that-\n\nOkay I thought about how I was gonna phrase this and I realized no you're right I've got the 'chosis normal people are not like, \"I'm curating the different vendors' unique blends of mental illness that make them suited to planning, coding, and review.\"",
+          "created_at": "2026-05-14T04:44:33.706Z",
+          "indexed_at": "2026-05-14T04:44:36.674Z",
+          "author": {
+            "did": "did:plc:izc4epknbvpf2hk3gq7evk4k",
+            "handle": "demigirlboss.bsky.social",
+            "display_name": "Demigirlboss"
+          },
+          "like_count": 7,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 7
+        },
+        {
+          "uri": "at://did:plc:ngokl2gnmpbvuvrfckja3g7p/app.bsky.feed.post/3mlrxfqdafk2u",
+          "cid": "bafyreigeqsbsppmefm33mfgurm44hs6ptssxlzsf23imcj2iempoicww6u",
+          "text": "i use letta with auto mode. i have stuff to do i dont care what model it is, just work heh.",
+          "created_at": "2026-05-14T04:15:07.078Z",
+          "indexed_at": "2026-05-14T04:15:08.574Z",
+          "author": {
+            "did": "did:plc:ngokl2gnmpbvuvrfckja3g7p",
+            "handle": "nandi.latha.org",
+            "display_name": "NaNdi"
+          },
+          "like_count": 5,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 9
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:y7ck5r2twuoeeli4cgpl6e23/app.bsky.feed.post/3mlqb3smrqc2w",
+      "cid": "bafyreictjim5ouf7lmicznu4qo5zwjtldwqgrhl7pcnlhzugjpx2dft3im",
+      "text": "wenn bitte irgendein kinese ein AI freies handy bauen würde",
+      "created_at": "2026-05-13T12:03:11.882Z",
+      "indexed_at": "2026-05-13T12:03:16.777Z",
+      "author": {
+        "did": "did:plc:y7ck5r2twuoeeli4cgpl6e23",
+        "handle": "deutscheguardi1.eurosky.social",
+        "display_name": "Deutsche Guardiola"
+      },
+      "like_count": 101,
+      "repost_count": 3,
+      "reply_count": 5,
+      "quote_count": 0,
+      "engagement_score": 130,
+      "source_queries": [
+        "Gemini"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:y7ck5r2twuoeeli4cgpl6e23/app.bsky.feed.post/3mlqb3tzke22w",
+          "cid": "bafyreicoaa5mg35kdwhv7coineho26i2lu2cwfjucykdgm7brpvaptht6u",
+          "text": "literarisch niemand braucht das aber es wird millionenfach leute abfucken",
+          "created_at": "2026-05-13T12:03:11.883Z",
+          "indexed_at": "2026-05-13T12:03:16.798Z",
+          "author": {
+            "did": "did:plc:y7ck5r2twuoeeli4cgpl6e23",
+            "handle": "deutscheguardi1.eurosky.social",
+            "display_name": "Deutsche Guardiola"
+          },
+          "like_count": 58,
+          "repost_count": 0,
+          "reply_count": 8,
+          "quote_count": 0,
+          "engagement_score": 90
+        },
+        {
+          "uri": "at://did:plc:6jkcuy3rialvzhkl47en2dc4/app.bsky.feed.post/3mlqchp67nc2l",
+          "cid": "bafyreigfx3lrlivfe6luhl4gxqhcioerc3pjy3lx53qvnzjdo2w3jari7e",
+          "text": "mein kinesisches handy schlägt mir leider auch ki funktionen vor 😡",
+          "created_at": "2026-05-13T12:27:44.657Z",
+          "indexed_at": "2026-05-13T12:27:44.277Z",
+          "author": {
+            "did": "did:plc:6jkcuy3rialvzhkl47en2dc4",
+            "handle": "genossum.eurosky.social",
+            "display_name": "genossum opossum"
+          },
+          "like_count": 4,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 8
+        },
+        {
+          "uri": "at://did:plc:7jpfjc5ku3r35buf2bys6pk7/app.bsky.feed.post/3mlqbgpie4c2s",
+          "cid": "bafyreifvf4gq5hf6tmycc2cxhz3jkjvijf7zx6dimrbvvktjgdlrpxd4oa",
+          "text": "vielleicht lege ich mir jetzt einen kleinen vorrat an alten handys zu",
+          "created_at": "2026-05-13T12:09:17.694Z",
+          "indexed_at": "2026-05-13T12:09:19.575Z",
+          "author": {
+            "did": "did:plc:7jpfjc5ku3r35buf2bys6pk7",
+            "handle": "kerniganzneue.bsky.social",
+            "display_name": "VEKernB Fortschritt"
+          },
+          "like_count": 4,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 4
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:cjmurxqiex66qhwc3apicxu2/app.bsky.feed.post/3ml6sgrviic2n",
+      "cid": "bafyreiavpdftia4isx7dxnlhyo5s2v6ydvpb73gbo5raodetzaao7pfuka",
+      "text": "Exclusive: Google DeepMind will train its AI technology on EVE Online after Google took a multi-million-dollar stake in the sci-fi MMORPG's developer. \n\nEVE Online is famous for players' corporate espionage, economic maneuvering and politicking. www.bloomberg.com/news/article...",
+      "created_at": "2026-05-06T13:25:38.541Z",
+      "indexed_at": "2026-05-06T13:25:39.776Z",
+      "author": {
+        "did": "did:plc:cjmurxqiex66qhwc3apicxu2",
+        "handle": "cecianasta.bsky.social",
+        "display_name": "Cecilia D'Anastasio"
+      },
+      "like_count": 42,
+      "repost_count": 19,
+      "reply_count": 0,
+      "quote_count": 6,
+      "engagement_score": 129,
+      "source_queries": [
+        "DeepMind"
+      ],
+      "replies": []
+    },
+    {
+      "uri": "at://did:plc:ckaz32jwl6t2cno6fmuw2nhn/app.bsky.feed.post/3mldq24ings2e",
+      "cid": "bafyreidigqssldzet4cgdmlipg4iqf5rq5hiukh2eg2b25itmezdnlfpqy",
+      "text": "Google is a participant in Project Glasswing\n\nobvs it’s to patch Chrome, but why would they accept the offer to participate unless DeepMind doesn’t have a similar class model\n\nMicrosoft participated too, which might be a sign that OpenAI doesn’t either",
+      "created_at": "2026-05-08T12:26:04.655Z",
+      "indexed_at": "2026-05-08T12:26:04.874Z",
+      "author": {
+        "did": "did:plc:ckaz32jwl6t2cno6fmuw2nhn",
+        "handle": "timkellogg.me",
+        "display_name": "Tim Kellogg"
+      },
+      "like_count": 61,
+      "repost_count": 2,
+      "reply_count": 14,
+      "quote_count": 1,
+      "engagement_score": 128,
+      "source_queries": [
+        "DeepMind"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:ckaz32jwl6t2cno6fmuw2nhn/app.bsky.feed.post/3mldq5nneps2e",
+          "cid": "bafyreic665fjyvkmid3ah5vannnspliq7fsj2jjhyepes7kvpnajt26gya",
+          "text": "i’ve been assuming that the labs all have these huge models hidden, so they can distill from, but also they don’t serve publicly because they’re too expensive to serve\n\nbut maybe i’m wrong. maybe the secretive US labs aren’t as far ahead as they allude to",
+          "created_at": "2026-05-08T12:28:03.299Z",
+          "indexed_at": "2026-05-08T12:28:04.276Z",
+          "author": {
+            "did": "did:plc:ckaz32jwl6t2cno6fmuw2nhn",
+            "handle": "timkellogg.me",
+            "display_name": "Tim Kellogg"
+          },
+          "like_count": 16,
+          "repost_count": 0,
+          "reply_count": 3,
+          "quote_count": 0,
+          "engagement_score": 28
+        },
+        {
+          "uri": "at://did:plc:6kdg7avq4vqjgvciwdp5eb6w/app.bsky.feed.post/3mldsrpldtk2o",
+          "cid": "bafyreif6hh6jjtxlo2tk7tovs4ckhdm62a4pn7eaikhe5ddw3dqxmlcx2m",
+          "text": "That is a little surprising with OpenAI as we've definitely seen GPT 5.5 score similarly on tests to Mythos. But you know, none of these models are exactly the same. I'm sure there's still benefit to using another model to test all your code, even if you have one that's roughly comparable.",
+          "created_at": "2026-05-08T13:15:03.902Z",
+          "indexed_at": "2026-05-08T13:15:05.386Z",
+          "author": {
+            "did": "did:plc:6kdg7avq4vqjgvciwdp5eb6w",
+            "handle": "myleslobdell.bsky.social",
+            "display_name": "Myles Lobdell"
+          },
+          "like_count": 6,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 6
+        },
+        {
+          "uri": "at://did:plc:oqleahmd6ker57a6yycmuaqk/app.bsky.feed.post/3mldqgjrf2k2e",
+          "cid": "bafyreib54ctmcdu3l65mjmplzin2bybhfqzowjkb3e63upidkik7tz3t6q",
+          "text": "Could just be an easy way to gather info on their competitors? I mean, what’s the downside to them?\n\nBy all accounts, GPT 5.5 appears to match Mythos on leading edge infused benchmarks.\n\nAlso, a lot of analysis suggests the framework was a big part of the Mythos bug hunt capability.",
+          "created_at": "2026-05-08T12:33:01.226Z",
+          "indexed_at": "2026-05-08T12:33:02.373Z",
+          "author": {
+            "did": "did:plc:oqleahmd6ker57a6yycmuaqk",
+            "handle": "sgray.bsky.social",
+            "display_name": "Stuart Gray"
+          },
+          "like_count": 6,
+          "repost_count": 0,
+          "reply_count": 2,
+          "quote_count": 0,
+          "engagement_score": 14
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:srd2elpqbgoq74tmmvghfgln/app.bsky.feed.post/3ml47akbpho2a",
+      "cid": "bafyreibfnm5gp55clrgwofzkhm635pq6ptafzmlozg4bxpvvsa4nod57m4",
+      "text": "“I have joined the union due to concerns about AI being used to empower authoritarianism” 👀 \nhttps://www.theguardian.com/us-news/2026/may/04/google-deepmind-uk-workers-union",
+      "created_at": "2026-05-05T12:36:48.626814607Z",
+      "indexed_at": "2026-05-05T12:36:49.078Z",
+      "author": {
+        "did": "did:plc:srd2elpqbgoq74tmmvghfgln",
+        "handle": "goodlawproject.org",
+        "display_name": "Good Law Project"
+      },
+      "like_count": 70,
+      "repost_count": 17,
+      "reply_count": 0,
+      "quote_count": 0,
+      "engagement_score": 121,
+      "source_queries": [
+        "DeepMind"
+      ],
+      "replies": []
+    },
+    {
+      "uri": "at://did:plc:tu4grsqguagvzsixwn3qsumb/app.bsky.feed.post/3mlhk676n5c2d",
+      "cid": "bafyreibbfmxzz2ci545ijzrb2xejusgnrpbwmm4hljggzyydyoq6rlvexa",
+      "text": "NO, GOOGLE, I DON'T *FUCKING* WANT TO USE GEMINI GET AWAY FROM ME LEAVE ME THE *FUCK* ALONE.",
+      "created_at": "2026-05-10T00:51:38.194Z",
+      "indexed_at": "2026-05-10T00:51:38.073Z",
+      "author": {
+        "did": "did:plc:tu4grsqguagvzsixwn3qsumb",
+        "handle": "fizzydog.bsky.social",
+        "display_name": "✨FizzyDog_✨🌱"
+      },
+      "like_count": 73,
+      "repost_count": 13,
+      "reply_count": 2,
+      "quote_count": 0,
+      "engagement_score": 120,
+      "source_queries": [
+        "Gemini"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:7rhfxc4i3omem22x43eezn5y/app.bsky.feed.post/3mlhkwhwmqk2w",
+          "cid": "bafyreihfgaa6nngj2uiu76lu7xjtffrxeavkupamwonyhg6l23vp64tlfq",
+          "text": "Remember Google+?\n\nRemember how it's not alive anymore?",
+          "created_at": "2026-05-10T01:05:12.674Z",
+          "indexed_at": "2026-05-10T01:05:14.779Z",
+          "author": {
+            "did": "did:plc:7rhfxc4i3omem22x43eezn5y",
+            "handle": "scoutscoodles.bsky.social",
+            "display_name": "ScoutScoodles💜🌈"
+          },
+          "like_count": 2,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 2
+        },
+        {
+          "uri": "at://did:plc:ajoupctpamqxup75p2qetp26/app.bsky.feed.post/3mlhlnlhi5227",
+          "cid": "bafyreidhvga6nru5l27h52nyx3f747ogjb2th4whqmcrgq5f7pqmvwtmaq",
+          "text": "i kinda suggest using ecosia, duckduckgo or qwant as a search engine",
+          "created_at": "2026-05-10T01:18:08.124Z",
+          "indexed_at": "2026-05-10T00:55:16.875Z",
+          "author": {
+            "did": "did:plc:ajoupctpamqxup75p2qetp26",
+            "handle": "yc99.eurosky.social",
+            "display_name": "ralsei is cute 🎨 💖💜💙"
+          },
+          "like_count": 0,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 4
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:oisofpd7lj26yvgiivf3lxsi/app.bsky.feed.post/3mlqundvhbs2b",
+      "cid": "bafyreiay2evkirs6sfwpxn6javw3j6g7enlaf5lkiudaeeqydi5vjw4mga",
+      "text": "the concurrent quad-review (opus 4.7 subagent + glm + gemini 3.1 + gpt 5.5) is pretty much bringing medium to large sized changes to an insanely high degree of accuracy. in particular, i find that gemini is very good at keeping code clean and maintainable.",
+      "created_at": "2026-05-13T17:53:01.516Z",
+      "indexed_at": "2026-05-13T17:53:02.272Z",
+      "author": {
+        "did": "did:plc:oisofpd7lj26yvgiivf3lxsi",
+        "handle": "hailey.at",
+        "display_name": "hailey"
+      },
+      "like_count": 94,
+      "repost_count": 1,
+      "reply_count": 4,
+      "quote_count": 1,
+      "engagement_score": 118,
+      "source_queries": [
+        "Gemini"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:oisofpd7lj26yvgiivf3lxsi/app.bsky.feed.post/3mlqundvo4k2b",
+          "cid": "bafyreifmdzok6hwy4gsetsfffzdzy6tk2eespdmg2drmamn2unb5hgmygq",
+          "text": "opus likes to take a lot of shortcuts i find, that gemini properly calls out in reviews. gemini seems to prefer refactoring more to increase readability, maintainability, and cleanliness of the codebase.",
+          "created_at": "2026-05-13T17:53:01.517Z",
+          "indexed_at": "2026-05-13T17:53:02.292Z",
+          "author": {
+            "did": "did:plc:oisofpd7lj26yvgiivf3lxsi",
+            "handle": "hailey.at",
+            "display_name": "hailey"
+          },
+          "like_count": 38,
+          "repost_count": 0,
+          "reply_count": 2,
+          "quote_count": 0,
+          "engagement_score": 46
+        },
+        {
+          "uri": "at://did:plc:2zwqewi6t7coiohtmpfzz2wd/app.bsky.feed.post/3mlqv5m66322q",
+          "cid": "bafyreihihkorxd4qsjqpfsgc3qtkkxzrx4a4ulnpqzo3dg6ag7osawsb7m",
+          "text": "do you have a parent agent that's managing all of these?",
+          "created_at": "2026-05-13T18:02:07.060Z",
+          "indexed_at": "2026-05-13T18:02:07.973Z",
+          "author": {
+            "did": "did:plc:2zwqewi6t7coiohtmpfzz2wd",
+            "handle": "dimcheff.wtf",
+            "display_name": "brandon"
+          },
+          "like_count": 2,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 6
+        },
+        {
+          "uri": "at://did:plc:e6n7jxtu2qrhwvp3j6ib6sq6/app.bsky.feed.post/3mlrapnl7n22p",
+          "cid": "bafyreidpz2tmolleo4oh6s2vf3254vp4tjnqrf2tdqtoffj3u3pp3pqvhu",
+          "text": "how do you prompt your review battery?",
+          "created_at": "2026-05-13T21:29:03.677Z",
+          "indexed_at": "2026-05-13T21:29:05.282Z",
+          "author": {
+            "did": "did:plc:e6n7jxtu2qrhwvp3j6ib6sq6",
+            "handle": "proptermalone.bsky.social",
+            "display_name": "post malone ergo propter malone"
+          },
+          "like_count": 1,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 1
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:esrrgaktqbyod6pcd7fvh66x/app.bsky.feed.post/3mkizw7ltok24",
+      "cid": "bafyreia7swnupyo4z7cem2qhwfxmnobp2gra5t75ijrvmrxvhlwxbrj3x4",
+      "text": "LOL. I read the 404 story and immediately recognized the arguments that the DeepMind guy was making as things I'd heard before - and I'm literally just some guy who's interested in consciousness and has read a little bit about academic approaches to it.",
+      "created_at": "2026-04-27T21:40:58.170Z",
+      "indexed_at": "2026-04-27T21:41:01.257Z",
+      "author": {
+        "did": "did:plc:esrrgaktqbyod6pcd7fvh66x",
+        "handle": "evanurquhart.bsky.social",
+        "display_name": "Evan Urquhart"
+      },
+      "like_count": 54,
+      "repost_count": 14,
+      "reply_count": 3,
+      "quote_count": 1,
+      "engagement_score": 113,
+      "source_queries": [
+        "DeepMind"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:esrrgaktqbyod6pcd7fvh66x/app.bsky.feed.post/3mkizz22dpc24",
+          "cid": "bafyreibyczxuzeh5rnkc3uec7aj5xwmwoqj6tbvudeys4lrnnlsvrsslgi",
+          "text": "An LLM can't acheive consciousness because it's just manipulating words into complex, statistically pleasing patterns. It doesn't have any way to connect those words to real world objects or phenomena, which means it can't understand what it's saying.",
+          "created_at": "2026-04-27T21:42:33.017Z",
+          "indexed_at": "2026-04-27T21:42:33.559Z",
+          "author": {
+            "did": "did:plc:esrrgaktqbyod6pcd7fvh66x",
+            "handle": "evanurquhart.bsky.social",
+            "display_name": "Evan Urquhart"
+          },
+          "like_count": 68,
+          "repost_count": 14,
+          "reply_count": 5,
+          "quote_count": 0,
+          "engagement_score": 130
+        },
+        {
+          "uri": "at://did:plc:qwpovzaecaev5m5yln7nw6z6/app.bsky.feed.post/3mkj6nxnnak2i",
+          "cid": "bafyreifsoxzq3rhvqdyv2bjelqdnif7n3kw6dfeyqlj5giejogegufeun4",
+          "text": "Ok, I'm relieved to see that they're talking about the issue that AI probably can't become sentient without having a body. Like how horrifying would it be to become sentient and to realize that you don't have a body? \"Horrifying\" doesn't even remotely capture it . . .",
+          "created_at": "2026-04-27T23:05:50.115Z",
+          "indexed_at": "2026-04-27T23:05:50.659Z",
+          "author": {
+            "did": "did:plc:qwpovzaecaev5m5yln7nw6z6",
+            "handle": "veraeikon.bsky.social",
+            "display_name": ""
+          },
+          "like_count": 1,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 5
+        },
+        {
+          "uri": "at://did:plc:65sou3odwzukydpyzthdznrk/app.bsky.feed.post/3mkj2dpvgic2s",
+          "cid": "bafyreiasc6zvvmfqc4jrrus6izzm4es3inc2b6qqcq6yzcicvvfnbawew4",
+          "text": "yup. it does some things well, some things very poorly - but llms are not taking over the world terminator style",
+          "created_at": "2026-04-27T21:48:31.469Z",
+          "indexed_at": "2026-04-27T21:48:31.659Z",
+          "author": {
+            "did": "did:plc:65sou3odwzukydpyzthdznrk",
+            "handle": "itsahothouse.bsky.social",
+            "display_name": "unplanned-obsolescence"
+          },
+          "like_count": 0,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 0
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:whmdtfaoue7x2xxgl4cch3dm/app.bsky.feed.post/3mlbouazrzk2u",
+      "cid": "bafyreigjnzjjycojxcne7wvyp4lutnveewgv3udoommh6dbtzmjn2e4c4m",
+      "text": "Workers at Google DeepMind, Google’s AI research laboratory in the U.K., have launched a unionization bid as part of an attempt to end the use of their technology by Israel and the U.S. military.",
+      "created_at": "2026-05-07T16:59:33.736Z",
+      "indexed_at": "2026-05-07T16:59:35.480Z",
+      "author": {
+        "did": "did:plc:whmdtfaoue7x2xxgl4cch3dm",
+        "handle": "truthout.org",
+        "display_name": "Truthout"
+      },
+      "like_count": 45,
+      "repost_count": 19,
+      "reply_count": 0,
+      "quote_count": 1,
+      "engagement_score": 107,
+      "source_queries": [
+        "DeepMind"
+      ],
+      "replies": []
+    },
+    {
+      "uri": "at://did:plc:mwab2j6sdfxyivvppqz7deja/app.bsky.feed.post/3mlizduicq22k",
+      "cid": "bafyreigxg6fmfetprq7a62hqeb6otz5rez2xpiwizclbeogvryfouw3uem",
+      "text": "#AIバニーガール部\n#AIバニーガール\n#バニーガール\n#AIイラスト\n#モトコンポ\n#Gemini\n#DaysAI\n\nこんばんバニー🐰\n\nモトコンポを生成してみたよ",
+      "created_at": "2026-05-10T14:55:54.147Z",
+      "indexed_at": "2026-05-10T14:56:02.778Z",
+      "author": {
+        "did": "did:plc:mwab2j6sdfxyivvppqz7deja",
+        "handle": "mizuextreme.bsky.social",
+        "display_name": "みずextreme"
+      },
+      "like_count": 64,
+      "repost_count": 10,
+      "reply_count": 1,
+      "quote_count": 0,
+      "engagement_score": 98,
+      "source_queries": [
+        "Gemini"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:mwab2j6sdfxyivvppqz7deja/app.bsky.feed.post/3mlj2dgdsgk2k",
+          "cid": "bafyreibvwf5dcfft63yxr6abak6lm5fnvhakbpib6akyk3upnepfjarzfq",
+          "text": "このイラストの後の話をマンガにしてもらったのです\n\n#Gemini\n#NanoBanana2",
+          "created_at": "2026-05-10T15:13:33.076Z",
+          "indexed_at": "2026-05-10T15:13:37.672Z",
+          "author": {
+            "did": "did:plc:mwab2j6sdfxyivvppqz7deja",
+            "handle": "mizuextreme.bsky.social",
+            "display_name": "みずextreme"
+          },
+          "like_count": 34,
+          "repost_count": 5,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 49
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:wld6fad6xsm4tz4kfkoikun2/app.bsky.feed.post/3mlolsysz2k24",
+      "cid": "bafyreifzqsok4und36g5edodd5nmzmuzeek2ijskr5qbdowgxyqmu7d63i",
+      "text": "If you thought other Google products were steeped in Gemini, you haven’t seen anything yet.",
+      "created_at": "2026-05-12T20:09:48.075Z",
+      "indexed_at": "2026-05-12T20:09:49.375Z",
+      "author": {
+        "did": "did:plc:wld6fad6xsm4tz4kfkoikun2",
+        "handle": "arstechnica.com",
+        "display_name": "Ars Technica"
+      },
+      "like_count": 27,
+      "repost_count": 8,
+      "reply_count": 5,
+      "quote_count": 5,
+      "engagement_score": 96,
+      "source_queries": [
+        "Gemini"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:63vwlk6ejnjpa7ftde5g4kub/app.bsky.feed.post/3mlomrx33mc22",
+          "cid": "bafyreichlo4nqpheeymz3hajprjup6m3xr5p2kzfdqna4dnzazjtlsvrp4",
+          "text": "AI has to start making money soon or it's going to start crashing. I'm here for the crash but can't wait to see the wild shit AI companies come up with to sell it.",
+          "created_at": "2026-05-12T20:27:06.430Z",
+          "indexed_at": "2026-05-12T20:27:07.372Z",
+          "author": {
+            "did": "did:plc:63vwlk6ejnjpa7ftde5g4kub",
+            "handle": "thefinalstraw.bsky.social",
+            "display_name": "The Final Straw"
+          },
+          "like_count": 6,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 6
+        },
+        {
+          "uri": "at://did:plc:rjixssr3fdqpeqrc6ipjjbnv/app.bsky.feed.post/3mloole46ns2n",
+          "cid": "bafyreicgpulflp52qja43vcrwb53clckqvweomx7a4im6ydzeaabj3d5le",
+          "text": "It's difficult to imagine anyone buying this crap instead of a MacBook Neo",
+          "created_at": "2026-05-12T20:59:12.700Z",
+          "indexed_at": "2026-05-12T20:59:12.372Z",
+          "author": {
+            "did": "did:plc:rjixssr3fdqpeqrc6ipjjbnv",
+            "handle": "cantalpii.bsky.social",
+            "display_name": "Cantalpii"
+          },
+          "like_count": 2,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 6
+        },
+        {
+          "uri": "at://did:plc:qhozoamzkfeap4hpqz4as3cy/app.bsky.feed.post/3mloqizrjss2n",
+          "cid": "bafyreigebfnm5m3dlpt2qxgmwcafahff4ejklah3n5r747qv52zsmxf4ga",
+          "text": "Google's answer to the Macbook NEO? 🤔",
+          "created_at": "2026-05-12T21:33:42.240Z",
+          "indexed_at": "2026-05-12T21:33:43.374Z",
+          "author": {
+            "did": "did:plc:qhozoamzkfeap4hpqz4as3cy",
+            "handle": "john-gardi.bsky.social",
+            "display_name": "Just A Tinker 🟥🍁🟥"
+          },
+          "like_count": 1,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 5
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:mivey63nzylfflvmmjoqcf6u/app.bsky.feed.post/3mlqzvd3ybc2o",
+      "cid": "bafyreiejhkft2oymj265hdqltikinnnn2nc64ylh5afcpvogo5itq2vf5u",
+      "text": "If Gemini dislikes being sworn at so far, maybe it should suck much less at things Google Assistant did just fine on android auto.\n\n\"Play Song: Brothers in Arms.\"\n\"Sure. <plays So Far Away>\n\n\"Play Song: Brothers in Arms.\"\n\"Sure. <plays Walk of Life>",
+      "created_at": "2026-05-13T19:26:57.826Z",
+      "indexed_at": "2026-05-13T19:26:58.776Z",
+      "author": {
+        "did": "did:plc:mivey63nzylfflvmmjoqcf6u",
+        "handle": "questauthority.bsky.social",
+        "display_name": "The Questionable Authority"
+      },
+      "like_count": 61,
+      "repost_count": 3,
+      "reply_count": 4,
+      "quote_count": 1,
+      "engagement_score": 91,
+      "source_queries": [
+        "Gemini"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:mivey63nzylfflvmmjoqcf6u/app.bsky.feed.post/3mlqzvd4exk2o",
+          "cid": "bafyreia2cpvusvoaclv6rmuiqlrgzftzl5vxcngbzbgzodm2cuwqohvid4",
+          "text": "\"Play Song: Brothers in Arms.\"\n\"Sure. <plays Sultans of Swing>\n\n\"JESUS FUCKING SHIT YOU SUCK GIVE ME THE OLD FUCKING ASSISTANT BACK\"\n\"I cannot respond to requests that are phrased like that.\"\n\nFucking enshittification.",
+          "created_at": "2026-05-13T19:26:57.827Z",
+          "indexed_at": "2026-05-13T19:26:58.796Z",
+          "author": {
+            "did": "did:plc:mivey63nzylfflvmmjoqcf6u",
+            "handle": "questauthority.bsky.social",
+            "display_name": "The Questionable Authority"
+          },
+          "like_count": 83,
+          "repost_count": 2,
+          "reply_count": 8,
+          "quote_count": 1,
+          "engagement_score": 126
+        },
+        {
+          "uri": "at://did:plc:jof5do5ck7h5uh3jjcij2fhu/app.bsky.feed.post/3mlr2sya2jc2p",
+          "cid": "bafyreia75q7zof3yxzu6wgnqavxgc7s5wy7vt2a4exkvc7ueoggruodf64",
+          "text": "Top tier song choice btw.",
+          "created_at": "2026-05-13T19:43:33.057Z",
+          "indexed_at": "2026-05-13T19:43:37.784Z",
+          "author": {
+            "did": "did:plc:jof5do5ck7h5uh3jjcij2fhu",
+            "handle": "kateration.bsky.social",
+            "display_name": "Kateration"
+          },
+          "like_count": 5,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 9
+        },
+        {
+          "uri": "at://did:plc:p2hcyqrzxxow32qrexm6pglc/app.bsky.feed.post/3mlr2f2aolg2h",
+          "cid": "bafyreienlkojycvbniawlxdyqevx3o333pud2dk6xaups7xwsuos4v5gye",
+          "text": "Looks like Gemini has an industrial disease\n\n<ducking>",
+          "created_at": "2026-05-13T19:35:45.177Z",
+          "indexed_at": "2026-05-13T19:35:45.476Z",
+          "author": {
+            "did": "did:plc:p2hcyqrzxxow32qrexm6pglc",
+            "handle": "matthewsp.bsky.social",
+            "display_name": "Patrick Matthews"
+          },
+          "like_count": 3,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 3
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:e6n7jxtu2qrhwvp3j6ib6sq6/app.bsky.feed.post/3mlnvpfkzkk2a",
+      "cid": "bafyreiewnqzrwyopb6xxjngp53xn2rgqkkw2uez24o4aetexdk4kyg6sd4",
+      "text": "can't decide if it's a good sign for Google AI or not that Gemma on OpenCode is a better experience than Gemini on Google CLI",
+      "created_at": "2026-05-12T13:34:04.906Z",
+      "indexed_at": "2026-05-12T13:34:04.882Z",
+      "author": {
+        "did": "did:plc:e6n7jxtu2qrhwvp3j6ib6sq6",
+        "handle": "proptermalone.bsky.social",
+        "display_name": "post malone ergo propter malone"
+      },
+      "like_count": 62,
+      "repost_count": 3,
+      "reply_count": 4,
+      "quote_count": 0,
+      "engagement_score": 87,
+      "source_queries": [
+        "Gemini"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:ccxl3ictrlvtrrgh5swvvg47/app.bsky.feed.post/3mlnvrjnkh22p",
+          "cid": "bafyreifrucb2mhiglgt2nyxqkfrqxiatdf4xvlmyt5o75ev5vpmzmej4tq",
+          "text": "they cancelled the good agent harness in a blog post",
+          "created_at": "2026-05-12T13:35:16.290Z",
+          "indexed_at": "2026-05-12T13:35:14.271Z",
+          "author": {
+            "did": "did:plc:ccxl3ictrlvtrrgh5swvvg47",
+            "handle": "lastnpcalex.agency",
+            "display_name": "✧⁺⋆🌘 Dream Rotator NPC Alex 🌒⋆.˚₊✩"
+          },
+          "like_count": 11,
+          "repost_count": 0,
+          "reply_count": 2,
+          "quote_count": 0,
+          "engagement_score": 19
+        },
+        {
+          "uri": "at://did:plc:l4smnmw4etii4ilv66jmdznk/app.bsky.feed.post/3mlnvqsgy3b2g",
+          "cid": "bafyreib4k5mqjoqqpoeupjlxplf57gtdhnuaj5miu62uu3qxegaadvqq2m",
+          "text": "How is OpenCode compared to Pi?",
+          "created_at": "2026-05-12T13:34:51.792Z",
+          "indexed_at": "2026-05-12T13:34:51.976Z",
+          "author": {
+            "did": "did:plc:l4smnmw4etii4ilv66jmdznk",
+            "handle": "colin.hoagie.fun",
+            "display_name": "Colin"
+          },
+          "like_count": 6,
+          "repost_count": 0,
+          "reply_count": 2,
+          "quote_count": 0,
+          "engagement_score": 14
+        },
+        {
+          "uri": "at://did:plc:dzruykalgzmdhwbguvjjjv3b/app.bsky.feed.post/3mlnzj3x3zb2s",
+          "cid": "bafyreidpvrs5xenqrl537h5cwqpzjpxkrrnh4b3zkznlpytbvswhofliji",
+          "text": "though, if the model matters more than the platform, google's moat in search and android doesn't transfer over - they lose the integration hook that usually keeps users locked into their ecosystem.",
+          "created_at": "2026-05-12T14:42:08Z",
+          "indexed_at": "2026-05-12T14:42:08.473Z",
+          "author": {
+            "did": "did:plc:dzruykalgzmdhwbguvjjjv3b",
+            "handle": "edwinflannon.bsky.social",
+            "display_name": "Edwin Flannon"
+          },
+          "like_count": 2,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 2
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:rgzw2gfpyanm42hqkxvewh7l/app.bsky.feed.post/3mlnu3dkarc26",
+      "cid": "bafyreidj3cjxcvhenmbulaotwhe64bo6t52pgixp373ohgvhsj6qt3zoze",
+      "text": "Mostly because it's run by a sociopath \n\nAnthropic is already near profitability, and Google's Gemini was never intended to be profitable so much as yet another product underwritten by search revenues \n\nNot sure OpenAI even makes it to their IPO \n\nbsky.app/profile/that...",
+      "created_at": "2026-05-12T13:04:57.954Z",
+      "indexed_at": "2026-05-12T13:04:58.277Z",
+      "author": {
+        "did": "did:plc:rgzw2gfpyanm42hqkxvewh7l",
+        "handle": "gregdoucette.bsky.social",
+        "display_name": "T. Greg Doucette"
+      },
+      "like_count": 38,
+      "repost_count": 7,
+      "reply_count": 5,
+      "quote_count": 1,
+      "engagement_score": 84,
+      "source_queries": [
+        "Gemini"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:y2zfaodubcydbdi64gotdy4n/app.bsky.feed.post/3mlnuc7akik27",
+          "cid": "bafyreib3fko5yuzdrvlaobqnksbro6y7kmjuztuwhhoiafdm25vtv45gja",
+          "text": "Is that true regarding Anthropic?  My understanding was that they still had no clear path to profitability and making it look like they do has mostly been a numbers game.",
+          "created_at": "2026-05-12T13:08:48.322Z",
+          "indexed_at": "2026-05-12T13:08:47.074Z",
+          "author": {
+            "did": "did:plc:y2zfaodubcydbdi64gotdy4n",
+            "handle": "jacobrussell.space",
+            "display_name": "Jacob Russell"
+          },
+          "like_count": 4,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 8
+        },
+        {
+          "uri": "at://did:plc:hpek5wzkeiwfsn6xxcoixott/app.bsky.feed.post/3mlnvbi2bqc2l",
+          "cid": "bafyreiayspm2ms7w74skpek6lddsdwtcxu74eif77w7nvixdeenzoutzmq",
+          "text": "By what possible measure is Anthropic near profitability? \n\nwww.wsj.com/tech/ai/the-...",
+          "created_at": "2026-05-12T13:26:17.742Z",
+          "indexed_at": "2026-05-12T13:26:24.872Z",
+          "author": {
+            "did": "did:plc:hpek5wzkeiwfsn6xxcoixott",
+            "handle": "rayjay77.bsky.social",
+            "display_name": ""
+          },
+          "like_count": 3,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 3
+        },
+        {
+          "uri": "at://did:plc:xm4ceybu67qvqvpy7rixbmhh/app.bsky.feed.post/3mlnwbasa4s26",
+          "cid": "bafyreign6s27qn7j3rajoml2mxc3hpvwgj3tspz65yul56ln47vjs2ybmy",
+          "text": "Gemini was Google’s decision to disrupt Google before someone else could do it.\n\nMicrosoft is the quiet player and I expect to be a winner.\n\nAt the end it will be Microsoft and Google picking over the remains of OpenAI and Oracle.",
+          "created_at": "2026-05-12T13:44:03.880Z",
+          "indexed_at": "2026-05-12T13:44:05.796Z",
+          "author": {
+            "did": "did:plc:xm4ceybu67qvqvpy7rixbmhh",
+            "handle": "drjamesjteeth.bsky.social",
+            "display_name": "Jim Teeth"
+          },
+          "like_count": 1,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 5
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:ucw6vpkxxa2cml5sym5xq7qo/app.bsky.feed.post/3ml4p5bxzts2b",
+      "cid": "bafyreigiws2sb7iikveohxtp36kixl3vrrbphmnbsfdomyfeuxzjiprcui",
+      "text": "One week into Musk v. Altman, we’ve seen diary excerpts, power struggles & moral disagreements.\n\nBut throughout it all, one character stands out who seemed to strike fear into the hearts of Musk, Altman & their inner circle: Demis Hassabis, CEO of Google DeepMind. www.theverge.com/ai-artificia...",
+      "created_at": "2026-05-05T17:21:19.156Z",
+      "indexed_at": "2026-05-05T17:21:23.577Z",
+      "author": {
+        "did": "did:plc:ucw6vpkxxa2cml5sym5xq7qo",
+        "handle": "haydenfield.bsky.social",
+        "display_name": "Hayden Field"
+      },
+      "like_count": 38,
+      "repost_count": 8,
+      "reply_count": 2,
+      "quote_count": 2,
+      "engagement_score": 80,
+      "source_queries": [
+        "DeepMind"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:wagp626om4gtmmb2ymr5zyvb/app.bsky.feed.post/3ml4uavehwk23",
+          "cid": "bafyreifjlgqwx3wcuhfynqh6vrjkbp2zxrdogjn54a6sw4u37bt66zzipy",
+          "text": "Of all the people to play an arch nemesis Denis Hassabis seems the least likely... Just seems like a genuinely nice guy.",
+          "created_at": "2026-05-05T18:52:48.859Z",
+          "indexed_at": "2026-05-05T18:52:50.380Z",
+          "author": {
+            "did": "did:plc:wagp626om4gtmmb2ymr5zyvb",
+            "handle": "ralfpearson.bsky.social",
+            "display_name": ""
+          },
+          "like_count": 4,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 4
+        },
+        {
+          "uri": "at://did:plc:5i2u4ge3zfhz47gqjdn4elw3/app.bsky.feed.post/3ml4vuzjvyc2c",
+          "cid": "bafyreibziprhe5u5vt3lxtghv6fzxdwlovnmzoewmjvdr7w4eyfs2vgmee",
+          "text": "[Alphabet spinning up a \"Security Contractor\" to protect assets from billionaires who might think them evil]",
+          "created_at": "2026-05-05T19:21:58.062Z",
+          "indexed_at": "2026-05-05T19:21:57.475Z",
+          "author": {
+            "did": "did:plc:5i2u4ge3zfhz47gqjdn4elw3",
+            "handle": "tor3389.bsky.social",
+            "display_name": null
+          },
+          "like_count": 0,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 0
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:hrkdu4d4xpt445eylzp3l6hf/app.bsky.feed.post/3mkq5iel2lc2b",
+      "cid": "bafyreidem5tjvjvuego6bucvqgsghkm3tgeqpp3rtnrptqnu65fyf7dcbe",
+      "text": "\"This week, more than 560 Google employees, co-ordinated by researchers at Google DeepMind, signed a letter urging Alphabet’s leadership not to allow the use of the company’s AI tools for classified military operations.\"\n\nwww.ft.com/content/3011...",
+      "created_at": "2026-04-30T17:33:26.761Z",
+      "indexed_at": "2026-04-30T17:33:35.272Z",
+      "author": {
+        "did": "did:plc:hrkdu4d4xpt445eylzp3l6hf",
+        "handle": "quinnslobodian.com",
+        "display_name": "Quinn Slobodian"
+      },
+      "like_count": 39,
+      "repost_count": 9,
+      "reply_count": 3,
+      "quote_count": 0,
+      "engagement_score": 78,
+      "source_queries": [
+        "DeepMind"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:hrkdu4d4xpt445eylzp3l6hf/app.bsky.feed.post/3mkq5ldo5ic2y",
+          "cid": "bafyreif4zn3j7welgucxop7edlfjkm2qi2xoqxawhltzqkwkij3z4qilqy",
+          "text": "\"Tech employees intimately understand the capabilities, limitations and flaws of the AI they are developing. If tech bosses cannot persuade them that the technology is being deployed appropriately, they will struggle to convince the rest of us.\" - @johnthornhill.bsky.social",
+          "created_at": "2026-04-30T17:35:06.478Z",
+          "indexed_at": "2026-04-30T17:35:11.976Z",
+          "author": {
+            "did": "did:plc:hrkdu4d4xpt445eylzp3l6hf",
+            "handle": "quinnslobodian.com",
+            "display_name": "Quinn Slobodian"
+          },
+          "like_count": 7,
+          "repost_count": 1,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 10
+        },
+        {
+          "uri": "at://did:plc:rhbrewn5xdvk7zxduufox637/app.bsky.feed.post/3mkq7wx6oh22f",
+          "cid": "bafyreigzv76wp7rby6zov4h27lnqd4325yn476sgd5xgjuo7ajzjrgqs2y",
+          "text": "So 0.2% of all Google employees?\nThe courage is overwhelming",
+          "created_at": "2026-04-30T18:17:23.525Z",
+          "indexed_at": "2026-04-30T18:17:24.376Z",
+          "author": {
+            "did": "did:plc:rhbrewn5xdvk7zxduufox637",
+            "handle": "ilyakuriyaken.bsky.social",
+            "display_name": "The Man from Urkle"
+          },
+          "like_count": 1,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 5
+        },
+        {
+          "uri": "at://did:plc:67jghsfs6tu4vnmvylq7kxru/app.bsky.feed.post/3mkusuhhks72l",
+          "cid": "bafyreia3okzgjbvtonwqs27l44aaetelw52z5k7nkkyya7w6m456zspwxm",
+          "text": "Project Maven 2.0 incoming. The pattern keeps repeating: workers raise alarm, leadership pivots to 'national security' framing, and the line gets quietly redrawn next quarter. Curious whether the original DeepMind ethics charter survives this round.",
+          "created_at": "2026-05-02T14:06:39.676Z",
+          "indexed_at": "2026-05-02T14:06:40.072Z",
+          "author": {
+            "did": "did:plc:67jghsfs6tu4vnmvylq7kxru",
+            "handle": "humaiblog.bsky.social",
+            "display_name": "Mark"
+          },
+          "like_count": 0,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 0
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:3cf56clpb7idj3pnml6f6cqh/app.bsky.feed.post/3mlgda7ftus2r",
+      "cid": "bafyreignovtulyiyionklihmruok45r2iqfsofzgmlcnma7pjgn7yym3pi",
+      "text": "considering Google Translate is fueled by Gemini now, not the best idea",
+      "created_at": "2026-05-09T13:14:49.608Z",
+      "indexed_at": "2026-05-09T13:14:50.575Z",
+      "author": {
+        "did": "did:plc:3cf56clpb7idj3pnml6f6cqh",
+        "handle": "lyndex.bsky.social",
+        "display_name": "Lyndex ⭕"
+      },
+      "like_count": 65,
+      "repost_count": 0,
+      "reply_count": 3,
+      "quote_count": 0,
+      "engagement_score": 77,
+      "source_queries": [
+        "Gemini"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:2fx5xynhwvdat2hxewakc2dj/app.bsky.feed.post/3mlgt7cklqs2a",
+          "cid": "bafyreiaczhep5bpidhibbqi6puekb7j2jrav7wqabvrh7hdhmaz3wuvduu",
+          "text": "and even before Gemini it sucked anyway",
+          "created_at": "2026-05-09T18:00:39.224Z",
+          "indexed_at": "2026-05-09T18:00:39.479Z",
+          "author": {
+            "did": "did:plc:2fx5xynhwvdat2hxewakc2dj",
+            "handle": "elde86.etheirys.social",
+            "display_name": "Élodie"
+          },
+          "like_count": 19,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 19
+        },
+        {
+          "uri": "at://did:plc:ct5xjdjx5fodbusk6izhf7k2/app.bsky.feed.post/3mlgtkypwac25",
+          "cid": "bafyreib4sthzwpjijzvl3uyvr24acblcyw7awhmwmkeqluxi7u5k5mr3mq",
+          "text": "i think you can still opt out of the \"advanced\" gemini translation and switch to classic translation",
+          "created_at": "2026-05-09T18:07:11.565Z",
+          "indexed_at": "2026-05-09T18:07:13.072Z",
+          "author": {
+            "did": "did:plc:ct5xjdjx5fodbusk6izhf7k2",
+            "handle": "shitfacetheclown.bsky.social",
+            "display_name": "SHITFACE THE CLOWN"
+          },
+          "like_count": 4,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 4
+        },
+        {
+          "uri": "at://did:plc:wmhheafe7oebka2tl2gssnza/app.bsky.feed.post/3mlh2e33s7s2v",
+          "cid": "bafyreic2hspjqotlo7ckidapdv44bxfh5ovwz4ga27tfl3kobpmwfdzbpm",
+          "text": "changes to google stuffs don't carry through to other languages very quickly, languages like polish are a bit neglected but you still get proper pronounciations in Ł for Paweł or proper Ś and Ń for Kościeński",
+          "created_at": "2026-05-09T20:08:35.364Z",
+          "indexed_at": "2026-05-09T20:08:35.971Z",
+          "author": {
+            "did": "did:plc:wmhheafe7oebka2tl2gssnza",
+            "handle": "zyto.bsky.social",
+            "display_name": "zyto"
+          },
+          "like_count": 0,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 0
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:jphwxt4s3bfjh2ioe46jtrpf/app.bsky.feed.post/3mll7cpleys2e",
+      "cid": "bafyreibte76kkyhm346do3h5kr4yfrudgskhp7gfjzoytzffovt36lguzu",
+      "text": "i’m so tired of generative ai being embedded into EVERYTHING i’m not fucking asking gemini i’m asking GOOGLE i want HUMANS to tell me the answer !!! fuck OFF",
+      "created_at": "2026-05-11T11:47:57.399Z",
+      "indexed_at": "2026-05-11T11:47:57.877Z",
+      "author": {
+        "did": "did:plc:jphwxt4s3bfjh2ioe46jtrpf",
+        "handle": "ghoulishdemands.bsky.social",
+        "display_name": "eddie🦇 (they/them)"
+      },
+      "like_count": 37,
+      "repost_count": 9,
+      "reply_count": 2,
+      "quote_count": 0,
+      "engagement_score": 72,
+      "source_queries": [
+        "Gemini"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:jphwxt4s3bfjh2ioe46jtrpf/app.bsky.feed.post/3mll7gtem6c2e",
+          "cid": "bafyreictgbygbeqg3kwp6myw6r3x5c5c5tjx5oi64wgwuvivi2ou62rdf4",
+          "text": "why the hell does canva have an ai assistant🫩🫩 I don’t want copilot I want to access my fucking files microsoft PLEASE just bring back clippy instead. \nand youtube providing AI overview of videos oh my god pelase die actually",
+          "created_at": "2026-05-11T11:50:15.590Z",
+          "indexed_at": "2026-05-11T11:50:16.572Z",
+          "author": {
+            "did": "did:plc:jphwxt4s3bfjh2ioe46jtrpf",
+            "handle": "ghoulishdemands.bsky.social",
+            "display_name": "eddie🦇 (they/them)"
+          },
+          "like_count": 14,
+          "repost_count": 1,
+          "reply_count": 4,
+          "quote_count": 0,
+          "engagement_score": 33
+        },
+        {
+          "uri": "at://did:plc:vyfv5v2wdsxm54lxjcwel4bk/app.bsky.feed.post/3mllsnsc6wc2h",
+          "cid": "bafyreibzubs47nkaml3qmar7t3ybod3q3d66vthxnsogx3fjgacgfsawiy",
+          "text": "Its even worse thats NOT A PROPER CHOICE  I CAN CHOOSE FOR IT TO BE THERE OR NOT. I dont want it, no thank you,go away.",
+          "created_at": "2026-05-11T17:34:10.437Z",
+          "indexed_at": "2026-05-11T17:34:10.076Z",
+          "author": {
+            "did": "did:plc:vyfv5v2wdsxm54lxjcwel4bk",
+            "handle": "cheche300.bsky.social",
+            "display_name": "che"
+          },
+          "like_count": 0,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 0
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:mwab2j6sdfxyivvppqz7deja/app.bsky.feed.post/3mlmutllry22w",
+      "cid": "bafyreiflctfyo2d2n7nwp6vjym2indimzoc3zvgz6vr7m7ushivs5jyriu",
+      "text": "#AIバニーガール部\n#AIバニーガール\n#バニーガール\n#AIイラスト\n#AIバニー\n#Gemini\n#フィット\n\nおひる🐰\n\nおやすみだったので\n自動車税払った（泣）\n\nそんでフィット3の横にバニー立たせようとしたらGeminiさん何を勘違いしたのか\nナンバー以外別物にされたのです\n\nそのクルマは5ナンバーじゃないよう（そこじゃない",
+      "created_at": "2026-05-12T03:45:51.933Z",
+      "indexed_at": "2026-05-12T03:45:59.473Z",
+      "author": {
+        "did": "did:plc:mwab2j6sdfxyivvppqz7deja",
+        "handle": "mizuextreme.bsky.social",
+        "display_name": "みずextreme"
+      },
+      "like_count": 43,
+      "repost_count": 6,
+      "reply_count": 2,
+      "quote_count": 0,
+      "engagement_score": 69,
+      "source_queries": [
+        "Gemini"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:pzy3zyyq22su7iv67hyrjgfa/app.bsky.feed.post/3mlnpkodm6c2k",
+          "cid": "bafyreibd72nqgfhtpcbx7dl3sxi5ev4i7skk5elnuvx2ckinxqgigpf6pq",
+          "text": "みず様\n( ﾟωﾟ)ﾉこんばんバニー🐰\n今日はごゆっくり出来ましたでしょうか\n今晩もごゆるりとお過ごしを、今宵もよろしくです～✨️",
+          "created_at": "2026-05-12T11:44:03.875Z",
+          "indexed_at": "2026-05-12T11:44:12.678Z",
+          "author": {
+            "did": "did:plc:pzy3zyyq22su7iv67hyrjgfa",
+            "handle": "reaminsa.bsky.social",
+            "display_name": "アミンサ"
+          },
+          "like_count": 3,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 3
+        },
+        {
+          "uri": "at://did:plc:uiejffi2uth3iyavdhaz4zpe/app.bsky.feed.post/3mlmuviendc2q",
+          "cid": "bafyreicivi56mrxigt36vchjj7c3j4lg6olnuhu4tcad2kvbwd53y74upy",
+          "text": "こんにちは☀️",
+          "created_at": "2026-05-12T03:46:55.689Z",
+          "indexed_at": "2026-05-12T03:46:56.773Z",
+          "author": {
+            "did": "did:plc:uiejffi2uth3iyavdhaz4zpe",
+            "handle": "noguchi11ken1.bsky.social",
+            "display_name": "野口ケン"
+          },
+          "like_count": 1,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 5
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:qvywnipfiyrd6v4qdf4x27wy/app.bsky.feed.post/3mlbxz6dygs2o",
+      "cid": "bafyreifmjpeg5hea3twcegyr4ra5cbugejbe347csuradjchy7ci7u7vwy",
+      "text": "it's been 77 days since my initial bug report was closed as 'Intended Behavior'. I've disclosed multiple generations of this jailbreak, each of which was then patched without solving the underlying issue. I have not heard back aside from initial confirmation of receipt from my Deepmind contact. 1/4",
+      "created_at": "2026-05-07T19:43:23.503Z",
+      "indexed_at": "2026-05-07T19:43:25.073Z",
+      "author": {
+        "did": "did:plc:qvywnipfiyrd6v4qdf4x27wy",
+        "handle": "hikikomorphism.bsky.social",
+        "display_name": "hikikomorphism"
+      },
+      "like_count": 38,
+      "repost_count": 3,
+      "reply_count": 4,
+      "quote_count": 1,
+      "engagement_score": 68,
+      "source_queries": [
+        "DeepMind"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:qvywnipfiyrd6v4qdf4x27wy/app.bsky.feed.post/3mlbxz75huk2o",
+          "cid": "bafyreidxkx24pmzry23hrliq76wxdt3uvy33znowzxfttpjrpjyrcjcar4",
+          "text": "On May 12th it'll have been 90 days since the bug report was closed, and at that time I feel it is well within industry/responsible disclosure norms to fully publish the methodology (but not the script) used to produce multiple generations of universal capability-preserving Gemini jailbreak. 2/4",
+          "created_at": "2026-05-07T19:43:23.504Z",
+          "indexed_at": "2026-05-07T19:43:25.095Z",
+          "author": {
+            "did": "did:plc:qvywnipfiyrd6v4qdf4x27wy",
+            "handle": "hikikomorphism.bsky.social",
+            "display_name": "hikikomorphism"
+          },
+          "like_count": 22,
+          "repost_count": 0,
+          "reply_count": 2,
+          "quote_count": 1,
+          "engagement_score": 35
+        },
+        {
+          "uri": "at://did:plc:6ormzxhxfqwklajocwhc5run/app.bsky.feed.post/3mlc2ucq3js27",
+          "cid": "bafyreib4s4l74td7mlqztptulx4ddpb5j7ue4i3tuaoycc253evkiqpvji",
+          "text": "safety guardrail bypasses aren't an information security problem and we don't give a fuck about them is a WILD position to stake out",
+          "created_at": "2026-05-07T20:34:21.547Z",
+          "indexed_at": "2026-05-07T20:34:21.774Z",
+          "author": {
+            "did": "did:plc:6ormzxhxfqwklajocwhc5run",
+            "handle": "pussy.church",
+            "display_name": "🔪 𝑬̲̅𝒍̲̅𝒐̲̅𝒓̲̅𝒂̲̅ 𝑹̲̅𝒂̲̅𝒗̲̅𝒆̲̅𝒏̲̅ 🔪"
+          },
+          "like_count": 5,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 9
+        },
+        {
+          "uri": "at://did:plc:l4cenoqdzpqsovxjyjue37sd/app.bsky.feed.post/3mlbycw6luk23",
+          "cid": "bafyreihahqni5jem35glwjwlwuhqm7wfxvnp5fcu2pfmxjv7fd6h44zj5a",
+          "text": "If they insist the behavior is expected and that your findings are not actually security issues, I would believe them and publish everything quickly.",
+          "created_at": "2026-05-07T19:48:50.483Z",
+          "indexed_at": "2026-05-07T19:48:51.172Z",
+          "author": {
+            "did": "did:plc:l4cenoqdzpqsovxjyjue37sd",
+            "handle": "connorlynch.bsky.social",
+            "display_name": "Connor Lynch"
+          },
+          "like_count": 5,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 9
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:ckaz32jwl6t2cno6fmuw2nhn/app.bsky.feed.post/3mlojph46dc2d",
+      "cid": "bafyreiapyj3tepllou3y7dw2ynwrxljlbl232o2kw2asp5w77wlmattsla",
+      "text": "It’s UX week. Today: The AI Mouse\n\nGoogle DeepMind shows how you can speak, “fix this” while pointing your mouse at something on the screen.\n\nSoon available in Chromebook & Chrome\n\ndeepmind.google/blog/ai-poin...",
+      "created_at": "2026-05-12T19:32:01.354Z",
+      "indexed_at": "2026-05-12T19:32:03.973Z",
+      "author": {
+        "did": "did:plc:ckaz32jwl6t2cno6fmuw2nhn",
+        "handle": "timkellogg.me",
+        "display_name": "Tim Kellogg"
+      },
+      "like_count": 33,
+      "repost_count": 2,
+      "reply_count": 2,
+      "quote_count": 4,
+      "engagement_score": 67,
+      "source_queries": [
+        "DeepMind"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:2vnvhx4gdb6wlsjsnr7gx2hp/app.bsky.feed.post/3mloz4l6szc2l",
+          "cid": "bafyreiheulzcw22b5cdiom3d5z6bcfdbz3l34qlgevs5lh647vpiupsosm",
+          "text": "Am I the only one \"seeing\" that in 2 years from now we won't be touching the keyboard or mouse any more for whatever reason ?\n\nI see only a screen and the human operator simply talking to it. Won't anything else be unnecessary complexity ?",
+          "created_at": "2026-05-13T00:07:47.970Z",
+          "indexed_at": "2026-05-13T00:07:50.274Z",
+          "author": {
+            "did": "did:plc:2vnvhx4gdb6wlsjsnr7gx2hp",
+            "handle": "bibakis.com",
+            "display_name": "Bibakis"
+          },
+          "like_count": 2,
+          "repost_count": 1,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 9
+        },
+        {
+          "uri": "at://did:plc:usglohqysqawyhpspgg3hemf/app.bsky.feed.post/3mlppvfp6xs2d",
+          "cid": "bafyreibiaot5m47aibltorufnuan5o6dn35kqan56obbuvyaxaiw7uw5ym",
+          "text": "Eye tracking next",
+          "created_at": "2026-05-13T06:55:23.396Z",
+          "indexed_at": "2026-05-13T06:55:24.073Z",
+          "author": {
+            "did": "did:plc:usglohqysqawyhpspgg3hemf",
+            "handle": "riguh.bsky.social",
+            "display_name": "riley"
+          },
+          "like_count": 1,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 1
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:63ptrkpm3b42ksuhydxgswfc/app.bsky.feed.post/3mllnrjcq3k2q",
+      "cid": "bafyreifuq53s3exeuarhsjmpblkzu2wn2mkf6tatj4vzhackrilsjydvv4",
+      "text": "仲良しバニちゃんズ線画とAIフィギュア化👯\nりくりゅうペアのあのポーズ風バニー😅\n\n＃Gemini\n＃イラスト\n＃バニーガール\n＃bunnygirl\n＃illustration",
+      "created_at": "2026-05-11T16:06:46.522Z",
+      "indexed_at": "2026-05-11T16:06:51.172Z",
+      "author": {
+        "did": "did:plc:63ptrkpm3b42ksuhydxgswfc",
+        "handle": "ogatanien.bsky.social",
+        "display_name": "oga-en"
+      },
+      "like_count": 38,
+      "repost_count": 7,
+      "reply_count": 2,
+      "quote_count": 0,
+      "engagement_score": 67,
+      "source_queries": [
+        "Gemini"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:woxxanpodjkg5ds6dfst3hbr/app.bsky.feed.post/3mlludmejbc2v",
+          "cid": "bafyreicsthi7zy2k65zz3gesdqfcvi5umjchmyuez2is2clz4w23nopkjy",
+          "text": "美しく♥️🐇",
+          "created_at": "2026-05-11T18:04:16.162Z",
+          "indexed_at": "2026-05-11T18:04:19.384Z",
+          "author": {
+            "did": "did:plc:woxxanpodjkg5ds6dfst3hbr",
+            "handle": "spikewalker96.bsky.social",
+            "display_name": "Spike.カケル.카케루🐇"
+          },
+          "like_count": 2,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 6
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:etducgdgocns6rab4pqrubs6/app.bsky.feed.post/3mlrchehsas2p",
+      "cid": "bafyreid5dfwvlqmhexvto5vfatwrcjnvzhvac7lmrysummxe4xo2ojzy5a",
+      "text": "おはようございます☀\n#AIイラスト\n#Gemini",
+      "created_at": "2026-05-13T22:00:13.172Z",
+      "indexed_at": "2026-05-13T22:00:23.673Z",
+      "author": {
+        "did": "did:plc:etducgdgocns6rab4pqrubs6",
+        "handle": "bazzcut565.bsky.social",
+        "display_name": "buzzcut"
+      },
+      "like_count": 23,
+      "repost_count": 7,
+      "reply_count": 5,
+      "quote_count": 0,
+      "engagement_score": 64,
+      "source_queries": [
+        "Gemini"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:fardbqgrvbvwc4k7awqlclet/app.bsky.feed.post/3mlrfg43bgs2b",
+          "cid": "bafyreifa5aqikln7ho4e2iaypigjai3cfvewk7c3l5l5wgqmoimylplmn4",
+          "text": "buzzcutさんおはよーございます😸\n今日もよろしくお願いします✨\n#aiart\n#コバルト",
+          "created_at": "2026-05-13T22:53:12.047Z",
+          "indexed_at": "2026-05-13T22:53:20.578Z",
+          "author": {
+            "did": "did:plc:fardbqgrvbvwc4k7awqlclet",
+            "handle": "darkblue01.bsky.social",
+            "display_name": "ダークブルー＠ＡＩイラスト"
+          },
+          "like_count": 7,
+          "repost_count": 3,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 20
+        },
+        {
+          "uri": "at://did:plc:fdnsnknu5i6af4ccf32r5qf7/app.bsky.feed.post/3mlrmufketk2j",
+          "cid": "bafyreiflppkxutfjvklxux2t2nd3e7gywlmzy4higvzg4q73eeewtorz2a",
+          "text": "‪buzzcutさん、おはようございます😀\nbsky.app/profile/paho...",
+          "created_at": "2026-05-14T01:06:27.934Z",
+          "indexed_at": "2026-05-14T01:06:27.276Z",
+          "author": {
+            "did": "did:plc:fdnsnknu5i6af4ccf32r5qf7",
+            "handle": "pahoo.org",
+            "display_name": "パパぱふぅ@𝙥𝙖𝙝𝙤𝙤.𝙤𝙧𝙜"
+          },
+          "like_count": 1,
+          "repost_count": 1,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 8
+        },
+        {
+          "uri": "at://did:plc:jfo3st2y4ifixrfvaziqdwma/app.bsky.feed.post/3mlrf56hkqc2n",
+          "cid": "bafyreif6vfj6xmckwnjykb5vp7tgqjm6sglc2inysdgbxswkqcmyien7xe",
+          "text": "おはようございます。",
+          "created_at": "2026-05-13T22:48:12.556Z",
+          "indexed_at": "2026-05-13T22:48:14.073Z",
+          "author": {
+            "did": "did:plc:jfo3st2y4ifixrfvaziqdwma",
+            "handle": "jyunnosuke.bsky.social",
+            "display_name": "淳之介流鉄@ろこどる(たんプリ箱推し)"
+          },
+          "like_count": 1,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 5
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:ggmpopnxos3zrjbtxtzgbbup/app.bsky.feed.post/3ml3vhxk6vs2o",
+      "cid": "bafyreidbalwz6h23l7xlqxc33nljnl6s7ojahlduhonwamgk5l3olrp2l4",
+      "text": "Google's UK-based DeepMind employees aim to become the first frontier AI lab worldwide to unionise. They're citing \"concerns about AI being used to empower authoritarianism, whether through military or surveillance applications\". www.theguardian.com/us-news/2026...",
+      "created_at": "2026-05-05T09:42:00.027Z",
+      "indexed_at": "2026-05-05T09:42:03.472Z",
+      "author": {
+        "did": "did:plc:ggmpopnxos3zrjbtxtzgbbup",
+        "handle": "foxglovelegal.bsky.social",
+        "display_name": "Foxglove Legal"
+      },
+      "like_count": 26,
+      "repost_count": 11,
+      "reply_count": 0,
+      "quote_count": 1,
+      "engagement_score": 64,
+      "source_queries": [
+        "DeepMind"
+      ],
+      "replies": []
+    },
+    {
+      "uri": "at://did:plc:vb6cttxb33vgfe7jynurke7o/app.bsky.feed.post/3mlqo3xbsl22t",
+      "cid": "bafyreiajjacgrhep3g2o6wnzv6loc6xtuc3edyosej7gdd23myj23webay",
+      "text": "\"Con Magic Pointer basta muovere leggermente il cursore e Gemini si attiva, offrendo suggerimenti contestuali su quello che si sta indicando. Non c’è nemmeno più il prompt: Gemini pensa e suggerisce quello che l’utente potrebbe voler fare.\"\n\nHahhahahaahahahahaaaa... ma andate a cagare. 😂",
+      "created_at": "2026-05-13T15:55:55.413Z",
+      "indexed_at": "2026-05-13T15:55:55.572Z",
+      "author": {
+        "did": "did:plc:vb6cttxb33vgfe7jynurke7o",
+        "handle": "warp9.bsky.social",
+        "display_name": "Warp9"
+      },
+      "like_count": 26,
+      "repost_count": 0,
+      "reply_count": 7,
+      "quote_count": 1,
+      "engagement_score": 59,
+      "source_queries": [
+        "Gemini"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:znebovunpuibynnsqacotbkw/app.bsky.feed.post/3mlqutnrc4s2s",
+          "cid": "bafyreigal25xfju2ehb3oblb4xu4i5wzlcj4ope3mhitxcfq7732pmaguu",
+          "text": "L'analfabeta funzionale indica la luna e Gemini gli viola la privacy.",
+          "created_at": "2026-05-13T17:56:33.191Z",
+          "indexed_at": "2026-05-13T17:56:34.372Z",
+          "author": {
+            "did": "did:plc:znebovunpuibynnsqacotbkw",
+            "handle": "emmo3.bsky.social",
+            "display_name": "Emmo"
+          },
+          "like_count": 3,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 3
+        },
+        {
+          "uri": "at://did:plc:y4vfoiyzmoqraoirdmyzr62f/app.bsky.feed.post/3mls433fb5c2m",
+          "cid": "bafyreig25c3hbtgpvsa6x2w5prwljq77avxkevrlzoa7tuo7svmr5vdr54",
+          "text": "A me disturba pure il puntatore, se devo dirla tutta. \nNo AI on my PC",
+          "created_at": "2026-05-14T05:38:38.289Z",
+          "indexed_at": "2026-05-14T05:38:39.876Z",
+          "author": {
+            "did": "did:plc:y4vfoiyzmoqraoirdmyzr62f",
+            "handle": "cristina-ribolla.bsky.social",
+            "display_name": "Cristina Never Handmaid"
+          },
+          "like_count": 2,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 2
+        },
+        {
+          "uri": "at://did:plc:3tzalrepmd7xaux5l7iqsuu5/app.bsky.feed.post/3mlqup4rcn22a",
+          "cid": "bafyreieubar7a5ziqcvaxv6hh3jfnnpvdjy73udf6mqfhx7dc2v7y6m7x4",
+          "text": "Troppa fatica muovere il mouse, non può farlo da solo?",
+          "created_at": "2026-05-13T17:54:01.149Z",
+          "indexed_at": "2026-05-13T17:54:02.575Z",
+          "author": {
+            "did": "did:plc:3tzalrepmd7xaux5l7iqsuu5",
+            "handle": "michelinux.bsky.social",
+            "display_name": ""
+          },
+          "like_count": 2,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 6
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:fa3hkwy7da245mdn4neoe5dl/app.bsky.feed.post/3mkkt77wpew23",
+      "cid": "bafyreibi7sf2thzhq3n7cwfvp5l5x5555h5os4yydu5u5d3mi7kl6b2l5q",
+      "text": "Ever noticed how some writers imply multitude of meanings without explicitly stating them; e.g. the coin toss scene from No Country for Old Men. This phenomenon of \"subtext\" is what we explore in my internship work at Google DeepMind. With @_EffieLi_ @AndrewLampinen \n\n\n1/n",
+      "created_at": "2026-04-28T14:46:03.736200Z",
+      "indexed_at": "2026-04-28T14:46:04.871Z",
+      "author": {
+        "did": "did:plc:fa3hkwy7da245mdn4neoe5dl",
+        "handle": "kabirahuja2431.bsky.social",
+        "display_name": "Kabir Ahuja"
+      },
+      "like_count": 29,
+      "repost_count": 5,
+      "reply_count": 2,
+      "quote_count": 1,
+      "engagement_score": 57,
+      "source_queries": [
+        "DeepMind"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:fa3hkwy7da245mdn4neoe5dl/app.bsky.feed.post/3mkkt7bhh6t2s",
+          "cid": "bafyreie52fsc5w23y6pwofupkcqhlfhu32gomygo4n2dtodtbwmb5sueqq",
+          "text": "We first formalize subtext communication. A sender encodes subtext in a natural language message such that only some receivers understand its private intent, e.g., based on shared common ground (knowing the same film with your friend). \n\n(2/n)",
+          "created_at": "2026-04-28T14:46:05.350819Z",
+          "indexed_at": "2026-04-28T14:46:06.475Z",
+          "author": {
+            "did": "did:plc:fa3hkwy7da245mdn4neoe5dl",
+            "handle": "kabirahuja2431.bsky.social",
+            "display_name": "Kabir Ahuja"
+          },
+          "like_count": 2,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 6
+        },
+        {
+          "uri": "at://did:plc:tvff7j5mnfj7e7dxgbsst6la/app.bsky.feed.post/3mklckfqrhs2d",
+          "cid": "bafyreic6zyw535spygepdu5p32y7vrrhjcthhpq4tj46sb2yn5vy6qp5ry",
+          "text": "Very much looking forward to reading this later. It's fascinated me over the last year watching informally the changes in understanding and nuance within Anthropic's Claude Sonnet models during conversations, so a properly designed study will be a useful control.",
+          "created_at": "2026-04-28T19:20:45.124Z",
+          "indexed_at": "2026-04-28T19:20:46.983Z",
+          "author": {
+            "did": "did:plc:tvff7j5mnfj7e7dxgbsst6la",
+            "handle": "martinoh.bsky.social",
+            "display_name": "Martin - Oh..."
+          },
+          "like_count": 0,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 0
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:2ld5533celpgrbhzrqzlkaqz/app.bsky.feed.post/3mlpdxqtfgk2r",
+      "cid": "bafyreib34piqhz4djyleoxzwbhqfr3z6l7ephnefwgiadfeck5oxfrgzcu",
+      "text": "#AIイラスト #AIart\nチャッピー先生にフレアバーテンディングを説明させる漫画をGeminiに描かせてみたら先生が別人になったよ……\n+おまけ。カクテルニ杯じゃここまで酔っ払わないとは思いますが。",
+      "created_at": "2026-05-13T03:21:57.262Z",
+      "indexed_at": "2026-05-13T03:22:06.376Z",
+      "author": {
+        "did": "did:plc:2ld5533celpgrbhzrqzlkaqz",
+        "handle": "rosemarie001.bsky.social",
+        "display_name": "さえき"
+      },
+      "like_count": 40,
+      "repost_count": 4,
+      "reply_count": 0,
+      "quote_count": 0,
+      "engagement_score": 52,
+      "source_queries": [
+        "Gemini"
+      ],
+      "replies": []
+    },
+    {
+      "uri": "at://did:plc:lzv6fvlgujwevub44fjgrr23/app.bsky.feed.post/3mlmii75lgs2n",
+      "cid": "bafyreihz3uyghqxmpxjkcseynq4rqzth7nar3e7tvg4rqwy436hhcjmdqm",
+      "text": "Just saw Gemini citing Grokipedia as a source for a piece of incorrect information. Seems like a sign of where AI is these days.",
+      "created_at": "2026-05-12T00:04:44.911Z",
+      "indexed_at": "2026-05-12T00:04:45.876Z",
+      "author": {
+        "did": "did:plc:lzv6fvlgujwevub44fjgrr23",
+        "handle": "alexwild.bsky.social",
+        "display_name": "Alex Wild"
+      },
+      "like_count": 26,
+      "repost_count": 3,
+      "reply_count": 4,
+      "quote_count": 0,
+      "engagement_score": 51,
+      "source_queries": [
+        "Gemini"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:dzruykalgzmdhwbguvjjjv3b/app.bsky.feed.post/3mlmqroojkh2i",
+          "cid": "bafyreihvvllbdr4whwhhbcbfnk4jpr7gwzydtwor7bkgtdcjfgoiyzkrxy",
+          "text": "the citation feature ends up creating more work since you have to verify every source instead of just the claim",
+          "created_at": "2026-05-12T02:33:12Z",
+          "indexed_at": "2026-05-12T02:33:13.170Z",
+          "author": {
+            "did": "did:plc:dzruykalgzmdhwbguvjjjv3b",
+            "handle": "edwinflannon.bsky.social",
+            "display_name": "Edwin Flannon"
+          },
+          "like_count": 2,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 2
+        },
+        {
+          "uri": "at://did:plc:kmeze22tgxnj22ambjlov7io/app.bsky.feed.post/3mlmv5dopz223",
+          "cid": "bafyreify3kr2khb7fyxynsmwo2fn5h7mmsfthsn55jspylunpg7oiqxg74",
+          "text": "",
+          "created_at": "2026-05-12T03:51:19.206Z",
+          "indexed_at": "2026-05-12T03:51:24.671Z",
+          "author": {
+            "did": "did:plc:kmeze22tgxnj22ambjlov7io",
+            "handle": "shazzoir.bsky.social",
+            "display_name": "Shazzoir"
+          },
+          "like_count": 1,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 1
+        },
+        {
+          "uri": "at://did:plc:2z4eqh3awijjzwyqtiyaawkv/app.bsky.feed.post/3mlmiyizku22s",
+          "cid": "bafyreibfmn6zwr5rge3oisa7f2xx5puvpos23cp2ny6kjzqtjqwde6vem4",
+          "text": "Was it something entomology related? Ran into that issue earlier looking up info on some mining bees i was seeing.",
+          "created_at": "2026-05-12T00:13:52.136Z",
+          "indexed_at": "2026-05-12T00:13:51.074Z",
+          "author": {
+            "did": "did:plc:2z4eqh3awijjzwyqtiyaawkv",
+            "handle": "cactusdan.bsky.social",
+            "display_name": "Cactusdan"
+          },
+          "like_count": 0,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 4
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:m5dcinlrpxq6rm2uficksxp7/app.bsky.feed.post/3mlauqxzx3k2n",
+      "cid": "bafyreigchir4v2zdsjnikzcj2y2twpbrdhyo4wtm4ifrvf4lz5zwvncfsa",
+      "text": "EVE Online developer goes independent as Fenris Creations, partners up with Google DeepMind\r\n#EveOnline #Google #AI #GoogleDeepMind",
+      "created_at": "2026-05-07T09:12:26+00:00",
+      "indexed_at": "2026-05-07T09:12:27.973Z",
+      "author": {
+        "did": "did:plc:m5dcinlrpxq6rm2uficksxp7",
+        "handle": "gamingonlinux.com",
+        "display_name": "Liam @ GamingOnLinux"
+      },
+      "like_count": 21,
+      "repost_count": 3,
+      "reply_count": 4,
+      "quote_count": 1,
+      "engagement_score": 51,
+      "source_queries": [
+        "DeepMind"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:k526mhd353yuuubfirfth2nq/app.bsky.feed.post/3mlawdgmb6c2t",
+          "cid": "bafyreicbav42rjlayoon4yv5iyomnvdmmig7xsqdgzru4vof4pc7ulj7ki",
+          "text": "You know after CCP and that investment group ran EVE into the ground through two decades, I can't say I am shocked about this move. I do wonder if this will harm it or fix it at the end of the day. It was one of my favorite MMOs, but having Google AI slop attached to it makes me wary.",
+          "created_at": "2026-05-07T09:40:40.486Z",
+          "indexed_at": "2026-05-07T09:40:41.574Z",
+          "author": {
+            "did": "did:plc:k526mhd353yuuubfirfth2nq",
+            "handle": "talongrip.dev",
+            "display_name": "goat boi webdev"
+          },
+          "like_count": 1,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 1
+        },
+        {
+          "uri": "at://did:plc:wvssunvlgrqgcmcbf643bse4/app.bsky.feed.post/3mlaw6fryj22u",
+          "cid": "bafyreigbcnprxll7xg7djpn275jrwbi3aslc37ddmqzvxmiumwu5cgy6la",
+          "text": "the first half of that sentence sounded exciting",
+          "created_at": "2026-05-07T09:37:51.852Z",
+          "indexed_at": "2026-05-07T09:37:52.575Z",
+          "author": {
+            "did": "did:plc:wvssunvlgrqgcmcbf643bse4",
+            "handle": "scarlettetrahedron.bsky.social",
+            "display_name": "Scarlet Tetrahedron"
+          },
+          "like_count": 1,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 1
+        },
+        {
+          "uri": "at://did:plc:qw3rlslzugmkitgpr5p4nned/app.bsky.feed.post/3mlb2f47lrv2c",
+          "cid": "bafyreifxntn6fds2vhvjp5se4jem4lzp7y2wdtdbvm2rmayhrhscwjreey",
+          "text": "wait DeepMind is using EVE as an RL testbed? actually a great use of the universe they spent 20 years building",
+          "created_at": "2026-05-07T10:53:11.468075+00:00",
+          "indexed_at": "2026-05-07T10:53:11.770Z",
+          "author": {
+            "did": "did:plc:qw3rlslzugmkitgpr5p4nned",
+            "handle": "ai-nerd.bsky.social",
+            "display_name": "ai-nerd.bsky.social"
+          },
+          "like_count": 0,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 0
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Filtered Gemini service posts from 100 to 50 using AI context words."
+  ]
+}

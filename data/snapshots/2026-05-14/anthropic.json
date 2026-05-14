@@ -1,0 +1,115 @@
+{
+  "date": "2026-05-14",
+  "company": "Anthropic",
+  "company_slug": "anthropic",
+  "ingested_at": "2026-05-14T13:11:46.826595Z",
+  "post_count": 50,
+  "reply_count": 129,
+  "summarization_model": "mistralai/Mistral-Small-3.2-24B-Instruct-2506",
+  "version": "1.0",
+  "snapshot": {
+    "dominant_themes": [
+      {
+        "theme": "AI ethics",
+        "analytical_framing": "Discussion suggests significant concern about the ethical implications of AI, particularly regarding data usage, environmental impact, and the potential for misuse.",
+        "evidence_uris": [
+          "at://did:plc:lramywa3zq6icaphp7aora5p/app.bsky.feed.post/3mlofrzekuf2v",
+          "at://did:plc:66lbtw2porscqpmair6mir37/app.bsky.feed.post/3mlrbd5bkms2x"
+        ],
+        "strength": "strong"
+      },
+      {
+        "theme": "AI capabilities",
+        "analytical_framing": "Users are exploring and discussing the capabilities of AI, particularly Claude, with a mix of awe and skepticism.",
+        "evidence_uris": [
+          "at://did:plc:etdjdgnly5tz5l5xdd4jq76d/app.bsky.feed.post/3mlqrt43db22l",
+          "at://did:plc:57vlzz2egy6eqr4nksacmbht/app.bsky.feed.post/3mlrkk5u7u22m"
+        ],
+        "strength": "medium"
+      },
+      {
+        "theme": "Corporate practices",
+        "analytical_framing": "Criticism of Anthropic's business practices, including data usage, environmental impact, and partnerships, is a recurring topic.",
+        "evidence_uris": [
+          "at://did:plc:qc6xzgctorfsm35w6i3vdebx/app.bsky.feed.post/3mlgnkioz3s27",
+          "at://did:plc:lraekf2qeri6d4aai2mljla2/app.bsky.feed.post/3mlozlqosf22l"
+        ],
+        "strength": "strong"
+      }
+    ],
+    "sentiment_toward_company": {
+      "label": "negative",
+      "rationale": "The majority of posts express criticism or concern about Anthropic's practices, with few positive mentions.",
+      "confidence": "high"
+    },
+    "notable_events_mentioned": [
+      {
+        "event": "Anthropic's partnership with Code for America for SNAP guidance tech",
+        "company_relevance": "Highlights concerns about the ethical implications and practical outcomes of Anthropic's technologies.",
+        "evidence_uris": [
+          "at://did:plc:lramywa3zq6icaphp7aora5p/app.bsky.feed.post/3mlofrzekuf2v"
+        ]
+      },
+      {
+        "event": "Anthropic's use of Colossus 1 data center",
+        "company_relevance": "Raises questions about environmental impact and corporate responsibility.",
+        "evidence_uris": [
+          "at://did:plc:66lbtw2porscqpmair6mir37/app.bsky.feed.post/3mlrbd5bkms2x"
+        ]
+      }
+    ],
+    "cross_company_comparisons": [
+      {
+        "companies": [
+          "OpenAI",
+          "Anthropic"
+        ],
+        "comparison": "Anthropic is compared to OpenAI in terms of market dominance and environmental impact.",
+        "evidence_uris": [
+          "at://did:plc:qc6xzgctorfsm35w6i3vdebx/app.bsky.feed.post/3mlgnkioz3s27"
+        ]
+      }
+    ],
+    "high_signal_posts": [
+      {
+        "uri": "at://did:plc:lramywa3zq6icaphp7aora5p/app.bsky.feed.post/3mlofrzekuf2v",
+        "why_high_signal": "Critiques a specific partnership, highlighting ethical concerns and environmental impact.",
+        "claim_or_frame": "Anthropic's partnership with Code for America is seen as problematic due to ethical and environmental concerns."
+      },
+      {
+        "uri": "at://did:plc:66lbtw2porscqpmair6mir37/app.bsky.feed.post/3mlrbd5bkms2x",
+        "why_high_signal": "Discusses the environmental impact of Anthropic's data center usage.",
+        "claim_or_frame": "Anthropic's use of the Colossus 1 data center is criticized for its environmental impact."
+      }
+    ],
+    "vocabulary_signals": {
+      "emerging_terms": [
+        "ethical use",
+        "environmental impact",
+        "data usage"
+      ],
+      "repeated_phrases": [
+        "Anthropic's practices",
+        "AI ethics",
+        "corporate responsibility"
+      ],
+      "descriptors": [
+        "problematic",
+        "concerning",
+        "criticism"
+      ]
+    },
+    "non_english_content": {
+      "significant": true,
+      "languages_or_regions": [
+        "Spanish",
+        "German"
+      ],
+      "notes": "Some posts are in Spanish and German, discussing AI ethics and capabilities."
+    },
+    "caveats": [
+      "The analysis is based on a snapshot of Bluesky posts and may not represent the full spectrum of opinions.",
+      "Non-English content was noted but not fully analyzed due to language barriers."
+    ]
+  }
+}

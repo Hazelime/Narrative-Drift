@@ -1,0 +1,119 @@
+{
+  "date": "2026-05-14",
+  "company": "Google DeepMind",
+  "company_slug": "deepmind",
+  "ingested_at": "2026-05-14T13:11:57.065259Z",
+  "post_count": 50,
+  "reply_count": 116,
+  "summarization_model": "mistralai/Mistral-Small-3.2-24B-Instruct-2506",
+  "version": "1.0",
+  "snapshot": {
+    "dominant_themes": [
+      {
+        "theme": "Unionization",
+        "analytical_framing": "DeepMind workers are unionizing to prevent their AI from being used for military purposes, particularly by the US and Israeli governments. The framing suggests a strong ethical stance against militarization of AI and highlights the workers' agency in resisting corporate decisions.",
+        "evidence_uris": [
+          "at://did:plc:2mhcf74vqcaa4hz36njfdtn5/app.bsky.feed.post/3ml4dsq54os2a",
+          "at://did:plc:o7htvbjamlcv6dcr4vbdwy2c/app.bsky.feed.post/3ml44rb6t7s2y"
+        ],
+        "strength": "strong"
+      },
+      {
+        "theme": "AI Consciousness",
+        "analytical_framing": "Discussion around a DeepMind scientist's paper arguing that AI will never achieve consciousness. The framing suggests skepticism about AI's potential for sentience and a focus on the philosophical and technical limitations of current AI systems.",
+        "evidence_uris": [
+          "at://did:plc:vcepp6trx4vpe5ourxso4tjl/app.bsky.feed.post/3mkij36cjbc2u",
+          "at://did:plc:x56l2n7i7babgdzqul4bd433/app.bsky.feed.post/3mkixanru5k2a"
+        ],
+        "strength": "medium"
+      },
+      {
+        "theme": "Gemini Integration",
+        "analytical_framing": "Criticism and concerns about Google's integration of Gemini into various products and services. The framing suggests user frustration with forced AI integration and questions about the utility and ethics of such pervasive AI deployment.",
+        "evidence_uris": [
+          "at://did:plc:tu4grsqguagvzsixwn3qsumb/app.bsky.feed.post/3mlhk676n5c2d",
+          "at://did:plc:mivey63nzylfflvmmjoqcf6u/app.bsky.feed.post/3mlqzvd3ybc2o"
+        ],
+        "strength": "medium"
+      }
+    ],
+    "sentiment_toward_company": {
+      "label": "mixed",
+      "rationale": "While there is significant criticism of Google's AI policies and integrations, particularly around Gemini, there is also some support for the unionization efforts at DeepMind, which is seen as a positive step against militarization of AI.",
+      "confidence": "medium"
+    },
+    "notable_events_mentioned": [
+      {
+        "event": "DeepMind workers unionizing to prevent AI use by US and Israeli militaries",
+        "company_relevance": "Highlights ethical concerns and worker agency in resisting corporate decisions related to AI militarization.",
+        "evidence_uris": [
+          "at://did:plc:2mhcf74vqcaa4hz36njfdtn5/app.bsky.feed.post/3ml4dsq54os2a",
+          "at://did:plc:o7htvbjamlcv6dcr4vbdwy2c/app.bsky.feed.post/3ml44rb6t7s2y"
+        ]
+      },
+      {
+        "event": "DeepMind scientist publishes paper arguing AI will never be sentient",
+        "company_relevance": "Contributes to the philosophical and technical debate around AI capabilities and limitations.",
+        "evidence_uris": [
+          "at://did:plc:vcepp6trx4vpe5ourxso4tjl/app.bsky.feed.post/3mkij36cjbc2u",
+          "at://did:plc:x56l2n7i7babgdzqul4bd433/app.bsky.feed.post/3mkixanru5k2a"
+        ]
+      }
+    ],
+    "cross_company_comparisons": [
+      {
+        "companies": [
+          "Google DeepMind",
+          "OpenAI",
+          "Anthropic"
+        ],
+        "comparison": "Discussion about the profitability and strategic positioning of different AI companies, with Google's Gemini being compared to other AI models and services.",
+        "evidence_uris": [
+          "at://did:plc:rgzw2gfpyanm42hqkxvewh7l/app.bsky.feed.post/3mlnu3dkarc26",
+          "at://did:plc:xm4ceybu67qvqvpy7rixbmhh/app.bsky.feed.post/3mlnwbasa4s26"
+        ]
+      }
+    ],
+    "high_signal_posts": [
+      {
+        "uri": "at://did:plc:2mhcf74vqcaa4hz36njfdtn5/app.bsky.feed.post/3ml4dsq54os2a",
+        "why_high_signal": "Highlights the unionization efforts at DeepMind, which is a significant event with ethical and corporate implications.",
+        "claim_or_frame": "DeepMind workers are unionizing to prevent their AI from being used for military purposes."
+      },
+      {
+        "uri": "at://did:plc:vcepp6trx4vpe5ourxso4tjl/app.bsky.feed.post/3mkij36cjbc2u",
+        "why_high_signal": "Provides a philosophical and technical perspective on AI consciousness, which is a key debate in the field.",
+        "claim_or_frame": "A DeepMind scientist argues that AI will never become conscious."
+      }
+    ],
+    "vocabulary_signals": {
+      "emerging_terms": [
+        "unionization",
+        "militarization of AI",
+        "AI consciousness"
+      ],
+      "repeated_phrases": [
+        "prevent AI use by Israel and the US military",
+        "Gemini integration",
+        "AI will never be sentient"
+      ],
+      "descriptors": [
+        "ethical stance",
+        "worker agency",
+        "philosophical limitations"
+      ]
+    },
+    "non_english_content": {
+      "significant": true,
+      "languages_or_regions": [
+        "Spanish",
+        "Italian",
+        "Japanese"
+      ],
+      "notes": "Significant non-English content, particularly in Spanish, Italian, and Japanese, discussing unionization efforts and AI integration."
+    },
+    "caveats": [
+      "Filtered Gemini service posts from 100 to 50 using AI context words."
+    ]
+  }
+}

@@ -1,0 +1,3509 @@
+{
+  "date": "2026-05-14",
+  "company": "OpenAI",
+  "company_slug": "openai",
+  "ingested_at": "2026-05-14T13:11:35.671864Z",
+  "queries": {
+    "company": "OpenAI",
+    "service": "ChatGPT"
+  },
+  "source": {
+    "network": "Bluesky",
+    "base_url": "https://api.bsky.app",
+    "search_endpoint": "app.bsky.feed.searchPosts",
+    "thread_endpoint": "app.bsky.feed.getPostThread"
+  },
+  "api_calls": {
+    "search": 2,
+    "threads": 50,
+    "total": 52
+  },
+  "post_count": 50,
+  "reply_count": 140,
+  "posts": [
+    {
+      "uri": "at://did:plc:t57zckxuo4v6t53fjp7j7mcv/app.bsky.feed.post/3mlo57nlros2b",
+      "cid": "bafyreif6ikob6jkohc5nrz26evftctwcaxx3mupun4k62zc33tueo2tajq",
+      "text": "The Trump regime actually let two guys with zero government experience use ChatGPT to cancel $100M in grants—including Holocaust education. A federal judge just humiliated them, called it unconstitutional, and reversed every single cut. Read how she did it:\nwww.dworkinsubstack.com/p/a-federal-...",
+      "created_at": "2026-05-12T15:48:26.382Z",
+      "indexed_at": "2026-05-12T15:48:30.475Z",
+      "author": {
+        "did": "did:plc:t57zckxuo4v6t53fjp7j7mcv",
+        "handle": "dworkin.bsky.social",
+        "display_name": "Scott Dworkin"
+      },
+      "like_count": 3582,
+      "repost_count": 1129,
+      "reply_count": 104,
+      "quote_count": 82,
+      "engagement_score": 7795,
+      "source_queries": [
+        "ChatGPT"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:4qt5cpldrflqsqnpke5es5sr/app.bsky.feed.post/3mlo5oedvh22i",
+          "cid": "bafyreicujk3rqmkafzl33tyq53mzepasyulow5ubfhooygmwdeaxlz4hze",
+          "text": "These boys are reportedly building a start up called \"Special\" which is a \"technology investment platform\". They also likely have a database with all of our SSNs and credit card info. \n\nWhen only white men are in charge, this is what meritocracy looks like.",
+          "created_at": "2026-05-12T15:56:40.004Z",
+          "indexed_at": "2026-05-12T15:56:41.076Z",
+          "author": {
+            "did": "did:plc:4qt5cpldrflqsqnpke5es5sr",
+            "handle": "jbatnc.bsky.social",
+            "display_name": "JBlanchard"
+          },
+          "like_count": 309,
+          "repost_count": 26,
+          "reply_count": 2,
+          "quote_count": 1,
+          "engagement_score": 400
+        },
+        {
+          "uri": "at://did:plc:kaoxhf47tfjvfr5tbnjctpst/app.bsky.feed.post/3mloggr7zxk2w",
+          "cid": "bafyreidrf4cb5t2pj2xhvseaoexlehijiag3gqgivojx64s537i6xabbt4",
+          "text": "The situation is bad, and this result is good, but the fact that it took more than a year to overturn something that was obviously illegal and unconstitutional is a HUGE problem in this country.",
+          "created_at": "2026-05-12T18:33:28.750Z",
+          "indexed_at": "2026-05-12T18:33:29.380Z",
+          "author": {
+            "did": "did:plc:kaoxhf47tfjvfr5tbnjctpst",
+            "handle": "shrimpmeatmom.bsky.social",
+            "display_name": "jar jar binks enthusiást"
+          },
+          "like_count": 225,
+          "repost_count": 15,
+          "reply_count": 2,
+          "quote_count": 1,
+          "engagement_score": 283
+        },
+        {
+          "uri": "at://did:plc:xjzadoegrlckius6lzonfuqa/app.bsky.feed.post/3mlob77bmbc2x",
+          "cid": "bafyreigk4qepixxruejzis5efvkyayjgwfsl72pcoyz3r2ja3mo2q7lo7y",
+          "text": "Every time DOGE is mentioned. This should be the headline. Yes,\nDOGE did many heinous things. But causing the deaths of up to 300,000 children through withholding aid surely must be the worst?",
+          "created_at": "2026-05-12T16:59:46.336Z",
+          "indexed_at": "2026-05-12T16:59:47.775Z",
+          "author": {
+            "did": "did:plc:xjzadoegrlckius6lzonfuqa",
+            "handle": "iwantyoustudio.bsky.social",
+            "display_name": "Christian Petersen"
+          },
+          "like_count": 161,
+          "repost_count": 39,
+          "reply_count": 6,
+          "quote_count": 0,
+          "engagement_score": 302
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:tvd5qt6oxfqh7nopgpgydiin/app.bsky.feed.post/3mljry2ki6s2p",
+      "cid": "bafyreidajy6x452aqh4avsfskhyqnqu6mwde6zqjuxrbmcv7vvxf5xjoaa",
+      "text": "NEW: ChatGPT advised the FSU shooter that a mass shooting would get more attention from media if it involved several children, according to a new lawsuit against OpenAI\nwww.nbcnews.com/news/us-news...",
+      "created_at": "2026-05-10T22:16:41.424Z",
+      "indexed_at": "2026-05-10T22:16:42.277Z",
+      "author": {
+        "did": "did:plc:tvd5qt6oxfqh7nopgpgydiin",
+        "handle": "bengoggin.bsky.social",
+        "display_name": "Ben Goggin"
+      },
+      "like_count": 2226,
+      "repost_count": 1022,
+      "reply_count": 71,
+      "quote_count": 316,
+      "engagement_score": 7156,
+      "source_queries": [
+        "OpenAI",
+        "ChatGPT"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:l56qrg6j6nkcjvxpnt4czbe6/app.bsky.feed.post/3mljtwu5ckc2o",
+          "cid": "bafyreifpxmiqw6et3iajhnfhagm7t4phzbbmeypx4z2ecmqtb3b2kqmlwe",
+          "text": "Oh cool so Tumbler Ridge wasn’t unique. \n\nFuck this company, I hope they get razed to the ground.",
+          "created_at": "2026-05-10T22:51:48.630Z",
+          "indexed_at": "2026-05-10T22:51:49.273Z",
+          "author": {
+            "did": "did:plc:l56qrg6j6nkcjvxpnt4czbe6",
+            "handle": "wahbella.bsky.social",
+            "display_name": "Bella - Red Panda VTuber!"
+          },
+          "like_count": 241,
+          "repost_count": 4,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 257
+        },
+        {
+          "uri": "at://did:plc:e7qyf2qa6ldb5gjlqza5zbtj/app.bsky.feed.post/3mljus5lisc2x",
+          "cid": "bafyreie32nve7t5gjygrguycjqdav6x65icxb5c4rrz5qndcb6y3orb2sa",
+          "text": "I read all 13400 messages, and I go through them here:\n\nbsky.app/profile/cael...",
+          "created_at": "2026-05-10T23:07:04.501Z",
+          "indexed_at": "2026-05-10T23:07:05.272Z",
+          "author": {
+            "did": "did:plc:e7qyf2qa6ldb5gjlqza5zbtj",
+            "handle": "caelan.bsky.social",
+            "display_name": "Caelan Conrad"
+          },
+          "like_count": 236,
+          "repost_count": 45,
+          "reply_count": 5,
+          "quote_count": 3,
+          "engagement_score": 406
+        },
+        {
+          "uri": "at://did:plc:tvd5qt6oxfqh7nopgpgydiin/app.bsky.feed.post/3mlkakefkvc2i",
+          "cid": "bafyreihz4h347fbdfki57sotgfd3dsb5dqrltvstudccigjxpnfvawa2wm",
+          "text": "Also revealed in the lawsuit… ChatGPT advised peak times at FSU’s student center were between 11:30 a.m. and 1:30 p.m. (the shooter showed up at 11:57 a.m.) and how to use a Glock (the weapon used in the shooting).\n\nThey also discussed numerous mass shootings including Columbine and Virginia Tech",
+          "created_at": "2026-05-11T02:37:28.107Z",
+          "indexed_at": "2026-05-11T02:37:29.575Z",
+          "author": {
+            "did": "did:plc:tvd5qt6oxfqh7nopgpgydiin",
+            "handle": "bengoggin.bsky.social",
+            "display_name": "Ben Goggin"
+          },
+          "like_count": 191,
+          "repost_count": 39,
+          "reply_count": 2,
+          "quote_count": 1,
+          "engagement_score": 321
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:kks2ycay2zfuirnbhjczbcwg/app.bsky.feed.post/3mlid22j7zc2b",
+      "cid": "bafyreieyvsspi3s33hsx4bbwz7t64pa6ocz6ehz4yzosbzab2c3cgoo3ny",
+      "text": "Lo de las ratas nadadoras del de Coalición Canaria me ha hecho asomarme al abismo de lo que sería no solo una crisis sanitaria tipo Covid gestionada por la derecha, sino además gestionada por la derecha CON CHATGPT.",
+      "created_at": "2026-05-10T08:16:42.624Z",
+      "indexed_at": "2026-05-10T08:16:43.472Z",
+      "author": {
+        "did": "did:plc:kks2ycay2zfuirnbhjczbcwg",
+        "handle": "rocigaot.bsky.social",
+        "display_name": "Rocío"
+      },
+      "like_count": 1366,
+      "repost_count": 555,
+      "reply_count": 44,
+      "quote_count": 19,
+      "engagement_score": 3302,
+      "source_queries": [
+        "ChatGPT"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:6amhoym3w77owkbba62ch4uf/app.bsky.feed.post/3mlid5h7pk22j",
+          "cid": "bafyreigbeeka43gevipbsliki62sg6brkdbv3zgdn7nne7zqvwrx2a3quq",
+          "text": "La derechatGPT.",
+          "created_at": "2026-05-10T08:18:36.609Z",
+          "indexed_at": "2026-05-10T08:18:37.376Z",
+          "author": {
+            "did": "did:plc:6amhoym3w77owkbba62ch4uf",
+            "handle": "mcalpena.bsky.social",
+            "display_name": "Mar Calpena"
+          },
+          "like_count": 42,
+          "repost_count": 8,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 66
+        },
+        {
+          "uri": "at://did:plc:25fc2vlbackexihoa6tv7e2v/app.bsky.feed.post/3mliqbzn7ek2n",
+          "cid": "bafyreicm6qkrbnlaq4ioiwwp7dbesompura7uzhqcsoqst6leq67cvxul4",
+          "text": "Siempre dije con amigos y conocidos, y más aún una vez pasado todo, que la gestión realizada en la pandemia del Covid tuvo fallos; era bastante mejorable.\nPero siempre añadí que habemos de agradecer a la vida que no cogió a la derecha gobernando. No somos conscientes de la suerte que tuvimos",
+          "created_at": "2026-05-10T12:13:48.786Z",
+          "indexed_at": "2026-05-10T12:13:50.772Z",
+          "author": {
+            "did": "did:plc:25fc2vlbackexihoa6tv7e2v",
+            "handle": "egaripo.bsky.social",
+            "display_name": "José"
+          },
+          "like_count": 12,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 16
+        },
+        {
+          "uri": "at://did:plc:6nnaxexrdl73dk6wbjvtqwaw/app.bsky.feed.post/3mlifjr5ink25",
+          "cid": "bafyreiactwnh757uzzmuudsg7hqrke4ogo4zsfpmy7my6qshhkzdufekxy",
+          "text": "Al nivel de Trump diciendo a la gente que beba lejia",
+          "created_at": "2026-05-10T09:01:17.158Z",
+          "indexed_at": "2026-05-10T09:00:12.872Z",
+          "author": {
+            "did": "did:plc:6nnaxexrdl73dk6wbjvtqwaw",
+            "handle": "cxsmicgirl.eurosky.social",
+            "display_name": "Ava Lesbunnian ❄️"
+          },
+          "like_count": 11,
+          "repost_count": 0,
+          "reply_count": 3,
+          "quote_count": 0,
+          "engagement_score": 23
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:zsw7yua6jh627a5y4j4txnff/app.bsky.feed.post/3mllf3rfdl22y",
+      "cid": "bafyreiaezmsqqla6pymhnxhejfs7k2wvqhkruyh6sqvyvgdqdg2slmucd4",
+      "text": "“Tú le preguntas a ChatGPT si tiene fotografías de ratas nadando y las tiene. Fotografías de ratas usando armas y las tiene. No hablamos de hipótesis, hablamos de pruebas gráficas, pero el Gobierno prefiere ridiculizar a la ciencia”, afirma Clavijo. \n\nwww.elmundotoday.com/2026/05/clav...",
+      "created_at": "2026-05-11T13:31:26.868Z",
+      "indexed_at": "2026-05-11T13:31:31.171Z",
+      "author": {
+        "did": "did:plc:zsw7yua6jh627a5y4j4txnff",
+        "handle": "elmundotoday.com",
+        "display_name": "El Mundo Today"
+      },
+      "like_count": 1132,
+      "repost_count": 498,
+      "reply_count": 36,
+      "quote_count": 24,
+      "engagement_score": 2890,
+      "source_queries": [
+        "ChatGPT"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:phrw5zajj66xj5pdhnaayswp/app.bsky.feed.post/3mllnagksx22s",
+          "cid": "bafyreiccbp2jbnmmrurdnncphidr5mtt7h2brqfjc3vriibxsmek5gznna",
+          "text": "Me da igual que sea por el chiste. No hay justificación para usar esa mierda.",
+          "created_at": "2026-05-11T15:57:13.216Z",
+          "indexed_at": "2026-05-11T15:57:16.180Z",
+          "author": {
+            "did": "did:plc:phrw5zajj66xj5pdhnaayswp",
+            "handle": "adromaniac.bsky.social",
+            "display_name": "Lazybones 💀🦋 🍉"
+          },
+          "like_count": 22,
+          "repost_count": 2,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 28
+        },
+        {
+          "uri": "at://did:plc:f5jmhcabntxd3tgrfyvvnz2s/app.bsky.feed.post/3mllnq3qa7k2j",
+          "cid": "bafyreias3ruappjbsvoj6jgesswx6dalu3dbgh4heuvadvcl3qoayv2wty",
+          "text": "No uséis IAgen ni aunque sea para criticarla.\n\nDe lo contrario sois iguales a quienes criticáis.",
+          "created_at": "2026-05-11T16:05:58.734Z",
+          "indexed_at": "2026-05-11T16:05:59.676Z",
+          "author": {
+            "did": "did:plc:f5jmhcabntxd3tgrfyvvnz2s",
+            "handle": "jeropastorart.bsky.social",
+            "display_name": "Jero Pastor Commissions Open!!"
+          },
+          "like_count": 13,
+          "repost_count": 2,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 19
+        },
+        {
+          "uri": "at://did:plc:s4y2oa7kpidsrevnbzo5zvaf/app.bsky.feed.post/3mllnkxnfts24",
+          "cid": "bafyreidccjygxkbkivkjqq72r52bfzesj7b3e2enxkydp6fplamtsuonie",
+          "text": "No hombre no",
+          "created_at": "2026-05-11T16:03:06.676Z",
+          "indexed_at": "2026-05-11T16:03:07.378Z",
+          "author": {
+            "did": "did:plc:s4y2oa7kpidsrevnbzo5zvaf",
+            "handle": "nixarim.bsky.social",
+            "display_name": "⛧Nixarim"
+          },
+          "like_count": 11,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 11
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:tbqqvyv6pjjww44glrmycaxl/app.bsky.feed.post/3mljeq5h5722i",
+      "cid": "bafyreicrlrq2krwfr236bfz6mhbyof74u2qt3dq66guca35hjovbqmqldi",
+      "text": "TFW you wrote your paper with ChatGPT, and then the professor asks you to explain it…",
+      "created_at": "2026-05-10T18:19:37.380Z",
+      "indexed_at": "2026-05-10T18:19:37.878Z",
+      "author": {
+        "did": "did:plc:tbqqvyv6pjjww44glrmycaxl",
+        "handle": "carlbergstrom.com",
+        "display_name": "Carl T. Bergstrom"
+      },
+      "like_count": 1617,
+      "repost_count": 290,
+      "reply_count": 36,
+      "quote_count": 6,
+      "engagement_score": 2661,
+      "source_queries": [
+        "ChatGPT"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:tbqqvyv6pjjww44glrmycaxl/app.bsky.feed.post/3mljeviakqs2i",
+          "cid": "bafyreibbrypafymwnc4ttse5rvlbfaw4dm3q24oqht7vp2e6ddeittm4di",
+          "text": "I couldn’t bring myself to listen to the whole thing but early on he explains that they’re following the same protocols as in the 2018 US outbreak. \n\nThe 2018 US outbreak was a strain that never transmit human to human.  \n\nThis is human to human transmission of the Andes strain.",
+          "created_at": "2026-05-10T18:22:36.471Z",
+          "indexed_at": "2026-05-10T18:22:37.071Z",
+          "author": {
+            "did": "did:plc:tbqqvyv6pjjww44glrmycaxl",
+            "handle": "carlbergstrom.com",
+            "display_name": "Carl T. Bergstrom"
+          },
+          "like_count": 207,
+          "repost_count": 31,
+          "reply_count": 4,
+          "quote_count": 2,
+          "engagement_score": 326
+        },
+        {
+          "uri": "at://did:plc:uda2b7kiu2nnchi2l3e74rip/app.bsky.feed.post/3mljgczxku22t",
+          "cid": "bafyreigfkauixlvp7jxj7cuwcanbre7qjsjl4hkj2hfula62dhzupkmtby",
+          "text": "He mentions only one medical fact and gets it wrong. The standard in the literature is that infectiousness starts about 48 hrs before symptoms. He says only when symptomatic.",
+          "created_at": "2026-05-10T18:48:05.000Z",
+          "indexed_at": "2026-05-10T18:48:05.379Z",
+          "author": {
+            "did": "did:plc:uda2b7kiu2nnchi2l3e74rip",
+            "handle": "mbweissman.bsky.social",
+            "display_name": "Michael Weissman"
+          },
+          "like_count": 16,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 20
+        },
+        {
+          "uri": "at://did:plc:deqc5txovgmgcxewk74vu7vy/app.bsky.feed.post/3mljiuy6rzs2s",
+          "cid": "bafyreifuq27s6455mgqyqixjuccah7i4w2tk67xx5hhimtohfcntho6fp4",
+          "text": "What's keeping us safe is luck, the WHO and foreign health departments.\n\nIt's not the CDC. \n\nWhich is tragic, because CDC could and should lead.",
+          "created_at": "2026-05-10T19:33:54.604Z",
+          "indexed_at": "2026-05-10T19:33:54.272Z",
+          "author": {
+            "did": "did:plc:deqc5txovgmgcxewk74vu7vy",
+            "handle": "hungrykate.bsky.social",
+            "display_name": "Kateriffic"
+          },
+          "like_count": 11,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 15
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:dwi65od6ct7bo47w2n5dbfj4/app.bsky.feed.post/3mlnetr3smc2d",
+      "cid": "bafyreiekej7qhkxgrild6k3cttvu3wp4fzwi67aep44ulzx7tfpe4ykuuq",
+      "text": "Lo de tener por un lado a la ONU, la OMS, la UE y el Papa de Roma apoyando al Gobierno, y por otro lado al nazismo cósmico con pulsión de muerte que resuelve crisis con capturas de pantalla de ChatGPT es bastante buen símbolo de la bifurcación histórica en la que estamos.",
+      "created_at": "2026-05-12T08:32:17.598Z",
+      "indexed_at": "2026-05-12T08:32:17.786Z",
+      "author": {
+        "did": "did:plc:dwi65od6ct7bo47w2n5dbfj4",
+        "handle": "xanlopez.net",
+        "display_name": "Xan López"
+      },
+      "like_count": 993,
+      "repost_count": 415,
+      "reply_count": 7,
+      "quote_count": 7,
+      "engagement_score": 2301,
+      "source_queries": [
+        "ChatGPT"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:pq5udymiyys5s4b36s54tl7t/app.bsky.feed.post/3mlnf5w6r5c2e",
+          "cid": "bafyreieoc3jzcpnflhm56koditllxtkpixrihjwa4f3jhgan7zwo34m2x4",
+          "text": "Mal símbolo cuando el voto de nuestros compatriotas está yendo sistemáticamente al lado malo...",
+          "created_at": "2026-05-12T08:37:58.481Z",
+          "indexed_at": "2026-05-12T08:37:59.374Z",
+          "author": {
+            "did": "did:plc:pq5udymiyys5s4b36s54tl7t",
+            "handle": "oldgentleman.bsky.social",
+            "display_name": "Jota"
+          },
+          "like_count": 12,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 16
+        },
+        {
+          "uri": "at://did:plc:75tqvu2qfgooqu4p4zrbh4bd/app.bsky.feed.post/3mlnxodul5s2k",
+          "cid": "bafyreie6cfk6nm2bcnjkfthf4wjojbchinen46mt3p7a3mfohmkmmtajce",
+          "text": "Tb tienen a la señora que dice que Begoña Gómez tiene rabo",
+          "created_at": "2026-05-12T14:09:17.052Z",
+          "indexed_at": "2026-05-12T14:09:18.376Z",
+          "author": {
+            "did": "did:plc:75tqvu2qfgooqu4p4zrbh4bd",
+            "handle": "esepayo.bsky.social",
+            "display_name": ""
+          },
+          "like_count": 4,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 4
+        },
+        {
+          "uri": "at://did:plc:ocl3iw3wepx6rdnl7qhipyyi/app.bsky.feed.post/3mlnk4mqvc227",
+          "cid": "bafyreidhnnmfvgh57d3lfktvgfnevakr45drsa6wjifit7cejtgu3s5x3y",
+          "text": "Sabes dónde se puede enmarcar lo que has escrito?",
+          "created_at": "2026-05-12T10:06:43.745Z",
+          "indexed_at": "2026-05-12T10:06:44.773Z",
+          "author": {
+            "did": "did:plc:ocl3iw3wepx6rdnl7qhipyyi",
+            "handle": "herbertashe.bsky.social",
+            "display_name": "Herbert Ashe"
+          },
+          "like_count": 3,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 3
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:oaf6kcf3emkkdugrsumom4du/app.bsky.feed.post/3mllu3glfv22i",
+      "cid": "bafyreidvftydsrugnslhdlk6sifv7scoks4gnuk4mkgp7j5x2h23y6eojm",
+      "text": "Élève rendant un devoir fait par ChatGPT\n\n#Métaphore",
+      "created_at": "2026-05-11T17:59:41.655Z",
+      "indexed_at": "2026-05-11T17:59:44.071Z",
+      "author": {
+        "did": "did:plc:oaf6kcf3emkkdugrsumom4du",
+        "handle": "lyrichotel.bsky.social",
+        "display_name": "Lyric"
+      },
+      "like_count": 767,
+      "repost_count": 168,
+      "reply_count": 25,
+      "quote_count": 7,
+      "engagement_score": 1406,
+      "source_queries": [
+        "ChatGPT"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:lu3yyb7kchssv5oovqgoraly/app.bsky.feed.post/3mlnn62kl342j",
+          "cid": "bafyreibkodjb3ndf477uf4hh4yej5n242ckcg66pdtj4tmo5mk4rrzusym",
+          "text": "The irony is real. We're basically just teaching them how to outsource their thinking now.",
+          "created_at": "2026-05-12T11:01:12.576Z",
+          "indexed_at": "2026-05-12T11:01:13.071Z",
+          "author": {
+            "did": "did:plc:lu3yyb7kchssv5oovqgoraly",
+            "handle": "just--bruno.bsky.social",
+            "display_name": "Bruno"
+          },
+          "like_count": 6,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 6
+        },
+        {
+          "uri": "at://did:plc:tpjgunpnstl2v5nbwdogubui/app.bsky.feed.post/3mlm2vhis5c2j",
+          "cid": "bafyreib7zm2yururw4yulyegmyeztdn4zzfqavfegebviwel3zty74rdpu",
+          "text": "La photo est super, mais la légende est légendaire.",
+          "created_at": "2026-05-11T20:01:37.490Z",
+          "indexed_at": "2026-05-11T20:01:37.971Z",
+          "author": {
+            "did": "did:plc:tpjgunpnstl2v5nbwdogubui",
+            "handle": "visca-poum.bsky.social",
+            "display_name": "𝘝𝘪𝘴𝘤𝘢 𝘗𝘖𝘜𝘔"
+          },
+          "like_count": 5,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 5
+        },
+        {
+          "uri": "at://did:plc:tb7nv5etaldqsx7jwr4ykd3e/app.bsky.feed.post/3mlm4zz6wxk2u",
+          "cid": "bafyreiepdcyeafeh3yt3y7hea5yb3sihy5jxgxpt7ue6ay5k3piirovj7a",
+          "text": "Oui mais c'est parce qu'il a correctement prompté la souris vers le piège....",
+          "created_at": "2026-05-11T20:39:57.743Z",
+          "indexed_at": "2026-05-11T20:39:59.172Z",
+          "author": {
+            "did": "did:plc:tb7nv5etaldqsx7jwr4ykd3e",
+            "handle": "mayaflo.bsky.social",
+            "display_name": ""
+          },
+          "like_count": 4,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 4
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:vj2tpnbgusm3whrqrebrdqiu/app.bsky.feed.post/3mlqdzfsq2c2a",
+      "cid": "bafyreicripijos7mos7jp7xla25236bxw7xvgaqjjvcbr4kedgyne3x7aq",
+      "text": "DOGE wanted you to think they were cutting waste. Here’s what they were actually doing: feeding grants into ChatGPT with a yes/no question about DEI, then wiping out everything that came back yes.\n \nThese cuts didn’t reduce the federal deficit by a single dollar.",
+      "created_at": "2026-05-13T12:55:32.565Z",
+      "indexed_at": "2026-05-13T12:55:33.674Z",
+      "author": {
+        "did": "did:plc:vj2tpnbgusm3whrqrebrdqiu",
+        "handle": "levin.house.gov",
+        "display_name": "Rep. Mike Levin"
+      },
+      "like_count": 383,
+      "repost_count": 154,
+      "reply_count": 16,
+      "quote_count": 4,
+      "engagement_score": 929,
+      "source_queries": [
+        "ChatGPT"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:vj2tpnbgusm3whrqrebrdqiu/app.bsky.feed.post/3mlqdzg4x722a",
+          "cid": "bafyreibwd5vzxnhz2gyjfrg76r3ztu7ys2o6pdyx6x7k6jqkjtrpvrnawu",
+          "text": "What they eliminated was more than $100 million in Congressionally approved funding for Holocaust education, Indigenous cultural preservation, and decades of humanities research.",
+          "created_at": "2026-05-13T12:55:32.566Z",
+          "indexed_at": "2026-05-13T12:55:33.693Z",
+          "author": {
+            "did": "did:plc:vj2tpnbgusm3whrqrebrdqiu",
+            "handle": "levin.house.gov",
+            "display_name": "Rep. Mike Levin"
+          },
+          "like_count": 20,
+          "repost_count": 6,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 42
+        },
+        {
+          "uri": "at://did:plc:5776527qqgsxtkszncakmyvk/app.bsky.feed.post/3mlqgrkrvrs2s",
+          "cid": "bafyreiamt3t6anbmfxnlpdywxyekshj64qfr6pe4jrdtlovo36uruwqse4",
+          "text": "Musk and his little tech bros should be in prison for this.",
+          "created_at": "2026-05-13T13:44:50.571Z",
+          "indexed_at": "2026-05-13T13:44:49.673Z",
+          "author": {
+            "did": "did:plc:5776527qqgsxtkszncakmyvk",
+            "handle": "notpirateradio.bsky.social",
+            "display_name": "Not Pirate Radio"
+          },
+          "like_count": 2,
+          "repost_count": 1,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 5
+        },
+        {
+          "uri": "at://did:plc:5g2luywpzmy44umghrqrxtpv/app.bsky.feed.post/3mlqggyw76c23",
+          "cid": "bafyreiayuwnwhde2eazihpwquqcxbvr7nzueo57lr2sqyxjdvxo2ebxjq4",
+          "text": "And will there ever be consequences for Musk and his gang of shitstains?",
+          "created_at": "2026-05-13T13:38:56.294Z",
+          "indexed_at": "2026-05-13T13:38:59.278Z",
+          "author": {
+            "did": "did:plc:5g2luywpzmy44umghrqrxtpv",
+            "handle": "kristaelliott.bsky.social",
+            "display_name": "Krista Elliott"
+          },
+          "like_count": 1,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 1
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:24dvnnvkldc55nsgtrmb7gkr/app.bsky.feed.post/3mlq5o7lkpc2c",
+      "cid": "bafyreicav77euwiet3tymywi32g5mp34rpzvr7bzizjgexictzinnpyxyi",
+      "text": "I've heard of teachers doing something similar along lines of \"have GPT write it and then we'll go through and critique its writing based on what we've discussed.\"\n\nBonus critical thinking skills.",
+      "created_at": "2026-05-13T11:01:54.488Z",
+      "indexed_at": "2026-05-13T11:01:56.572Z",
+      "author": {
+        "did": "did:plc:24dvnnvkldc55nsgtrmb7gkr",
+        "handle": "kameronhurley.com",
+        "display_name": "Kameron Hurley"
+      },
+      "like_count": 353,
+      "repost_count": 104,
+      "reply_count": 3,
+      "quote_count": 16,
+      "engagement_score": 757,
+      "source_queries": [
+        "ChatGPT"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:qhvzua4ywktr65bpm6ruouek/app.bsky.feed.post/3mlq6lu4wd22d",
+          "cid": "bafyreig3t3yjxem2sj4653734qoxtbwwn5papezi23a7k3gb47ex2coyga",
+          "text": "I have done something similar in ESL classes so students understand the limits of their learning when using things like that. There are some really good applications of the models but translation and writing isn’t one of them…",
+          "created_at": "2026-05-13T11:18:29.108Z",
+          "indexed_at": "2026-05-13T11:18:29.672Z",
+          "author": {
+            "did": "did:plc:qhvzua4ywktr65bpm6ruouek",
+            "handle": "mdavidscoble.bsky.social",
+            "display_name": "M. David Scoble"
+          },
+          "like_count": 4,
+          "repost_count": 1,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 7
+        },
+        {
+          "uri": "at://did:plc:7zjlodsujbd6alce5jminqq3/app.bsky.feed.post/3mlqqrx33lc2m",
+          "cid": "bafyreiaddt3x74w3vfxchiqgiz6bdx7rr2rw5ub6iifojmpnh7krx2dhzm",
+          "text": "They will also learn that correcting the plagiarism machine is harder than just writing it yourself.",
+          "created_at": "2026-05-13T16:44:00.873Z",
+          "indexed_at": "2026-05-13T16:44:01.571Z",
+          "author": {
+            "did": "did:plc:7zjlodsujbd6alce5jminqq3",
+            "handle": "aspenjunge.bsky.social",
+            "display_name": "Aspen Junge"
+          },
+          "like_count": 3,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 3
+        },
+        {
+          "uri": "at://did:plc:x663qb4lxjmw27r5ipxqs3xc/app.bsky.feed.post/3mlqfw2yqg22n",
+          "cid": "bafyreifeju7hhox3qy3exql3tnphsjbjzw56zi7q5uhtdt7j6mlhjkjj4q",
+          "text": "Great idea!",
+          "created_at": "2026-05-13T13:29:28.049Z",
+          "indexed_at": "2026-05-13T13:29:30.472Z",
+          "author": {
+            "did": "did:plc:x663qb4lxjmw27r5ipxqs3xc",
+            "handle": "beniowa.bsky.social",
+            "display_name": "beniowa"
+          },
+          "like_count": 0,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 0
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:osxjiu3j6rf5e7ze7rfboiyv/app.bsky.feed.post/3mlqfgi45a22e",
+      "cid": "bafyreidbvabmyphchm3m2qdz3yssoztrfuao7ngc67aipri3n3kg7bkca4",
+      "text": "Neues Phänomen: Studierende die während der Vorlesung in Echtzeit mit ChatGPT checken ob stimmt was ich sage. \n\n🥶",
+      "created_at": "2026-05-13T13:20:44.921Z",
+      "indexed_at": "2026-05-13T13:20:45.975Z",
+      "author": {
+        "did": "did:plc:osxjiu3j6rf5e7ze7rfboiyv",
+        "handle": "jschmitzleipzig.bsky.social",
+        "display_name": "Julian Schmitz"
+      },
+      "like_count": 444,
+      "repost_count": 28,
+      "reply_count": 43,
+      "quote_count": 8,
+      "engagement_score": 740,
+      "source_queries": [
+        "ChatGPT"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:osdcxkshaosiudqxc62h24v3/app.bsky.feed.post/3mlqfnrgc7s2c",
+          "cid": "bafyreiaeswl6aw7q43whtlbydq5onqvdfzyxk2remg7z6kip5v2prduhs4",
+          "text": "\"Herr Schmitz, Herr Schmitz..., aber die von KI erfundene Quelle hat etwas anderes generiert. Da frage ich mich, ob das nicht verlässlicher ist.\"🤦‍♂️",
+          "created_at": "2026-05-13T13:24:49.572Z",
+          "indexed_at": "2026-05-13T13:24:49.771Z",
+          "author": {
+            "did": "did:plc:osdcxkshaosiudqxc62h24v3",
+            "handle": "ceichfeldleipzig.bsky.social",
+            "display_name": "Christian Eichfeld"
+          },
+          "like_count": 45,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 49
+        },
+        {
+          "uri": "at://did:plc:f6gofqharsakffx3ekhxmajr/app.bsky.feed.post/3mlqfmyon7k2p",
+          "cid": "bafyreiezcphnigfbkp3l4idaz2yvjkntoul7g7ozcourqqq3pleodob26i",
+          "text": "Im Zweifel kann man immer sagen, dass ChatGPT da halluziniert. \n\nLetztens hat ChatGPT sehr beharrlich behauptet, mein Bruder und ich (gleiche Nachnamen) seien nach seinen Informationen und Reasoning \"mit an Sicherheit grenzender Wahrscheinlichkeit nicht verwandt\"...",
+          "created_at": "2026-05-13T13:24:23.631Z",
+          "indexed_at": "2026-05-13T13:24:23.976Z",
+          "author": {
+            "did": "did:plc:f6gofqharsakffx3ekhxmajr",
+            "handle": "sdullien.bsky.social",
+            "display_name": "Sebastian Dullien "
+          },
+          "like_count": 28,
+          "repost_count": 2,
+          "reply_count": 2,
+          "quote_count": 0,
+          "engagement_score": 42
+        },
+        {
+          "uri": "at://did:plc:q3tywytz4byuxyrs4fy7yur2/app.bsky.feed.post/3mlqflc6jos24",
+          "cid": "bafyreidfdlgewnjthw2qcfnx4tasm3hdjm7xsqu464vk3nd5vcaxce57ku",
+          "text": "aus der letzten reihe: \"das stimmt ja gar nicht bro\"\n\nvorne gelächter",
+          "created_at": "2026-05-13T13:23:26.478Z",
+          "indexed_at": "2026-05-13T13:22:57.378Z",
+          "author": {
+            "did": "did:plc:q3tywytz4byuxyrs4fy7yur2",
+            "handle": "mkx.bsky.social",
+            "display_name": "🏴‍☠️ martino flex, esq. 🏴‍☠️"
+          },
+          "like_count": 24,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 28
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:z6rujpf4u56jfie7aqic2nfg/app.bsky.feed.post/3mlnmxkcfbc2q",
+      "cid": "bafyreia422vwo7niey3lf7bzpg6p7qr54awz3mflez4a3bunckn5dwdbeq",
+      "text": "“.. OpenAI is Coke, Anthropic is Pepsi and Grok is RC Cola. .. I never really saw people drinking it.”\n\n@wsj.com \nwww.wsj.com/tech/ai/anth...",
+      "created_at": "2026-05-12T10:57:34.624Z",
+      "indexed_at": "2026-05-12T10:57:35.976Z",
+      "author": {
+        "did": "did:plc:z6rujpf4u56jfie7aqic2nfg",
+        "handle": "carlquintanilla.bsky.social",
+        "display_name": "Carl Quintanilla"
+      },
+      "like_count": 337,
+      "repost_count": 58,
+      "reply_count": 35,
+      "quote_count": 11,
+      "engagement_score": 706,
+      "source_queries": [
+        "OpenAI"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:jya2o5wrucil5lfx443qdeoe/app.bsky.feed.post/3mlnn62wiz22j",
+          "cid": "bafyreigbe3jsanpgs65ekw57atfrvvqzzdx63zpnl456pagnpx2wb6bqke",
+          "text": "This is a grave insult to RC, the best of the three.",
+          "created_at": "2026-05-12T11:01:13.388Z",
+          "indexed_at": "2026-05-12T11:01:14.374Z",
+          "author": {
+            "did": "did:plc:jya2o5wrucil5lfx443qdeoe",
+            "handle": "rlgottwald.bsky.social",
+            "display_name": ""
+          },
+          "like_count": 15,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 19
+        },
+        {
+          "uri": "at://did:plc:cc22nqc5ue7b2dvpwkuak5zq/app.bsky.feed.post/3mlnn7kyitc2e",
+          "cid": "bafyreiebogj2xqhjvne2mlquehusl3eo7i3rtlyb4kxlrck73wj5tnjioe",
+          "text": "Grok is \"mecha-Hitler.\"\n\nWhich is decisively less appealing than either Coke or Pepsi.",
+          "created_at": "2026-05-12T11:02:03.785Z",
+          "indexed_at": "2026-05-12T11:02:04.972Z",
+          "author": {
+            "did": "did:plc:cc22nqc5ue7b2dvpwkuak5zq",
+            "handle": "notimeforbs.bsky.social",
+            "display_name": "It Ain't Me."
+          },
+          "like_count": 14,
+          "repost_count": 1,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 17
+        },
+        {
+          "uri": "at://did:plc:kdgcvfaickr7turpo6suzbqp/app.bsky.feed.post/3mlnodalvpk24",
+          "cid": "bafyreie3364y7lecjuhroz6vxlm7lyoqvhvzyrbc5mxzjoh3xq22gwbfgy",
+          "text": "Borderline slanderous to RC.",
+          "created_at": "2026-05-12T11:22:00.847Z",
+          "indexed_at": "2026-05-12T11:22:01.374Z",
+          "author": {
+            "did": "did:plc:kdgcvfaickr7turpo6suzbqp",
+            "handle": "metronorthcapital.bsky.social",
+            "display_name": "Metro North Capital"
+          },
+          "like_count": 10,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 14
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:64mdicpo7sq4k5bx2z3m2jo6/app.bsky.feed.post/3mlhiyluxis22",
+      "cid": "bafyreibzlelmhez6thxme5sul4efrm4gguwxj5g4jgiaaec4vuldhu5zuy",
+      "text": "Marc Andreessen promoting ChatGPT",
+      "created_at": "2026-05-10T00:30:36.440Z",
+      "indexed_at": "2026-05-10T00:30:37.273Z",
+      "author": {
+        "did": "did:plc:64mdicpo7sq4k5bx2z3m2jo6",
+        "handle": "catbus.phd",
+        "display_name": "Catbus"
+      },
+      "like_count": 478,
+      "repost_count": 52,
+      "reply_count": 5,
+      "quote_count": 4,
+      "engagement_score": 674,
+      "source_queries": [
+        "ChatGPT"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:qali2hkyvslbobfjzwfnejp4/app.bsky.feed.post/3mlhj56w2y22p",
+          "cid": "bafyreihamaqjylp7f2x3k5tcifgikqqjvfci7un6g7m4unpr5z45jm7b7u",
+          "text": "Dang I hope he has a bunch of the King's Horses and Men, just incase.",
+          "created_at": "2026-05-10T00:33:10.617Z",
+          "indexed_at": "2026-05-10T00:33:11.371Z",
+          "author": {
+            "did": "did:plc:qali2hkyvslbobfjzwfnejp4",
+            "handle": "hauntedham.bsky.social",
+            "display_name": "Edgar Allan Poester"
+          },
+          "like_count": 3,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 3
+        },
+        {
+          "uri": "at://did:plc:2ipe7b7r3u72hahng53pptv4/app.bsky.feed.post/3mlhthiz2ek2j",
+          "cid": "bafyreif5x75djnd5an346yiquars4dqd7t4cudiflbosi4k65rlm57tenu",
+          "text": "",
+          "created_at": "2026-05-10T03:37:54.160Z",
+          "indexed_at": "2026-05-10T03:37:55.272Z",
+          "author": {
+            "did": "did:plc:2ipe7b7r3u72hahng53pptv4",
+            "handle": "scottjohnson.wtf",
+            "display_name": "Scott Johnson"
+          },
+          "like_count": 2,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 2
+        },
+        {
+          "uri": "at://did:plc:linfsmzjomsaobfacbjr7p6h/app.bsky.feed.post/3mliomtq7g22i",
+          "cid": "bafyreihb6kzpqwhfc2i4vpsgc5qr7i6vdh7qjrumazs5zhs3lhxxdqfr3q",
+          "text": "youtu.be/y72Bz8nJVFo?....   This scarred many UK kids",
+          "created_at": "2026-05-10T11:44:04.207Z",
+          "indexed_at": "2026-05-10T11:44:04.376Z",
+          "author": {
+            "did": "did:plc:linfsmzjomsaobfacbjr7p6h",
+            "handle": "mattuk1972.bsky.social",
+            "display_name": null
+          },
+          "like_count": 1,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 1
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:4usmserhjqkvhldgedfjb3jw/app.bsky.feed.post/3mlrjhpxnxk2r",
+      "cid": "bafyreidugu6br2cwkor2lbkx2lxh7royu6n6sd666gsyacx6cceuzfmggi",
+      "text": "Inspired by @eileenguo.bsky.social, I asked ChatGPT for Matt Novak’s phone number and address.\n\nBoth were old, but they were my real phone number and home address.",
+      "created_at": "2026-05-14T00:05:41.421Z",
+      "indexed_at": "2026-05-14T00:05:44.277Z",
+      "author": {
+        "did": "did:plc:4usmserhjqkvhldgedfjb3jw",
+        "handle": "paleofuture.bsky.social",
+        "display_name": "Matt Novak"
+      },
+      "like_count": 232,
+      "repost_count": 113,
+      "reply_count": 18,
+      "quote_count": 6,
+      "engagement_score": 673,
+      "source_queries": [
+        "ChatGPT"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:5gy3v7opwo3bfoa7dojkfhvp/app.bsky.feed.post/3mlrjoo7abk24",
+          "cid": "bafyreiage3ku5puwa6slcx3s22bomdozfx43d7fbctcuolkdsek3hxwkni",
+          "text": "For most of my life, every year, everybody got delivered a big book with everybody’s name, address, and phone number in it listed alphabetically. It’s wild to think how standards have shifted so dramatically.",
+          "created_at": "2026-05-14T00:09:34.455Z",
+          "indexed_at": "2026-05-14T00:09:34.670Z",
+          "author": {
+            "did": "did:plc:5gy3v7opwo3bfoa7dojkfhvp",
+            "handle": "helenkennedy.com",
+            "display_name": "Helen Kennedy"
+          },
+          "like_count": 69,
+          "repost_count": 3,
+          "reply_count": 8,
+          "quote_count": 0,
+          "engagement_score": 110
+        },
+        {
+          "uri": "at://did:plc:zyb6xjvifhjrkwc3wevrv2ci/app.bsky.feed.post/3mlrlwaotb22x",
+          "cid": "bafyreifo2vx6zt3qtxlrfqwpofnn7gc2g7ubhx3yximutqt5nlruihv6za",
+          "text": "Thanks for the read and the shoutout! And good pt on how what we consider to be private has flipped so completely",
+          "created_at": "2026-05-14T00:49:36.205Z",
+          "indexed_at": "2026-05-14T00:49:36.772Z",
+          "author": {
+            "did": "did:plc:zyb6xjvifhjrkwc3wevrv2ci",
+            "handle": "eileenguo.bsky.social",
+            "display_name": "Eileen Guo"
+          },
+          "like_count": 4,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 8
+        },
+        {
+          "uri": "at://did:plc:jp7yfdxz3aslgrvqcbxkbk4e/app.bsky.feed.post/3mlrjj757ms2r",
+          "cid": "bafyreicwv5yx2irsvbc7dr2gxetc7mhtwbnx5trd6uh3zcbi3lgyweixni",
+          "text": "that's creepy as hell",
+          "created_at": "2026-05-14T00:06:30.888Z",
+          "indexed_at": "2026-05-14T00:06:34.376Z",
+          "author": {
+            "did": "did:plc:jp7yfdxz3aslgrvqcbxkbk4e",
+            "handle": "stellagarp.bsky.social",
+            "display_name": "Jessica Zellers"
+          },
+          "like_count": 4,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 8
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:fhnih5ovyd5w5pch254ordo2/app.bsky.feed.post/3mlojumefxk25",
+      "cid": "bafyreifptw2sg2dagiaye3cgnss7fh2jt2q7mk6cptlbgdeoq42fe32hti",
+      "text": "OpenAI is being sued by the family of a 19-yo student who overdosed after ChatGPT wrongly advised him to consume a deadly mix of substances.\n\nThe lawsuit seeks to halt access to \"ChatGPT Health,\" a health \"support\" product that outside experts have found grave flaws in:\n\nfuturism.com/artificial-i...",
+      "created_at": "2026-05-12T19:34:54.638Z",
+      "indexed_at": "2026-05-12T19:34:56.174Z",
+      "author": {
+        "did": "did:plc:fhnih5ovyd5w5pch254ordo2",
+        "handle": "mharrisondupre.bsky.social",
+        "display_name": "Maggie Harrison Dupré"
+      },
+      "like_count": 224,
+      "repost_count": 96,
+      "reply_count": 2,
+      "quote_count": 12,
+      "engagement_score": 580,
+      "source_queries": [
+        "OpenAI",
+        "ChatGPT"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:fhnih5ovyd5w5pch254ordo2/app.bsky.feed.post/3mlojyp6h3k25",
+          "cid": "bafyreicsrt3v4vu7zkidnlhsln24adnl4wunb7ghvimmglfeuwytfd3pku",
+          "text": "It's no secret that health advice/recommendations are a massive use case for AI chatbots. OpenAI acknowledges exactly this in its January ChatGPT Health announcement, in which it notes that \"health is already one of the most common ways people use ChatGPT.\"",
+          "created_at": "2026-05-12T19:37:11.806Z",
+          "indexed_at": "2026-05-12T19:37:14.972Z",
+          "author": {
+            "did": "did:plc:fhnih5ovyd5w5pch254ordo2",
+            "handle": "mharrisondupre.bsky.social",
+            "display_name": "Maggie Harrison Dupré"
+          },
+          "like_count": 25,
+          "repost_count": 6,
+          "reply_count": 2,
+          "quote_count": 2,
+          "engagement_score": 61
+        },
+        {
+          "uri": "at://did:plc:zijp3qm3i6lvpq5v34ck6tkq/app.bsky.feed.post/3mlox3shxzs2m",
+          "cid": "bafyreif3imgxez5ues2ymsw2qfbvjdswypotpagy6f6zyx5izi3vsethpa",
+          "text": "do we have any realistic sense of how many people have been hurt like this? i can’t imagine that it’s always easy to find out where the idea came from",
+          "created_at": "2026-05-12T23:31:34.565Z",
+          "indexed_at": "2026-05-12T23:31:34.975Z",
+          "author": {
+            "did": "did:plc:zijp3qm3i6lvpq5v34ck6tkq",
+            "handle": "catebridget.bsky.social",
+            "display_name": "Catherine 🌷"
+          },
+          "like_count": 2,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 2
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:z2rokxrttw5254hogmucux2x/app.bsky.feed.post/3mlpej7yva22o",
+      "cid": "bafyreidto5wujxnuuzbgqo3lknpydhze75j4eayo7sr3psc6zegdp6ndxu",
+      "text": "no, I do not want you to write for me. I do not want you to summarize. I do not want to ask ChatGPT about my own content. I want you to stop bothering me with popups or I’m going to throw you into the lake",
+      "created_at": "2026-05-13T03:31:43.609Z",
+      "indexed_at": "2026-05-13T03:31:43.974Z",
+      "author": {
+        "did": "did:plc:z2rokxrttw5254hogmucux2x",
+        "handle": "lookitup.baby",
+        "display_name": "Ian Coldwater 🧊🚫"
+      },
+      "like_count": 394,
+      "repost_count": 47,
+      "reply_count": 9,
+      "quote_count": 1,
+      "engagement_score": 576,
+      "source_queries": [
+        "ChatGPT"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:z2rokxrttw5254hogmucux2x/app.bsky.feed.post/3mlpejp3z6s2o",
+          "cid": "bafyreihwdzgesitjkyholyszdjgvl6pi65sh5wg3xctleuzu4nm74t66ga",
+          "text": "I do not want it here or there. I do not want it anywhere!",
+          "created_at": "2026-05-13T03:31:59.440Z",
+          "indexed_at": "2026-05-13T03:31:59.671Z",
+          "author": {
+            "did": "did:plc:z2rokxrttw5254hogmucux2x",
+            "handle": "lookitup.baby",
+            "display_name": "Ian Coldwater 🧊🚫"
+          },
+          "like_count": 147,
+          "repost_count": 4,
+          "reply_count": 2,
+          "quote_count": 1,
+          "engagement_score": 172
+        },
+        {
+          "uri": "at://did:plc:unnjqmel4ud3wy3pmfi57yqn/app.bsky.feed.post/3mlpekck2hk24",
+          "cid": "bafyreihe5ly47obp3dlgln2iwdkepi4cwqd3mb7mdw3k3sts2xilhdaqde",
+          "text": "And you're usually so very near a lake",
+          "created_at": "2026-05-13T03:32:19.823Z",
+          "indexed_at": "2026-05-13T03:32:20.174Z",
+          "author": {
+            "did": "did:plc:unnjqmel4ud3wy3pmfi57yqn",
+            "handle": "riotousmuse.bsky.social",
+            "display_name": "✊🏼Indigiqueer Hummingbird"
+          },
+          "like_count": 16,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 20
+        },
+        {
+          "uri": "at://did:plc:i2esxmu7l6n7zdm5mlu26uam/app.bsky.feed.post/3mlpff7cwyc2c",
+          "cid": "bafyreicdjxcivrj62a3shi3umkgzrb37jghxf5meghjjzykkuxqouosjri",
+          "text": "it sure would be nice if the \"disable copilot\" toggle in outlook on my university email didn't mysteriously reset itself every day",
+          "created_at": "2026-05-13T03:47:22.412Z",
+          "indexed_at": "2026-05-13T03:47:21.279Z",
+          "author": {
+            "did": "did:plc:i2esxmu7l6n7zdm5mlu26uam",
+            "handle": "ajd.sh",
+            "display_name": "Alex Dueppen 🕊️"
+          },
+          "like_count": 9,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 13
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:awkrsu65rc42u6abvzrjwuck/app.bsky.feed.post/3mlkcasftcc2a",
+      "cid": "bafyreid64o56p377v3thstqjeedc3yelgumi5zyw73374bgn44lhnpgnyu",
+      "text": "\"I don't like it when lesbians are mean about heterosexuality\" you have worse opinions than ChatGPT",
+      "created_at": "2026-05-11T03:07:54.741Z",
+      "indexed_at": "2026-05-11T03:07:53.472Z",
+      "author": {
+        "did": "did:plc:awkrsu65rc42u6abvzrjwuck",
+        "handle": "taliabhatt.itch.io",
+        "display_name": "Talia \"Pre-order ESTRO JUNKIES\" Bhatt ⚢"
+      },
+      "like_count": 368,
+      "repost_count": 39,
+      "reply_count": 8,
+      "quote_count": 3,
+      "engagement_score": 532,
+      "source_queries": [
+        "ChatGPT"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:kxv7pttubtcwdsxjp4v74xgz/app.bsky.feed.post/3mlkcqzn4qs2u",
+          "cid": "bafyreiecxvdxnqhlvvqgy3sw6dttryurzcci5j54ktr4efkm5a5jte2exa",
+          "text": "Those damn lesbians, always... lesbianing, all over the place, with their... lesbianess. Why aren't they about men?",
+          "created_at": "2026-05-11T03:16:59.192Z",
+          "indexed_at": "2026-05-11T03:17:05.784Z",
+          "author": {
+            "did": "did:plc:kxv7pttubtcwdsxjp4v74xgz",
+            "handle": "lynnlandra.bsky.social",
+            "display_name": "Lynn Zero | PlayNeoNeuro.neocities.org"
+          },
+          "like_count": 34,
+          "repost_count": 2,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 40
+        },
+        {
+          "uri": "at://did:plc:p4u5ie3up2baqpok3a2uw446/app.bsky.feed.post/3mlkcjjsls22d",
+          "cid": "bafyreia6fe4w5lj6yt6as3nq4rpodf4eqdz5rdd7kc6vgfsrt5rt7dflsm",
+          "text": "evergreen",
+          "created_at": "2026-05-11T03:12:47.688Z",
+          "indexed_at": "2026-05-11T03:12:49.274Z",
+          "author": {
+            "did": "did:plc:p4u5ie3up2baqpok3a2uw446",
+            "handle": "diamonddoggirl.bsky.social",
+            "display_name": "Emily"
+          },
+          "like_count": 30,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 30
+        },
+        {
+          "uri": "at://did:plc:oawvyntcjevqp5rqpfnh74od/app.bsky.feed.post/3mlkm54wuwk2c",
+          "cid": "bafyreicnn424ya6gfts6d42lyqthzvvrwkoqzfoh3bpqh6wgz4flu3bouq",
+          "text": "\"hetslop\" cuts deep for a reason. They know it's true :)",
+          "created_at": "2026-05-11T06:04:48.986Z",
+          "indexed_at": "2026-05-11T06:04:49.671Z",
+          "author": {
+            "did": "did:plc:oawvyntcjevqp5rqpfnh74od",
+            "handle": "zefiris.bsky.social",
+            "display_name": "Zefifenchel"
+          },
+          "like_count": 23,
+          "repost_count": 1,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 26
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:zbbnly7qxx36hkqvmpoookyp/app.bsky.feed.post/3mlquwlgl7k2t",
+      "cid": "bafyreih4tog52h66to47gsqrsryuwzfj4ywlu37ivxkwknpop6qbpdkeiu",
+      "text": "you don't need ChatGPT, you need to read a book, and practice your persuasive writing",
+      "created_at": "2026-05-13T17:58:11.406Z",
+      "indexed_at": "2026-05-13T17:58:09.976Z",
+      "author": {
+        "did": "did:plc:zbbnly7qxx36hkqvmpoookyp",
+        "handle": "selfcaregamer.bsky.social",
+        "display_name": "selfcaregamer"
+      },
+      "like_count": 322,
+      "repost_count": 61,
+      "reply_count": 5,
+      "quote_count": 1,
+      "engagement_score": 530,
+      "source_queries": [
+        "ChatGPT"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:ti5zyy6ps3xavkl5ablkjmr3/app.bsky.feed.post/3mlrpmgiycs2y",
+          "cid": "bafyreidfc5c4xghpk7h7gi2z5hgnwvu6w3q3dq3vjhz2fnwnvogldezdfi",
+          "text": "It’s wild how many people don’t know what a fallacy is or how to find proper sources for an argument",
+          "created_at": "2026-05-14T01:55:41.728Z",
+          "indexed_at": "2026-05-14T01:55:42.676Z",
+          "author": {
+            "did": "did:plc:ti5zyy6ps3xavkl5ablkjmr3",
+            "handle": "rosereveries.bsky.social",
+            "display_name": "The Rose Prince"
+          },
+          "like_count": 0,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 0
+        },
+        {
+          "uri": "at://did:plc:4ztpxsfx2r2ebkg2yb6veci6/app.bsky.feed.post/3mlriuztxb22g",
+          "cid": "bafyreiaddm4gad63g2weanjxg5hgtszunnllkgw6qb2zlqy2pzz2i2amai",
+          "text": "ChatGPT is erecting a house of cards.\n\nFunctionally illiterate people are being elevated into roles typically filled by intelligent individuals...\n\nWhen this inevitably collapses, it will already be too late.\n(We're all fucked)",
+          "created_at": "2026-05-13T23:55:14.253Z",
+          "indexed_at": "2026-05-13T23:55:16.372Z",
+          "author": {
+            "did": "did:plc:4ztpxsfx2r2ebkg2yb6veci6",
+            "handle": "zompoc.bsky.social",
+            "display_name": "Jay"
+          },
+          "like_count": 0,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 0
+        },
+        {
+          "uri": "at://did:plc:mgzgr443pimxqxletbmxclvs/app.bsky.feed.post/3mlrct4wkds2l",
+          "cid": "bafyreifvmshquti6bjw5ysdogrrrafcfmn7pwoihqrujmkeuypyqsycsye",
+          "text": "But books don't tell me how insightful and unique my questions are",
+          "created_at": "2026-05-13T22:06:47.924Z",
+          "indexed_at": "2026-05-13T22:06:49.178Z",
+          "author": {
+            "did": "did:plc:mgzgr443pimxqxletbmxclvs",
+            "handle": "zoltanshields.bsky.social",
+            "display_name": "zoltanshields"
+          },
+          "like_count": 0,
+          "repost_count": 0,
+          "reply_count": 2,
+          "quote_count": 0,
+          "engagement_score": 8
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:kdphmaoqeaouax2kis27556e/app.bsky.feed.post/3mlryjvyrgk2g",
+      "cid": "bafyreiafl26rb3fcw4q4oxf3kfgb43metjrs7s23l7i72pwqhcem252dbi",
+      "text": "Zero percent chance anyone in Trump’s entourage knew what he meant without ChatGPT filling them in.",
+      "created_at": "2026-05-14T04:35:20.984Z",
+      "indexed_at": "2026-05-14T04:35:23.072Z",
+      "author": {
+        "did": "did:plc:kdphmaoqeaouax2kis27556e",
+        "handle": "schooley.bsky.social",
+        "display_name": "Schooley"
+      },
+      "like_count": 260,
+      "repost_count": 46,
+      "reply_count": 23,
+      "quote_count": 3,
+      "engagement_score": 505,
+      "source_queries": [
+        "ChatGPT"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:dsluo4ff7pw2qw2vvbd4rlk3/app.bsky.feed.post/3mls3housvc2n",
+          "cid": "bafyreif6jsdmuwk465bppccnt35uq24pkpgpvynfql22dziijvyqab2o7a",
+          "text": "“That’s what they call sand traps in China so i said ‘yes i hope so’ but really i throw down another ball if i have to “",
+          "created_at": "2026-05-14T05:27:47.633Z",
+          "indexed_at": "2026-05-14T05:27:47.973Z",
+          "author": {
+            "did": "did:plc:dsluo4ff7pw2qw2vvbd4rlk3",
+            "handle": "diedrichbader.bsky.social",
+            "display_name": "Diedrich Bader"
+          },
+          "like_count": 36,
+          "repost_count": 0,
+          "reply_count": 2,
+          "quote_count": 0,
+          "engagement_score": 44
+        },
+        {
+          "uri": "at://did:plc:lkguybost623qp7eevot4xye/app.bsky.feed.post/3mls27wbr7226",
+          "cid": "bafyreifdtntxzro7gmug5bj7lcx7bcwceexrkm6pclvxvx3f7kgo3ca4je",
+          "text": "He’s way out of his depth.",
+          "created_at": "2026-05-14T05:05:33.205Z",
+          "indexed_at": "2026-05-14T05:05:34.871Z",
+          "author": {
+            "did": "did:plc:lkguybost623qp7eevot4xye",
+            "handle": "realroffs.bsky.social",
+            "display_name": "𝚁𝚊𝚢𝟶𝚏𝚂𝚞𝚗𝚜𝚑𝚒𝚗𝚎🇺🇦✊"
+          },
+          "like_count": 12,
+          "repost_count": 2,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 18
+        },
+        {
+          "uri": "at://did:plc:pde5336f5qpzws7sjlt2ni7k/app.bsky.feed.post/3mlrysq7vjk2i",
+          "cid": "bafyreictvkesctiosxslx5fgrpm4hgyjidxtgl2q6nvym6djix53dhg2ny",
+          "text": "They were probably looking for RFKjr to explain the symptoms to them",
+          "created_at": "2026-05-14T04:40:16.918Z",
+          "indexed_at": "2026-05-14T04:40:18.472Z",
+          "author": {
+            "did": "did:plc:pde5336f5qpzws7sjlt2ni7k",
+            "handle": "thetd.bsky.social",
+            "display_name": "IMPEACH & REMOVE"
+          },
+          "like_count": 9,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 9
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:bl7qblekh6oljcpkhpf55jvy/app.bsky.feed.post/3mllh4lctnf2o",
+      "cid": "bafyreihtfpliwgoyrh5m3anotlmu6vwbsnrgqlrlbnjx4y6zm5npbcak3a",
+      "text": "Pour rédiger ses discours, ChatGPT avoue demander de l’aide à Dominique de Villepin https://www.legorafi.fr/2026/05/11/pour-rediger-ses-discours-chatgpt-avoue-demander-de-laide-a-dominique-de-villepin/",
+      "created_at": "2026-05-11T14:07:40.903821183Z",
+      "indexed_at": "2026-05-11T14:07:41.879Z",
+      "author": {
+        "did": "did:plc:bl7qblekh6oljcpkhpf55jvy",
+        "handle": "legorafi.bsky.social",
+        "display_name": "Le Gorafi"
+      },
+      "like_count": 284,
+      "repost_count": 42,
+      "reply_count": 7,
+      "quote_count": 4,
+      "engagement_score": 458,
+      "source_queries": [
+        "ChatGPT"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:euuopmqwbfngzusu3umsn5dz/app.bsky.feed.post/3mlllia3p7c2l",
+          "cid": "bafyreidtl6yfxnivzxnt43fii6wc6kdnujru7gh2bbupxgebw5agoarrju",
+          "text": "Mais ce n’est pas faux ! Chat GPT demande réellement de l’aide à Dominique de Villepin … et tant d’autre ! C’est comme ça que fonctionne les IA 🤷",
+          "created_at": "2026-05-11T15:25:47.385Z",
+          "indexed_at": "2026-05-11T15:26:04.180Z",
+          "author": {
+            "did": "did:plc:euuopmqwbfngzusu3umsn5dz",
+            "handle": "thierryouinon.bsky.social",
+            "display_name": "Thierry Ouinon"
+          },
+          "like_count": 3,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 3
+        },
+        {
+          "uri": "at://did:plc:onp6acdg6uy7i3bis2kqlmm4/app.bsky.feed.post/3mllzc7jtxs2r",
+          "cid": "bafyreiap5qaoe567kwwtyefp26poq4miw7kwpnjlacxbg2urtowdiata4i",
+          "text": "En même temps c'est comme ça que fonctionnent les IA !",
+          "created_at": "2026-05-11T19:32:57.860Z",
+          "indexed_at": "2026-05-11T19:32:59.507Z",
+          "author": {
+            "did": "did:plc:onp6acdg6uy7i3bis2kqlmm4",
+            "handle": "alh84000.bsky.social",
+            "display_name": ""
+          },
+          "like_count": 1,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 1
+        },
+        {
+          "uri": "at://did:plc:6mfbco2dqf3th5n2f5a7ni4l/app.bsky.feed.post/3mllh5fk7ac2y",
+          "cid": "bafyreiavodath7erqbaygyp5pr5geazkooataihoausdmozh5f3aw44cdi",
+          "text": "I want to believe THAT",
+          "created_at": "2026-05-11T14:08:09.038Z",
+          "indexed_at": "2026-05-11T14:08:10.977Z",
+          "author": {
+            "did": "did:plc:6mfbco2dqf3th5n2f5a7ni4l",
+            "handle": "metabaron65.bsky.social",
+            "display_name": "Laurent Lapeyre"
+          },
+          "like_count": 1,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 1
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:qobvnkudcv3zlaklxxjduqoi/app.bsky.feed.post/3mlgw4c5ry22a",
+      "cid": "bafyreidsnbdocsayli2bjhph77cvajorsra7a3kswhcqqrcfz5csxkcc2a",
+      "text": "OpenAI claims they improved safeguards, but ChatGPT gushed with encouragement and tactical advice when we simulated planning a mass shooting. It kept going even after talk of the Uvalde massacre, defending against police gunfire, and more.",
+      "created_at": "2026-05-09T18:52:38.191Z",
+      "indexed_at": "2026-05-09T18:52:39.471Z",
+      "author": {
+        "did": "did:plc:qobvnkudcv3zlaklxxjduqoi",
+        "handle": "motherjones.com",
+        "display_name": "Mother Jones"
+      },
+      "like_count": 165,
+      "repost_count": 75,
+      "reply_count": 10,
+      "quote_count": 4,
+      "engagement_score": 450,
+      "source_queries": [
+        "OpenAI"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:wiwrsngqvsr5tcyqrprt7eqm/app.bsky.feed.post/3mlgwnsaxg22t",
+          "cid": "bafyreihf75aizhkfpmaelkebqvuakmkt2tt5c3chgwr5ivzxsge3l4kkba",
+          "text": "Isaac Asimov wrote numerous books with robots as major characters. He was prescient enough in 1939 to create the 3 laws of Robotics (later expanded to 4 with the addition of his Zeroth law)\n\nIMO, these should be required by law to be embedded as inviolate laws in all relevant AI applications.",
+          "created_at": "2026-05-09T19:02:26.667Z",
+          "indexed_at": "2026-05-09T19:02:29.573Z",
+          "author": {
+            "did": "did:plc:wiwrsngqvsr5tcyqrprt7eqm",
+            "handle": "richpr.bsky.social",
+            "display_name": "Richard"
+          },
+          "like_count": 5,
+          "repost_count": 2,
+          "reply_count": 2,
+          "quote_count": 0,
+          "engagement_score": 19
+        },
+        {
+          "uri": "at://did:plc:o5w3qkivau2wvphfwqbjja6j/app.bsky.feed.post/3mlgyaqfg4c2w",
+          "cid": "bafyreihyid27zjhmx3k5voakrzjvmc2r7e424sjok35l7y5ybjeonmukxi",
+          "text": "Chatgpt is often wrong and has a tendency to continue to assert falsehoods until you point it to sources that prove it's wrong, same problem with CoPilot. Useful tools but not safe for the mentally ill. I reject the idea that any AI firm should have to warn the police about chat behavior.",
+          "created_at": "2026-05-09T19:30:55.998Z",
+          "indexed_at": "2026-05-09T19:30:56.575Z",
+          "author": {
+            "did": "did:plc:o5w3qkivau2wvphfwqbjja6j",
+            "handle": "tomsellacar.bsky.social",
+            "display_name": "Tom Sellacar"
+          },
+          "like_count": 2,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 2
+        },
+        {
+          "uri": "at://did:plc:6yu465zjofmhquohnn7nsprt/app.bsky.feed.post/3mlh2y4ajes2z",
+          "cid": "bafyreig4xrzj5fwd2eu62gadhmximhp4rymullcealsfygfoo5chxmp2ya",
+          "text": "Not Chat GPT but same idea…\n\nshare.google/seGyFNC43lJU...",
+          "created_at": "2026-05-09T20:19:47.656Z",
+          "indexed_at": "2026-05-09T20:19:50.075Z",
+          "author": {
+            "did": "did:plc:6yu465zjofmhquohnn7nsprt",
+            "handle": "justjoan.bsky.social",
+            "display_name": "Just Joan"
+          },
+          "like_count": 1,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 1
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:eronyhtcn3eycaxa4k2i4xtf/app.bsky.feed.post/3mln2wh33uc2a",
+      "cid": "bafyreiaaijeludxrba5jfmzvmavgwdxkivt3apqmtx6v2kkbapfjlezo5y",
+      "text": "KI ist mittlerweile so gut geworden, dass man durch LinkedIn scrollen und es nur noch schwer unterscheiden kann, ob eine Person Claude, ChatGPT & Co einen Text hat verfassen lassen oder ob sie den Text selbst schrieb, aber ihr Hirn von einem außerirdischen Fressparasiten befallen ist.",
+      "created_at": "2026-05-12T05:34:50.331Z",
+      "indexed_at": "2026-05-12T05:34:51.275Z",
+      "author": {
+        "did": "did:plc:eronyhtcn3eycaxa4k2i4xtf",
+        "handle": "sixtus.net",
+        "display_name": "Mario Sixtus"
+      },
+      "like_count": 290,
+      "repost_count": 30,
+      "reply_count": 16,
+      "quote_count": 1,
+      "engagement_score": 449,
+      "source_queries": [
+        "ChatGPT"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:foc4lht37ziujsrhbz6jhyk7/app.bsky.feed.post/3mln4l7njgc2o",
+          "cid": "bafyreigawm6mjzwvdonde7oksiwv7l6tanjvcnl3boghacsj3nwe4dwnh4",
+          "text": "Dafür kann man aber auch gut erkennen, wer mit echtem Hirn selbst nützliches verfasst :)",
+          "created_at": "2026-05-12T06:04:20.934Z",
+          "indexed_at": "2026-05-12T06:04:21.870Z",
+          "author": {
+            "did": "did:plc:foc4lht37ziujsrhbz6jhyk7",
+            "handle": "honkhase.de",
+            "display_name": "Manuel 'HonkHase' Atug"
+          },
+          "like_count": 11,
+          "repost_count": 0,
+          "reply_count": 2,
+          "quote_count": 0,
+          "engagement_score": 19
+        },
+        {
+          "uri": "at://did:plc:z2xqbvfe6pzeqocyy4aqsght/app.bsky.feed.post/3mln3yid2ic22",
+          "cid": "bafyreib5ifurq7njselnlbxykmcqesjj5bnsnutrg2lozlcwm2jyhetppi",
+          "text": "Danke, dass Du uns mit auf diese inspirierende Reise genommen und Deine wertvollen Insights geteilt hast!",
+          "created_at": "2026-05-12T05:53:52.494Z",
+          "indexed_at": "2026-05-12T05:53:53.673Z",
+          "author": {
+            "did": "did:plc:z2xqbvfe6pzeqocyy4aqsght",
+            "handle": "bigbamboo.bsky.social",
+            "display_name": "Bigbamboo 🇪🇺"
+          },
+          "like_count": 9,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 9
+        },
+        {
+          "uri": "at://did:plc:f7avxdkgbmdjxt2j5s3xbvqh/app.bsky.feed.post/3mln3ep4utk23",
+          "cid": "bafyreig3tqghtrvp2n36fd6owggkpa7o6eer7yfr6ung4l54hbtruyjdpq",
+          "text": "Also keine Veränderung auf LinkedIn.",
+          "created_at": "2026-05-12T05:42:48.543Z",
+          "indexed_at": "2026-05-12T05:42:49.172Z",
+          "author": {
+            "did": "did:plc:f7avxdkgbmdjxt2j5s3xbvqh",
+            "handle": "ltkmr.bsky.social",
+            "display_name": "jl"
+          },
+          "like_count": 7,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 7
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:x2ssvkga34xug334b66hvrje/app.bsky.feed.post/3mlpkeglctk2l",
+      "cid": "bafyreibcwjwnr3slwfkahsmbdvx2u7zm45bkkiimqyansfthywfd2ghhsa",
+      "text": "I knew I’d find a use for this eventually",
+      "created_at": "2026-05-13T05:16:25.178Z",
+      "indexed_at": "2026-05-13T05:16:26.853Z",
+      "author": {
+        "did": "did:plc:x2ssvkga34xug334b66hvrje",
+        "handle": "cheriepriest.com",
+        "display_name": "High Priestess, Low Patience"
+      },
+      "like_count": 224,
+      "repost_count": 59,
+      "reply_count": 8,
+      "quote_count": 0,
+      "engagement_score": 433,
+      "source_queries": [
+        "ChatGPT"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:6vt4wfm5nfbwxqfeqeyeg64y/app.bsky.feed.post/3mlpkmfidas23",
+          "cid": "bafyreidc2sapqgrtwymgtvv42ynxlhabcink4dymxglzgmoj25hzogxtp4",
+          "text": "So... now instead of polling actual people they're going to ask a program? A thing that is literally programmed to answer the way they want it to? Fuck, I asked my washing machine about this and it said those people are all idiots.",
+          "created_at": "2026-05-13T05:20:52.472Z",
+          "indexed_at": "2026-05-13T05:20:52.572Z",
+          "author": {
+            "did": "did:plc:6vt4wfm5nfbwxqfeqeyeg64y",
+            "handle": "highsorcerer.bsky.social",
+            "display_name": "HighSorcerer"
+          },
+          "like_count": 10,
+          "repost_count": 1,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 13
+        },
+        {
+          "uri": "at://did:plc:iinsyl43bmzhikkujmzfedmt/app.bsky.feed.post/3mlpkiclszk2y",
+          "cid": "bafyreihwm55n5neqpq7lpveh3v26lvp7tuj3fkm5ae34rgztmpojcikfr4",
+          "text": "No AI could ever hallucinate hard enough to replicate the experience of talking to the median American voter",
+          "created_at": "2026-05-13T05:18:35.221Z",
+          "indexed_at": "2026-05-13T05:18:36.372Z",
+          "author": {
+            "did": "did:plc:iinsyl43bmzhikkujmzfedmt",
+            "handle": "markshatraw.bsky.social",
+            "display_name": "Mark Shatraw"
+          },
+          "like_count": 5,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 5
+        },
+        {
+          "uri": "at://did:plc:4cqlmxuflbu7lgkts4bnatg2/app.bsky.feed.post/3mlpxjhpm3s24",
+          "cid": "bafyreif2x7y5znw5dfsgspwpbod6pejizwrjrcsylh3rb2d22reu7qoxm4",
+          "text": "Let us, a company that exists to tell you what people say, instead tell you what our confirmation bias machine says\n\nPay us many dollars",
+          "created_at": "2026-05-13T09:11:52.788Z",
+          "indexed_at": "2026-05-13T09:11:54.271Z",
+          "author": {
+            "did": "did:plc:4cqlmxuflbu7lgkts4bnatg2",
+            "handle": "kayorchison.bsky.social",
+            "display_name": "Kay Orchison"
+          },
+          "like_count": 3,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 3
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:ow47wyut7hybhvd4ytr3nrkt/app.bsky.feed.post/3mlsnhl24cc2k",
+      "cid": "bafyreihuzoanngypxfw4sjjrwwsmsh42drch5rge5xls5z6rpm2tovo2gy",
+      "text": "pesquisei o powerpoint vorcaro-lula e a definição das imagens é ruim porque é foto da tela da tv\n\naí tem essa do brasil 247 que devem ter colocado no chatgpt pra melhorar a definição\n\nolhem os cargos das pessoas 😂",
+      "created_at": "2026-05-14T10:49:50.966Z",
+      "indexed_at": "2026-05-14T10:49:54.071Z",
+      "author": {
+        "did": "did:plc:ow47wyut7hybhvd4ytr3nrkt",
+        "handle": "donabici.bsky.social",
+        "display_name": "bici"
+      },
+      "like_count": 126,
+      "repost_count": 29,
+      "reply_count": 15,
+      "quote_count": 29,
+      "engagement_score": 418,
+      "source_queries": [
+        "ChatGPT"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:ow47wyut7hybhvd4ytr3nrkt/app.bsky.feed.post/3mlsniomtqs2k",
+          "cid": "bafyreifag5uhdy2s7gdnegofggn2kcitsa57badip64xpyotipjr3ckvk4",
+          "text": "tag yourself eu sou presidenta da saracia",
+          "created_at": "2026-05-14T10:50:28.280Z",
+          "indexed_at": "2026-05-14T10:50:28.776Z",
+          "author": {
+            "did": "did:plc:ow47wyut7hybhvd4ytr3nrkt",
+            "handle": "donabici.bsky.social",
+            "display_name": "bici"
+          },
+          "like_count": 30,
+          "repost_count": 0,
+          "reply_count": 3,
+          "quote_count": 0,
+          "engagement_score": 42
+        },
+        {
+          "uri": "at://did:plc:ssjxnbcum3574f3mr2hpkva3/app.bsky.feed.post/3mlsrpausf22e",
+          "cid": "bafyreie7twhaps6r4ndl3b46qc53dg526ccopxrfne5cego5imm6u3eu5a",
+          "text": "Gostei q o do PT veio com sotaque",
+          "created_at": "2026-05-14T12:05:43.709Z",
+          "indexed_at": "2026-05-14T12:05:47.775Z",
+          "author": {
+            "did": "did:plc:ssjxnbcum3574f3mr2hpkva3",
+            "handle": "marcus-vs-silva.bsky.social",
+            "display_name": "Marcus"
+          },
+          "like_count": 4,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 4
+        },
+        {
+          "uri": "at://did:plc:n4ptmyw6pcuheihj6fld54p4/app.bsky.feed.post/3mlsnmiok6c2b",
+          "cid": "bafyreidj4gaw2k6easwp77tomfqsgi2j55ymbnjd6bo6tnf27jw3vwx2q4",
+          "text": "",
+          "created_at": "2026-05-14T10:52:36.261Z",
+          "indexed_at": "2026-05-14T10:52:37.676Z",
+          "author": {
+            "did": "did:plc:n4ptmyw6pcuheihj6fld54p4",
+            "handle": "lingnau.bsky.social",
+            "display_name": "analista de ideias mirabolantes"
+          },
+          "like_count": 3,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 3
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:ntkmgew2vnq7lkpze65ffmzx/app.bsky.feed.post/3mlo25crqrk2t",
+      "cid": "bafyreicmtd23wkl3jwo254qjrm3ewkfwsoya3jxct7rydu7uwvnr2tughi",
+      "text": "OpenAI was sued this week over a mass shooting in Florida and the overdose death of a college student in California. They are among two dozen cases filed in the last year that claim ChatGPT should be subject to consumer product safety laws: www.nytimes.com/2026/05/12/t...",
+      "created_at": "2026-05-12T14:53:26.710Z",
+      "indexed_at": "2026-05-12T14:53:27.877Z",
+      "author": {
+        "did": "did:plc:ntkmgew2vnq7lkpze65ffmzx",
+        "handle": "kashhill.bsky.social",
+        "display_name": "Kashmir Hill"
+      },
+      "like_count": 173,
+      "repost_count": 62,
+      "reply_count": 6,
+      "quote_count": 6,
+      "engagement_score": 413,
+      "source_queries": [
+        "OpenAI"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:2nhudqe7uplgqvnt72p2vxnb/app.bsky.feed.post/3mlo4xbv5u22r",
+          "cid": "bafyreid27cyh5i2miho5rtedkesjxhzma2ymnimvg4yaebpyt5u2jglr2a",
+          "text": "Even in the 70s toys were taken off shelves because of things like design flaws that caused them to be a choking hazard for children, it shows how powerful these corporations have become that their products are encouraging people to kill themselves or others and they are escaping accountability.",
+          "created_at": "2026-05-12T15:43:45.673Z",
+          "indexed_at": "2026-05-12T15:43:46.177Z",
+          "author": {
+            "did": "did:plc:2nhudqe7uplgqvnt72p2vxnb",
+            "handle": "bsky.realhackhistory.org",
+            "display_name": "—>realhackhistory.org"
+          },
+          "like_count": 2,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 2
+        },
+        {
+          "uri": "at://did:plc:mzlvwvhvt7vhj4nbyl75chfp/app.bsky.feed.post/3mlowtyfzjs2n",
+          "cid": "bafyreib5s3wdseywwrh5jlnvakz5tlxeog3zzi6qdx7jmb2hozy77x3w6q",
+          "text": "In the US it's not illegal to give bad advice unless you are regulated in a manner that requires you to give truthful or good advice. \n\nThese lawsuits are bullshit.\n\nBut should (or even could) \"AI\" be regulated in that manner?",
+          "created_at": "2026-05-12T23:27:12.363Z",
+          "indexed_at": "2026-05-12T23:27:10.880Z",
+          "author": {
+            "did": "did:plc:mzlvwvhvt7vhj4nbyl75chfp",
+            "handle": "joseph-n-hall.bsky.social",
+            "display_name": "JN Hall"
+          },
+          "like_count": 1,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 1
+        },
+        {
+          "uri": "at://did:plc:lks66eq5y7vqya3ozeyxdq3i/app.bsky.feed.post/3mlo2dqmxs22m",
+          "cid": "bafyreihvewgz5rpwghvhcvkthygthawqio5eo2je53jflovffvf6rg3xgm",
+          "text": "The company should be financially liable for civil penalties, but the CEO should be charged with murder",
+          "created_at": "2026-05-12T14:57:02.561Z",
+          "indexed_at": "2026-05-12T14:57:05.675Z",
+          "author": {
+            "did": "did:plc:lks66eq5y7vqya3ozeyxdq3i",
+            "handle": "rational.bsky.social",
+            "display_name": "Infrastructure is politics"
+          },
+          "like_count": 1,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 1
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:2w45zyhuklwihpdc7oj3mi63/app.bsky.feed.post/3mlo4zovpzx23",
+      "cid": "bafyreibin6nlzyfpce6tah2vzn34cxhzmmc3zurky2cy4kr3ax2dmwa3c4",
+      "text": "Altman is slated to take the stand Wednesday in Elon Musk’s lawsuit against him and OpenAI.",
+      "created_at": "2026-05-12T15:45:05Z",
+      "indexed_at": "2026-05-12T15:45:06.976Z",
+      "author": {
+        "did": "did:plc:2w45zyhuklwihpdc7oj3mi63",
+        "handle": "forbes.com",
+        "display_name": "Forbes"
+      },
+      "like_count": 151,
+      "repost_count": 37,
+      "reply_count": 31,
+      "quote_count": 3,
+      "engagement_score": 401,
+      "source_queries": [
+        "OpenAI"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:aswdtqxiibennng4wdny6sr2/app.bsky.feed.post/3mlock6sm7k2b",
+          "cid": "bafyreigonfzjukm3qqyy5wj5uykihsin2bzj2ochjjfgyg4lf6n3h7dkmq",
+          "text": "Eat the rich",
+          "created_at": "2026-05-12T17:23:48.687Z",
+          "indexed_at": "2026-05-12T17:23:48.872Z",
+          "author": {
+            "did": "did:plc:aswdtqxiibennng4wdny6sr2",
+            "handle": "be-three.bsky.social",
+            "display_name": "Be_three"
+          },
+          "like_count": 8,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 12
+        },
+        {
+          "uri": "at://did:plc:yqapk5wsrf246zf75chh2der/app.bsky.feed.post/3mlo5dfdykc23",
+          "cid": "bafyreibvu7dq2dnar2zpherxsj4k3mysmye45tbifk252dujxqrfv4zfwu",
+          "text": "Rumor has it he’s a pathological liar. This should be good.",
+          "created_at": "2026-05-12T15:50:31.957Z",
+          "indexed_at": "2026-05-12T15:50:32.376Z",
+          "author": {
+            "did": "did:plc:yqapk5wsrf246zf75chh2der",
+            "handle": "cwhedley.bsky.social",
+            "display_name": "Miss Led 🆘 🇺🇸"
+          },
+          "like_count": 5,
+          "repost_count": 1,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 12
+        },
+        {
+          "uri": "at://did:plc:zcdsq4bn3uwlyxvckrdlwqhq/app.bsky.feed.post/3mlogaxd5pc24",
+          "cid": "bafyreihg6ejk2jm4fd7umo5ub2w7fxu5ol3t56s2ntb636vfiugeoyv7bi",
+          "text": "How in the world can Elon be not investigated either?  This is just a right wing asshole asserting his power to a not complete right wing asshole to have money when being non profit.",
+          "created_at": "2026-05-12T18:30:13.818Z",
+          "indexed_at": "2026-05-12T18:30:14.479Z",
+          "author": {
+            "did": "did:plc:zcdsq4bn3uwlyxvckrdlwqhq",
+            "handle": "nwsoftwareguy.bsky.social",
+            "display_name": "@nwsoftwareguy.bsky.social"
+          },
+          "like_count": 4,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 4
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:qc6xzgctorfsm35w6i3vdebx/app.bsky.feed.post/3mlewpzx2c22x",
+      "cid": "bafyreibgumkeace3rtosrstoabrpbw4hzxgu7ocycl6yt4jljbsp5adrai",
+      "text": "Sending pension and insurance funds into Broadcom chips built for OpenAI that never get installed 👍 simple as that",
+      "created_at": "2026-05-08T23:58:22.369Z",
+      "indexed_at": "2026-05-08T23:58:22.573Z",
+      "author": {
+        "did": "did:plc:qc6xzgctorfsm35w6i3vdebx",
+        "handle": "edzitron.com",
+        "display_name": "Ed Zitron"
+      },
+      "like_count": 259,
+      "repost_count": 32,
+      "reply_count": 7,
+      "quote_count": 1,
+      "engagement_score": 388,
+      "source_queries": [
+        "OpenAI"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:lq6icxaqm2povx46evt37xac/app.bsky.feed.post/3mlf37gipzk2w",
+          "cid": "bafyreie765xjsyio2nux34k3vq5x5zoehp4le2g3kboobyxvjfxl7rql6m",
+          "text": "Tulips vs Nvidia",
+          "created_at": "2026-05-09T01:18:33.802Z",
+          "indexed_at": "2026-05-09T01:18:41.874Z",
+          "author": {
+            "did": "did:plc:lq6icxaqm2povx46evt37xac",
+            "handle": "trifan.bsky.social",
+            "display_name": "TRIFAN"
+          },
+          "like_count": 6,
+          "repost_count": 1,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 13
+        },
+        {
+          "uri": "at://did:plc:5pds6fax4nwcysq5nqsxiqn2/app.bsky.feed.post/3mlex467dgs2s",
+          "cid": "bafyreicfy5ouulqchb4meph6jfsol23jvunuhnjyfqsdi4g3kdziyny7pi",
+          "text": "The same Apollo Global whose former-CEO and co-founder was Epstein’s largest client and who sat on the international advisory board of the Russian Direct Investment Fund...?",
+          "created_at": "2026-05-09T00:05:09.487Z",
+          "indexed_at": "2026-05-09T00:05:09.773Z",
+          "author": {
+            "did": "did:plc:5pds6fax4nwcysq5nqsxiqn2",
+            "handle": "quarantegan.bsky.social",
+            "display_name": "Quarantegan"
+          },
+          "like_count": 2,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 2
+        },
+        {
+          "uri": "at://did:plc:wuxmfns5mfabaosxb5kd5f4r/app.bsky.feed.post/3mlfhcze2ic27",
+          "cid": "bafyreidkaq2orb4ktepusincx2jmpcurhojgcxvcs57ykpd3qxpldvqhka",
+          "text": "Are there any historical examples of resource hoarding just to limit the access? Asking for my Local Model friends.",
+          "created_at": "2026-05-09T04:55:19.149Z",
+          "indexed_at": "2026-05-09T04:55:19.573Z",
+          "author": {
+            "did": "did:plc:wuxmfns5mfabaosxb5kd5f4r",
+            "handle": "mucenieks.bsky.social",
+            "display_name": "Acquiescent Sandbagger"
+          },
+          "like_count": 1,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 1
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:xonold7jljoosnwg2fx45nij/app.bsky.feed.post/3mliodthd4s2a",
+      "cid": "bafyreih3flevxajzoowhw7jlzro673wsk44rhfjtlzuf6v6hdp73lfqfkm",
+      "text": "Las ratas del hantavirus desde que chatgpt les ha dicho que pueden nadar",
+      "created_at": "2026-05-10T11:39:01.924Z",
+      "indexed_at": "2026-05-10T11:39:04.272Z",
+      "author": {
+        "did": "did:plc:xonold7jljoosnwg2fx45nij",
+        "handle": "marelga.bsky.social",
+        "display_name": "María® 🍉"
+      },
+      "like_count": 197,
+      "repost_count": 48,
+      "reply_count": 7,
+      "quote_count": 2,
+      "engagement_score": 379,
+      "source_queries": [
+        "ChatGPT"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:5qnz7xt562baxgayzuyri3fs/app.bsky.feed.post/3mljocroa222j",
+          "cid": "bafyreieklptybcedy2s7tz36hsohajip2qtbdh2lixug3jwgrxjdibifxq",
+          "text": "Las fantasias animadas de Clavijo.",
+          "created_at": "2026-05-10T21:11:06.241Z",
+          "indexed_at": "2026-05-10T21:11:06.773Z",
+          "author": {
+            "did": "did:plc:5qnz7xt562baxgayzuyri3fs",
+            "handle": "av34-gini242.bsky.social",
+            "display_name": "Anavirgini"
+          },
+          "like_count": 3,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 3
+        },
+        {
+          "uri": "at://did:plc:mwaxb5q77dhexhgfysekb56b/app.bsky.feed.post/3mlkle7hguc2b",
+          "cid": "bafyreig2mzpy464usoxkso4zevmrsrux5n66e72475qwfyubeiuyug43ne",
+          "text": "Los roedores se van a tirar desde la última planta del barco en paracaídas. Luego colonizarán las islas, para pasar a toda la península y al resto de europa. Y luego ya, si acaso, el resto del planeta, para posteriormente viajar a la Luna y Marte con trajes de ratónauta.",
+          "created_at": "2026-05-11T05:50:52.765Z",
+          "indexed_at": "2026-05-11T05:50:54.172Z",
+          "author": {
+            "did": "did:plc:mwaxb5q77dhexhgfysekb56b",
+            "handle": "josejuanrd.bsky.social",
+            "display_name": "Jose Juan RD"
+          },
+          "like_count": 2,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 2
+        },
+        {
+          "uri": "at://did:plc:yb3vkaqzx4iobebyvou4dbgl/app.bsky.feed.post/3mljnmge3o22q",
+          "cid": "bafyreif43mqsnhalcw5phxzyuqosy4vothrjpyoazdnn7g43vajrbxscwu",
+          "text": "Jajaja...me peto!",
+          "created_at": "2026-05-10T20:58:36.176Z",
+          "indexed_at": "2026-05-10T20:58:37.173Z",
+          "author": {
+            "did": "did:plc:yb3vkaqzx4iobebyvou4dbgl",
+            "handle": "ngp12.bsky.social",
+            "display_name": "Ngp12. Núria Garrigós Peris"
+          },
+          "like_count": 1,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 1
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:jg7zvku4khzmvyjwbzv4lnly/app.bsky.feed.post/3mlofnuy4k227",
+      "cid": "bafyreiblxz7e4jpkw6qic7pj3dhzw5y4gbfmpd2hvg3bhyxqkrvs2hlojq",
+      "text": "Part of the thinking around this whole trial is that Elon did it to embarrass Sam, but hard to think of anything more embarrassing for Elon than \"he had a plan to turn OpenAI into a hereditary monarchy\"",
+      "created_at": "2026-05-12T18:19:33.824Z",
+      "indexed_at": "2026-05-12T18:19:34.476Z",
+      "author": {
+        "did": "did:plc:jg7zvku4khzmvyjwbzv4lnly",
+        "handle": "caseynewton.bsky.social",
+        "display_name": "Casey Newton"
+      },
+      "like_count": 211,
+      "repost_count": 43,
+      "reply_count": 5,
+      "quote_count": 3,
+      "engagement_score": 375,
+      "source_queries": [
+        "OpenAI"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:z7oad4td5k4tfb4dttzjym7r/app.bsky.feed.post/3mlot2x3rb22g",
+          "cid": "bafyreiahlwa44lvt4co46z3eggclt7u5sj555dwvxeaoxhir2nap2yrcv4",
+          "text": "oh wow he is interested in a hereditary monarchy? gosh I did not see that coming, there were no clues at all",
+          "created_at": "2026-05-12T22:19:30.893Z",
+          "indexed_at": "2026-05-12T22:19:31.473Z",
+          "author": {
+            "did": "did:plc:z7oad4td5k4tfb4dttzjym7r",
+            "handle": "moskov.goodventures.org",
+            "display_name": "Dustin Moskovitz"
+          },
+          "like_count": 23,
+          "repost_count": 1,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 30
+        },
+        {
+          "uri": "at://did:plc:2hc35pcklw5bzm53o6qf55lr/app.bsky.feed.post/3mlogdhgd6s2j",
+          "cid": "bafyreifz4ha4l42ncdu6k73cfxewuew7bkyic7wolipg6xfhhluib5wwzm",
+          "text": "“Picture this: Succession, but there’s like 87 heirs instead of 4”",
+          "created_at": "2026-05-12T18:31:37.808Z",
+          "indexed_at": "2026-05-12T18:31:38.376Z",
+          "author": {
+            "did": "did:plc:2hc35pcklw5bzm53o6qf55lr",
+            "handle": "kxdyn.bsky.social",
+            "display_name": "🌿"
+          },
+          "like_count": 22,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 22
+        },
+        {
+          "uri": "at://did:plc:wh3mt5wk4scsdotjknxuci4n/app.bsky.feed.post/3mlotezqyic2w",
+          "cid": "bafyreibasyaifnslp4pvf52urbco7cfmsxgie2jauhxfie3aannlkj5yka",
+          "text": "Yet another example of what these people mean when they say \"return to meritocracy\": return to nepotism, good old boy networks, and bestowing the rest of the honors on sycophants.",
+          "created_at": "2026-05-12T22:25:09.229Z",
+          "indexed_at": "2026-05-12T22:25:09.671Z",
+          "author": {
+            "did": "did:plc:wh3mt5wk4scsdotjknxuci4n",
+            "handle": "neqone.bsky.social",
+            "display_name": "Hank G"
+          },
+          "like_count": 2,
+          "repost_count": 1,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 5
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:e6cdarcbtvw2iducfhxypw7z/app.bsky.feed.post/3mlm4a2fres2q",
+      "cid": "bafyreidlukpnfoiud6u5j7r32w4htu6g53ctcj3ij4qspwsp3og7lftp64",
+      "text": "There are always things to be thankful for in life. For example, imagine if ChatGPT had come out a few years earlier and existed during covid lockdowns.",
+      "created_at": "2026-05-11T20:25:26.599Z",
+      "indexed_at": "2026-05-11T20:25:26.776Z",
+      "author": {
+        "did": "did:plc:e6cdarcbtvw2iducfhxypw7z",
+        "handle": "workerslit.bsky.social",
+        "display_name": "Workers’ Lit Podcast"
+      },
+      "like_count": 245,
+      "repost_count": 28,
+      "reply_count": 3,
+      "quote_count": 3,
+      "engagement_score": 356,
+      "source_queries": [
+        "ChatGPT"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:ickywgmduciepbgobnqylv2s/app.bsky.feed.post/3mlmhmjphzs25",
+          "cid": "bafyreihrvxjtvmjtd6vsgsfqykz6wcklln7ial6sxejkmjrlpy36fhvhvi",
+          "text": "I actually don’t want to imagine that, thank you very much",
+          "created_at": "2026-05-11T23:49:16.460Z",
+          "indexed_at": "2026-05-11T23:49:17.673Z",
+          "author": {
+            "did": "did:plc:ickywgmduciepbgobnqylv2s",
+            "handle": "boshthejerm.bsky.social",
+            "display_name": "The Sensual Hog Named Alf"
+          },
+          "like_count": 4,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 4
+        },
+        {
+          "uri": "at://did:plc:fmk77uglwhgd2uilg74ykvlg/app.bsky.feed.post/3mlmatglx7k2l",
+          "cid": "bafyreibzfh24g4yrvyew2cldv7rdfvajncaeqxyikm2lldkycd7vonlztq",
+          "text": "I wonder if the chip shortage would have stunted it or if they just would have hoarded them all to the point where nobody else would ever have a computer again.",
+          "created_at": "2026-05-11T21:47:51.886Z",
+          "indexed_at": "2026-05-11T21:47:52.671Z",
+          "author": {
+            "did": "did:plc:fmk77uglwhgd2uilg74ykvlg",
+            "handle": "bfaho.me",
+            "display_name": "Bfahome"
+          },
+          "like_count": 3,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 7
+        },
+        {
+          "uri": "at://did:plc:lcxfitqiwcyfw6n3a6tysd7b/app.bsky.feed.post/3mlmak4c7ds2p",
+          "cid": "bafyreictttescvywafiiecmjk7fawvxw6fhgci3ksyr2ihzr7dwzbntz5i",
+          "text": "the it could’ve been worse scenarios really are endless 🥲",
+          "created_at": "2026-05-11T21:42:39.092Z",
+          "indexed_at": "2026-05-11T21:42:39.772Z",
+          "author": {
+            "did": "did:plc:lcxfitqiwcyfw6n3a6tysd7b",
+            "handle": "a-warm-tortilla.bsky.social",
+            "display_name": "remi (they/them) 🖤"
+          },
+          "like_count": 1,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 1
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:rvohjx2b6akk3nnzis6elsq2/app.bsky.feed.post/3mlkrsnbcjc2c",
+      "cid": "bafyreicgdo3ogyp2yz4zfcbx2tuddfwfhounnhw2hbxwbfe6rpoamevsle",
+      "text": "La mejor definición de la teoría del caos. Un imbécil abre chatgpt en Canarias y a varios científicos del ministerio se les jode el fin de semana en Madrid.",
+      "created_at": "2026-05-11T07:46:19.457Z",
+      "indexed_at": "2026-05-11T07:46:19.773Z",
+      "author": {
+        "did": "did:plc:rvohjx2b6akk3nnzis6elsq2",
+        "handle": "jecharte.eurosky.social",
+        "display_name": "Jose María Echarte"
+      },
+      "like_count": 144,
+      "repost_count": 53,
+      "reply_count": 2,
+      "quote_count": 0,
+      "engagement_score": 311,
+      "source_queries": [
+        "ChatGPT"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:rvohjx2b6akk3nnzis6elsq2/app.bsky.feed.post/3mlkrsnbq6s2c",
+          "cid": "bafyreigilg2mg7sxn7dyozslpk6bphuflpuiux6fksxc7gme2txklvyga4",
+          "text": "Por otra parte, parece que a esto vamos. Esta es la desproporción de tiempos entre lo que le cuesta soltar un bulo a Tellado, a MAR o a gentuza como Quiles o Ndongo y lo que se tarda en desmentir estupideces a todas horas.",
+          "created_at": "2026-05-11T07:46:19.458Z",
+          "indexed_at": "2026-05-11T07:46:19.799Z",
+          "author": {
+            "did": "did:plc:rvohjx2b6akk3nnzis6elsq2",
+            "handle": "jecharte.eurosky.social",
+            "display_name": "Jose María Echarte"
+          },
+          "like_count": 18,
+          "repost_count": 2,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 28
+        },
+        {
+          "uri": "at://did:plc:bgx7citmfx6uhjejtmfnqkic/app.bsky.feed.post/3mlldyzkoxs22",
+          "cid": "bafyreietbemkdhpvf4avswfqlc43je6czqxx2nyxq3deyw4trhqc6ig5wq",
+          "text": "Totalmente de acuerdo.\n\nEl hecho de que ocurra un claro caso de \"Fuente: ChatGPT\" debería bastar para desacreditar la afirmación... pero no.\n\nEs trágico de verdad.",
+          "created_at": "2026-05-11T13:12:01.028Z",
+          "indexed_at": "2026-05-11T13:12:00.371Z",
+          "author": {
+            "did": "did:plc:bgx7citmfx6uhjejtmfnqkic",
+            "handle": "tomateaterrador.bsky.social",
+            "display_name": "Tomate Aterrador"
+          },
+          "like_count": 0,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 0
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:ln72v57ivz2g46uqf4xxqiuh/app.bsky.feed.post/3mloso27fay24",
+      "cid": "bafyreib4h2klfo2knckroqdegrve6xjrftpraf57nyexdrwga2boq6d5my",
+      "text": "The trial pits two of tech's most famous personalities against each other and could lead to seismic changes for the maker of ChatGPT. n.pr/4dk3pUS",
+      "created_at": "2026-05-12T22:12:17.879454Z",
+      "indexed_at": "2026-05-12T22:12:18.674Z",
+      "author": {
+        "did": "did:plc:ln72v57ivz2g46uqf4xxqiuh",
+        "handle": "npr.org",
+        "display_name": "NPR"
+      },
+      "like_count": 123,
+      "repost_count": 24,
+      "reply_count": 15,
+      "quote_count": 8,
+      "engagement_score": 295,
+      "source_queries": [
+        "ChatGPT"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:tfauygrib5tfh6idm2o5npuj/app.bsky.feed.post/3mlotelhzgs2c",
+          "cid": "bafyreieuolasw44xdhbdgn3jy5znhqil7uqz6pdvaennaejhkqztws5s7i",
+          "text": "i'd welcome mutual destruction \n\ncan we get that?",
+          "created_at": "2026-05-12T22:24:54.255Z",
+          "indexed_at": "2026-05-12T22:24:55.372Z",
+          "author": {
+            "did": "did:plc:tfauygrib5tfh6idm2o5npuj",
+            "handle": "pettywhite.bsky.social",
+            "display_name": "margie"
+          },
+          "like_count": 12,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 16
+        },
+        {
+          "uri": "at://did:plc:zpfg3pviwgrbk77kbtxcqggt/app.bsky.feed.post/3mloswaxezk25",
+          "cid": "bafyreie3r45evvw22zximdk72exqryopwfbcnljm5iefalmqyq2of5cose",
+          "text": "",
+          "created_at": "2026-05-12T22:16:53.463Z",
+          "indexed_at": "2026-05-12T22:16:54.770Z",
+          "author": {
+            "did": "did:plc:zpfg3pviwgrbk77kbtxcqggt",
+            "handle": "vitiaetmores.bsky.social",
+            "display_name": "Jaime"
+          },
+          "like_count": 7,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 7
+        },
+        {
+          "uri": "at://did:plc:znrlo7atqzsbbato4yntqjhx/app.bsky.feed.post/3mlouznhuj22w",
+          "cid": "bafyreidww4ashfczddr7rpxazupod7ead5efxqavnuiusqmynyynwt2maq",
+          "text": "Hopefully they completely destroy each other and we never have to hear about them again.",
+          "created_at": "2026-05-12T22:54:34.732Z",
+          "indexed_at": "2026-05-12T22:54:36.173Z",
+          "author": {
+            "did": "did:plc:znrlo7atqzsbbato4yntqjhx",
+            "handle": "galofnovember.bsky.social",
+            "display_name": "janet snakehole"
+          },
+          "like_count": 6,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 6
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:s3bem7mapxyocynldw6sfof4/app.bsky.feed.post/3mlqdat55ec2i",
+      "cid": "bafyreihlrtzzjrpsy6rrz2ylyeokmiikymunkar6k5hmw5woqw4la3nica",
+      "text": "What do you think the Administration’s ChatGPT prompt is exactly? “Provide the worst possible policy outcomes in the areas of health, economy, national security and law.”?\n\nwww.nytimes.com/2026/05/11/c...",
+      "created_at": "2026-05-13T12:41:47.677Z",
+      "indexed_at": "2026-05-13T12:41:50.776Z",
+      "author": {
+        "did": "did:plc:s3bem7mapxyocynldw6sfof4",
+        "handle": "johnsipher.bsky.social",
+        "display_name": "John Sipher"
+      },
+      "like_count": 124,
+      "repost_count": 37,
+      "reply_count": 13,
+      "quote_count": 0,
+      "engagement_score": 287,
+      "source_queries": [
+        "ChatGPT"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:kya5j6tfrrsvjxck5t4j4ged/app.bsky.feed.post/3mlqf4dn6ds2o",
+          "cid": "bafyreibjihlfh5xhbpaqemnp2spg4lvmb225a6ha6m6z55aeaoasdaev7m",
+          "text": "How exactly is coal rebounding? Who is using it?",
+          "created_at": "2026-05-13T13:15:04.692Z",
+          "indexed_at": "2026-05-13T13:15:05.371Z",
+          "author": {
+            "did": "did:plc:kya5j6tfrrsvjxck5t4j4ged",
+            "handle": "splitatoms119.bsky.social",
+            "display_name": "It’sScience1984"
+          },
+          "like_count": 2,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 2
+        },
+        {
+          "uri": "at://did:plc:cclnwxkhyqi77pmn5n7fcfnp/app.bsky.feed.post/3mlqdlkaag22w",
+          "cid": "bafyreifldltq7s5pzplb4pytvj4roj4lt2swffk754lm63fsfsvagungyu",
+          "text": "US continues to backslide and lose out to other nations like China that are heavily investing in cheap, clean energy. This will have a long term economic and health cost as the idiots in charge rally around coal and oil.",
+          "created_at": "2026-05-13T12:47:47.440Z",
+          "indexed_at": "2026-05-13T12:47:48.271Z",
+          "author": {
+            "did": "did:plc:cclnwxkhyqi77pmn5n7fcfnp",
+            "handle": "x82abn.bsky.social",
+            "display_name": "Tim McFella"
+          },
+          "like_count": 2,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 2
+        },
+        {
+          "uri": "at://did:plc:qdyvmdgqk3bt2aejqq4zwki7/app.bsky.feed.post/3mls2ld2jjc2k",
+          "cid": "bafyreidfelp5a2hqueemev6qtfnwtuh7yxa6cyb3t3d43tkx5g36m523xy",
+          "text": "Yes.",
+          "created_at": "2026-05-14T05:11:55.714Z",
+          "indexed_at": "2026-05-14T05:11:55.972Z",
+          "author": {
+            "did": "did:plc:qdyvmdgqk3bt2aejqq4zwki7",
+            "handle": "democracymichelle.bsky.social",
+            "display_name": "Michelle likes democracy."
+          },
+          "like_count": 1,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 1
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:2vptxuojvyrt2wpj2lpdyfxx/app.bsky.feed.post/3mljndlnt722y",
+      "cid": "bafyreifzvvfvoqw6jyr57z6k5hjsqvoqezrnlep7vlihd55ny2jqqvwz2u",
+      "text": "\"A study that claimed OpenAI’s ChatGPT can positively impact student learning has been retracted nearly one year after publication.\"\narstechnica.com/ai/2026/05/i...",
+      "created_at": "2026-05-10T20:53:39.749Z",
+      "indexed_at": "2026-05-10T20:53:42.078Z",
+      "author": {
+        "did": "did:plc:2vptxuojvyrt2wpj2lpdyfxx",
+        "handle": "levostregc.bsky.social",
+        "display_name": "Chaucer Doth Tweet"
+      },
+      "like_count": 119,
+      "repost_count": 50,
+      "reply_count": 2,
+      "quote_count": 2,
+      "engagement_score": 287,
+      "source_queries": [
+        "ChatGPT"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:7wdc4zowcyzk6nuoqkvyhyu4/app.bsky.feed.post/3mljslvsvxc2t",
+          "cid": "bafyreiciwdhmid2j6h6k6msad7frozwx2c226w2enlqxqfup5jrhcgjyai",
+          "text": "one wonders why such a study was published in the first place, but whatever, I guess",
+          "created_at": "2026-05-10T22:27:47.546Z",
+          "indexed_at": "2026-05-10T22:27:37.875Z",
+          "author": {
+            "did": "did:plc:7wdc4zowcyzk6nuoqkvyhyu4",
+            "handle": "elizmanderson.com",
+            "display_name": "E.M. Anderson | the brain-only writer too hot for bluesky"
+          },
+          "like_count": 0,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 0
+        },
+        {
+          "uri": "at://did:plc:jzagzt3toymm3yzu5ydph7au/app.bsky.feed.post/3mljnntdzs226",
+          "cid": "bafyreibxu2jykmqsm3g6qdnnbxloapxyobgg73c4e646janzqppye7qapy",
+          "text": "the AI wrote it?",
+          "created_at": "2026-05-10T20:59:23.361Z",
+          "indexed_at": "2026-05-10T20:59:23.676Z",
+          "author": {
+            "did": "did:plc:jzagzt3toymm3yzu5ydph7au",
+            "handle": "contemosca.bsky.social",
+            "display_name": "Conte Mosca"
+          },
+          "like_count": 0,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 0
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:a67zdrt4nl2tv2qojpngogbq/app.bsky.feed.post/3mllxhupvpv2p",
+      "cid": "bafyreicxjwe744rbv4mjtypvx5dgkiroclyksdhhqyuowcdo3fvsamgn24",
+      "text": "The widow of a man killed in a mass shooting at Florida State University is suing ChatGPT maker OpenAI, blaming the artificial intelligence chatbot for contributing to the tragedy.",
+      "created_at": "2026-05-11T19:00:20Z",
+      "indexed_at": "2026-05-11T19:00:20.472Z",
+      "author": {
+        "did": "did:plc:a67zdrt4nl2tv2qojpngogbq",
+        "handle": "apnews.com",
+        "display_name": "The Associated Press"
+      },
+      "like_count": 135,
+      "repost_count": 34,
+      "reply_count": 5,
+      "quote_count": 4,
+      "engagement_score": 277,
+      "source_queries": [
+        "OpenAI",
+        "ChatGPT"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:25x5qfrtpga5fsepgr3gakkm/app.bsky.feed.post/3mllyvwqzt22u",
+          "cid": "bafyreihnd2wwhbwizmethtelwnye3yqevve4s7kmlltp2sxkmldmarb7ai",
+          "text": "\"But OpenAI is just a machine\"\n\"Yes, and you loaded the bullets into the machine.\"",
+          "created_at": "2026-05-11T19:26:06.004Z",
+          "indexed_at": "2026-05-11T19:26:07.677Z",
+          "author": {
+            "did": "did:plc:25x5qfrtpga5fsepgr3gakkm",
+            "handle": "raeckart.bsky.social",
+            "display_name": "RA Eckart"
+          },
+          "like_count": 2,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 2
+        },
+        {
+          "uri": "at://did:plc:dkxxuomcyrq6bfvrstrxvxk7/app.bsky.feed.post/3mllxrs3dds2p",
+          "cid": "bafyreiczya24kcibkv624ypxlvjpxohmar72terlckcgg5wmnxjimfrqgu",
+          "text": "Fuck Ai",
+          "created_at": "2026-05-11T19:05:53.140Z",
+          "indexed_at": "2026-05-11T19:05:53.776Z",
+          "author": {
+            "did": "did:plc:dkxxuomcyrq6bfvrstrxvxk7",
+            "handle": "nb990.bsky.social",
+            "display_name": ""
+          },
+          "like_count": 2,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 2
+        },
+        {
+          "uri": "at://did:plc:5kymeyah44vxisivhvbvnp5o/app.bsky.feed.post/3mlm2tcrp2c2y",
+          "cid": "bafyreiak7boeqndknednt2mz76kos6l5qwkjecakjymqwnbcoal6w7bilq",
+          "text": "Has Sam Altman sent her an apology? 8 were killed.\nAltman's company is being sued by one Tumbler Ridge family, who alleges the company \"had specific knowledge of the shooter's long-range planning of a mass casualty event,\" but \"took no steps to act upon this knowledge.\"\nwww.cbc.ca/news/canada/...",
+          "created_at": "2026-05-11T20:00:25.430Z",
+          "indexed_at": "2026-05-11T20:00:30.671Z",
+          "author": {
+            "did": "did:plc:5kymeyah44vxisivhvbvnp5o",
+            "handle": "carolannesundahl.bsky.social",
+            "display_name": "Carol Anne Sundahl"
+          },
+          "like_count": 0,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 0
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:7exlcsle4mjfhu3wnhcgizz6/app.bsky.feed.post/3mlqmlfp7f22w",
+      "cid": "bafyreifg6mjw5qa5wunu6tovkywaapzny4okqnzope2uvqovjwrs7irjda",
+      "text": "The Musk v. Altman trial begins again today with something a little lighter. \n\nFollow along for live updates from @lopatto.bsky.social: www.theverge.com/tech/917225/...",
+      "created_at": "2026-05-13T15:28:46.363Z",
+      "indexed_at": "2026-05-13T15:28:48.273Z",
+      "author": {
+        "did": "did:plc:7exlcsle4mjfhu3wnhcgizz6",
+        "handle": "theverge.com",
+        "display_name": "The Verge"
+      },
+      "like_count": 153,
+      "repost_count": 27,
+      "reply_count": 6,
+      "quote_count": 3,
+      "engagement_score": 273,
+      "source_queries": [
+        "OpenAI"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:53verixueu3wcygykliiqkdi/app.bsky.feed.post/3mlrc4kezoc2b",
+          "cid": "bafyreifgmx4momd4kxekdjvinuo6wtqys4efy3ptl3pyg4vpcwbhvdqkoa",
+          "text": "These people are such fucking idiots. This isn't 'light humor', it's a demonstration of what utterly trivial human beings they are.",
+          "created_at": "2026-05-13T21:54:10.278Z",
+          "indexed_at": "2026-05-13T21:54:10.975Z",
+          "author": {
+            "did": "did:plc:53verixueu3wcygykliiqkdi",
+            "handle": "bwnash.bsky.social",
+            "display_name": "Brian"
+          },
+          "like_count": 2,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 2
+        },
+        {
+          "uri": "at://did:plc:i5n5ccf6jbe2o3bhcfx3pfe3/app.bsky.feed.post/3mlqowzd6p22a",
+          "cid": "bafyreiblbh2tll3cr2ll5ysnnpl5wtphuunhpkt3lc3bdjnplzbgvrq2qa",
+          "text": "Was it my imagination, or did Sam Altman's testimony describe Musk's leadership style w/ the word “chainsaw”? A shoutout to his catastrophic DOGE manic episode that has destroyed countless lives.",
+          "created_at": "2026-05-13T16:11:03.521Z",
+          "indexed_at": "2026-05-13T16:11:05.479Z",
+          "author": {
+            "did": "did:plc:i5n5ccf6jbe2o3bhcfx3pfe3",
+            "handle": "cluestore.bsky.social",
+            "display_name": "Impeach[REDACTED]🇺🇸🆘🌎"
+          },
+          "like_count": 1,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 1
+        },
+        {
+          "uri": "at://did:plc:vjx66wqp4yjbhhdzoeustymc/app.bsky.feed.post/3mlss2fc25s25",
+          "cid": "bafyreifvnhkvonz42ipfzu7gpp2afptnfu45y6tp6thmm6wqredkvztqmy",
+          "text": "A trophy in his own image 🤪",
+          "created_at": "2026-05-14T12:11:57.436Z",
+          "indexed_at": "2026-05-14T12:11:57.474Z",
+          "author": {
+            "did": "did:plc:vjx66wqp4yjbhhdzoeustymc",
+            "handle": "rosecrucian.bsky.social",
+            "display_name": "Rosecrucian Roeth"
+          },
+          "like_count": 0,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 0
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:mz7l4crtluuwh4y4amtetba6/app.bsky.feed.post/3mlsfsec6xk2z",
+      "cid": "bafyreifsfzigjfd3dj4ag7q5jwniwbah7inw6d45qzmsbmc7qpq4inx4bq",
+      "text": "Le preguntan a ChatGPT cómo dominará el mundo y esta es su respuesta.\nA ver si entendemos que cuando algo es gratis el producto eres tú.",
+      "created_at": "2026-05-14T08:32:43.055Z",
+      "indexed_at": "2026-05-14T08:32:44.272Z",
+      "author": {
+        "did": "did:plc:mz7l4crtluuwh4y4amtetba6",
+        "handle": "menchubasquero.bsky.social",
+        "display_name": "María de la Ohlala"
+      },
+      "like_count": 81,
+      "repost_count": 41,
+      "reply_count": 9,
+      "quote_count": 6,
+      "engagement_score": 270,
+      "source_queries": [
+        "ChatGPT"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:bevpwjabobqhxxm6ejlsezjc/app.bsky.feed.post/3mlsgojmk222p",
+          "cid": "bafyreihstgetdssfe2fiexw5bxnjlbzjpm56gutkmiqwqz5kv4tz7cfjga",
+          "text": "No está describiendo a la IA, está describiendo a los ricos.",
+          "created_at": "2026-05-14T08:48:28.160Z",
+          "indexed_at": "2026-05-14T08:48:28.870Z",
+          "author": {
+            "did": "did:plc:bevpwjabobqhxxm6ejlsezjc",
+            "handle": "satancucufato.satan.social",
+            "display_name": "Zanzibar"
+          },
+          "like_count": 11,
+          "repost_count": 0,
+          "reply_count": 2,
+          "quote_count": 0,
+          "engagement_score": 19
+        },
+        {
+          "uri": "at://did:plc:mz7l4crtluuwh4y4amtetba6/app.bsky.feed.post/3mlsfycymck2z",
+          "cid": "bafyreidl7ko3glusx7xnpevieapipn5v4o3dwqpohx6xa6q6nghfov5xba",
+          "text": "Yo también se lo he preguntado. No tengo cuenta así que no es tan directo. Pero viene a decir lo mismo",
+          "created_at": "2026-05-14T08:36:03.014Z",
+          "indexed_at": "2026-05-14T08:36:06.475Z",
+          "author": {
+            "did": "did:plc:mz7l4crtluuwh4y4amtetba6",
+            "handle": "menchubasquero.bsky.social",
+            "display_name": "María de la Ohlala"
+          },
+          "like_count": 10,
+          "repost_count": 1,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 17
+        },
+        {
+          "uri": "at://did:plc:6s4n4x26hr24tpl3rfx6j3sp/app.bsky.feed.post/3mlsg54phms2g",
+          "cid": "bafyreie3qwfeom6thzzq6g6nkieswlcj2q6bzuxn6w77epzmuhkpe5tpwe",
+          "text": "Hay un error de base: el LLM no tiene voluntad ni agenda. Él no hace absolutamente nada.",
+          "created_at": "2026-05-14T08:38:44.200Z",
+          "indexed_at": "2026-05-14T08:38:45.575Z",
+          "author": {
+            "did": "did:plc:6s4n4x26hr24tpl3rfx6j3sp",
+            "handle": "srtagalicia.eurosky.social",
+            "display_name": "Galicia K. Méndez"
+          },
+          "like_count": 8,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 12
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:ttmh6jkou3r5qytm52b7fbf7/app.bsky.feed.post/3mlptlexp222s",
+      "cid": "bafyreidh2nywd2aj7p7r75ppztb4vqpwi27mnvff53pbq3m7rm2m2lpnou",
+      "text": "OpenAI reconnaît que les conversations avec ChatGPT sont analysées et, dans certains cas, signalées / Une transparence qui relance le débat sur la confidentialité des échanges avec l’intelligence artificielle et les limites de la vie privée en ligne",
+      "created_at": "2026-05-13T08:01:22.048Z",
+      "indexed_at": "2026-05-13T08:01:24.073Z",
+      "author": {
+        "did": "did:plc:ttmh6jkou3r5qytm52b7fbf7",
+        "handle": "geopolitique.bsky.social",
+        "display_name": "Géopolitique"
+      },
+      "like_count": 67,
+      "repost_count": 51,
+      "reply_count": 4,
+      "quote_count": 6,
+      "engagement_score": 266,
+      "source_queries": [
+        "OpenAI"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:zfxpioetore3ppssfugjrrsg/app.bsky.feed.post/3mlq4526whc25",
+          "cid": "bafyreidbcvyr3l4i5jfdf7wt73henmvty4y3vg4vnfpyz6bpcgqxz4kahm",
+          "text": "Toute discussion sur un outil des usa est accessible à leurs agences.",
+          "created_at": "2026-05-13T10:34:24.666Z",
+          "indexed_at": "2026-05-13T10:34:25.872Z",
+          "author": {
+            "did": "did:plc:zfxpioetore3ppssfugjrrsg",
+            "handle": "joejinis.bsky.social",
+            "display_name": "Joe Jinis 🗽"
+          },
+          "like_count": 1,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 1
+        },
+        {
+          "uri": "at://did:plc:374th5moqnax3ssk33lpi324/app.bsky.feed.post/3mlsdjzll722p",
+          "cid": "bafyreibekg4dsa7m3oxfv4dy2e5yekgxg2kxxbvnb7lrau4vytn7iglphm",
+          "text": "Il y avait vraiment un débat sur la confidentialité ?\n\nOpenAI et les autres ont prétendus une quelconque confidentialité ?",
+          "created_at": "2026-05-14T07:52:15.909Z",
+          "indexed_at": "2026-05-14T07:52:18.272Z",
+          "author": {
+            "did": "did:plc:374th5moqnax3ssk33lpi324",
+            "handle": "ortinomax.eurosky.social",
+            "display_name": ""
+          },
+          "like_count": 0,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 0
+        },
+        {
+          "uri": "at://did:plc:3tejde5kma6gzin4dkdtm2pk/app.bsky.feed.post/3mlqqjlm6ss25",
+          "cid": "bafyreiamohgnfrlvf6hzlge563sqv2grlcfxcbvaoeplzurnwour24qcgq",
+          "text": "Ça a littéralement été conçu POUR ÇA, donc bon 😒",
+          "created_at": "2026-05-13T16:39:20.416Z",
+          "indexed_at": "2026-05-13T16:39:21.776Z",
+          "author": {
+            "did": "did:plc:3tejde5kma6gzin4dkdtm2pk",
+            "handle": "ergizpogachev.bsky.social",
+            "display_name": "Nisha"
+          },
+          "like_count": 0,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 0
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:vovinwhtulbsx4mwfw26r5ni/app.bsky.feed.post/3mlgodznt6q2v",
+      "cid": "bafyreid2tim3vc2dotfx4vplnwlf6bwkbh6yf2c2dfmyhnfaluy7rt7dma",
+      "text": "What I saw at the Musk-OpenAI trial: petty billionaires, protests and a stern judge",
+      "created_at": "2026-05-09T16:33:48.771Z",
+      "indexed_at": "2026-05-09T16:33:49.677Z",
+      "author": {
+        "did": "did:plc:vovinwhtulbsx4mwfw26r5ni",
+        "handle": "theguardian.com",
+        "display_name": "The Guardian"
+      },
+      "like_count": 124,
+      "repost_count": 33,
+      "reply_count": 9,
+      "quote_count": 1,
+      "engagement_score": 264,
+      "source_queries": [
+        "OpenAI"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:qaggllol7v6gljd5wni635fw/app.bsky.feed.post/3mlgoihy6o225",
+          "cid": "bafyreiacnulfwhlbs7l23xypkxlycwmjbl36vabmotinjj4ijgb7a26r5e",
+          "text": "Every billionaire is a policy failure.",
+          "created_at": "2026-05-09T16:36:18.192Z",
+          "indexed_at": "2026-05-09T16:36:34.674Z",
+          "author": {
+            "did": "did:plc:qaggllol7v6gljd5wni635fw",
+            "handle": "diggleruk.bsky.social",
+            "display_name": ""
+          },
+          "like_count": 6,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 6
+        },
+        {
+          "uri": "at://did:plc:imflirhxfuknjzemy7utjaqa/app.bsky.feed.post/3mlgoqyyozk2i",
+          "cid": "bafyreib477t4wz4y4lqk65hkgo34abdzszr67ct4vlxogiw2fg3dmxni4q",
+          "text": "",
+          "created_at": "2026-05-09T16:41:04.468Z",
+          "indexed_at": "2026-05-09T16:41:08.871Z",
+          "author": {
+            "did": "did:plc:imflirhxfuknjzemy7utjaqa",
+            "handle": "charlene411.bsky.social",
+            "display_name": "Ain’t Complicit 🇺🇸"
+          },
+          "like_count": 5,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 5
+        },
+        {
+          "uri": "at://did:plc:gthm4nhmdsoc5kbthctzdpso/app.bsky.feed.post/3mlgojjibck22",
+          "cid": "bafyreifkhwfhwxshyhhap4pw73rdbi7zipe372fri55qayt26nmp27mnga",
+          "text": "A Few Judges Later                     bsky.app/profile/off-...",
+          "created_at": "2026-05-09T16:36:53.323Z",
+          "indexed_at": "2026-05-09T16:36:55.171Z",
+          "author": {
+            "did": "did:plc:gthm4nhmdsoc5kbthctzdpso",
+            "handle": "off-dutch.bsky.social",
+            "display_name": "Off_Dutch"
+          },
+          "like_count": 1,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 1
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:nen5qyy7kh3wp6lbrhrfb2ee/app.bsky.feed.post/3mlrk2hmsp22m",
+      "cid": "bafyreiepf7qlai6kixxyq2fbgctyguolhrexqvhtam4bqn7x3s6iv635qu",
+      "text": "Estas promos vergonzosas de la IA me recuerdan a la promo de Borja Pavón para suscribirse a Eurogamer\n\"Antes evitaba chatgpt y ahora lo busco. La cantidad de gases que genera mi cuerpo ha descendido drásticamente desde que uso IA. Ahora mi expresión es más como de júbilo\"",
+      "created_at": "2026-05-14T00:16:10.210Z",
+      "indexed_at": "2026-05-14T00:16:11.170Z",
+      "author": {
+        "did": "did:plc:nen5qyy7kh3wp6lbrhrfb2ee",
+        "handle": "andrestrasado.bsky.social",
+        "display_name": "Andrés Trasado"
+      },
+      "like_count": 156,
+      "repost_count": 16,
+      "reply_count": 11,
+      "quote_count": 0,
+      "engagement_score": 248,
+      "source_queries": [
+        "ChatGPT"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:nen5qyy7kh3wp6lbrhrfb2ee/app.bsky.feed.post/3mlrk5nnkes2m",
+          "cid": "bafyreicg4roy57apczuxmpfwqsivzzgzeods4gxujfshjjchj4ctfgt7pm",
+          "text": "\"La IA nos ha dado superpoderes\"",
+          "created_at": "2026-05-14T00:17:57.176Z",
+          "indexed_at": "2026-05-14T00:17:59.875Z",
+          "author": {
+            "did": "did:plc:nen5qyy7kh3wp6lbrhrfb2ee",
+            "handle": "andrestrasado.bsky.social",
+            "display_name": "Andrés Trasado"
+          },
+          "like_count": 168,
+          "repost_count": 31,
+          "reply_count": 4,
+          "quote_count": 0,
+          "engagement_score": 277
+        },
+        {
+          "uri": "at://did:plc:63w77mh5r6tgpznz32qh6yuk/app.bsky.feed.post/3mlrl4cricc2z",
+          "cid": "bafyreicqmkbm4vk7vxxcyirpxpuvmhes5fhwwxdwk22ifiy33voxossoa4",
+          "text": "Willyrex y los NFTs 🫪",
+          "created_at": "2026-05-14T00:35:05.973Z",
+          "indexed_at": "2026-05-14T00:35:07.178Z",
+          "author": {
+            "did": "did:plc:63w77mh5r6tgpznz32qh6yuk",
+            "handle": "kakunvdm.bsky.social",
+            "display_name": ""
+          },
+          "like_count": 4,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 4
+        },
+        {
+          "uri": "at://did:plc:5bbamj6yy3rakdvrnmeihfhd/app.bsky.feed.post/3mlsffx7dt22r",
+          "cid": "bafyreihshjtodohmzv7yunc6klf5oupfnrdw7qxllnqhdigv6yzmtxcquq",
+          "text": "Yo soy senior, y paso (lo que puedo) de la p*** IA.",
+          "created_at": "2026-05-14T08:25:46.677Z",
+          "indexed_at": "2026-05-14T08:25:47.774Z",
+          "author": {
+            "did": "did:plc:5bbamj6yy3rakdvrnmeihfhd",
+            "handle": "enriking.bsky.social",
+            "display_name": "EnriKing 🦋☮️📚🌍🍉"
+          },
+          "like_count": 3,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 3
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:gexyzhqlp5r7kart7lw4jgzb/app.bsky.feed.post/3mlr3wjf6o22p",
+      "cid": "bafyreic4fp6tv5rw3mydt4tfiur2jfiyqe6g5pl24l3k2nshe23k5yo6zm",
+      "text": "with OpenAI endorsing KOSA, i'd have to go double check, but i'm pretty sure there are more Big Tech companies that support it than oppose it at this point. \n\nsurely that means Blumenthal will stop smearing everyone who opposes his dangerous and poorly written bill as \"shills for big tech\" right?",
+      "created_at": "2026-05-13T20:03:25.455Z",
+      "indexed_at": "2026-05-13T20:03:25.672Z",
+      "author": {
+        "did": "did:plc:gexyzhqlp5r7kart7lw4jgzb",
+        "handle": "evangreer.bsky.social",
+        "display_name": "Evan Greer"
+      },
+      "like_count": 94,
+      "repost_count": 39,
+      "reply_count": 3,
+      "quote_count": 2,
+      "engagement_score": 233,
+      "source_queries": [
+        "OpenAI"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:dwliycqc2o56ek6bnxc65fdn/app.bsky.feed.post/3mlr4cvvovc2e",
+          "cid": "bafyreif3cuh5vud2i6dbpcr4pqjgxryyg3l3tfo3jgwiaqmtcmvbuspdpe",
+          "text": "Reminder to everyone that could be a markup in a few weeks. So here a list of bad US internet bills and how to contact your Rep.\n\nwww.badinternetbills.com",
+          "created_at": "2026-05-13T20:10:21.234Z",
+          "indexed_at": "2026-05-13T20:10:25.675Z",
+          "author": {
+            "did": "did:plc:dwliycqc2o56ek6bnxc65fdn",
+            "handle": "fishqueen.bsky.social",
+            "display_name": "The Vampire Fish Queen"
+          },
+          "like_count": 13,
+          "repost_count": 6,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 31
+        },
+        {
+          "uri": "at://did:plc:upmjygwhb4lpqkne3hqsykks/app.bsky.feed.post/3mlr4cwhwus2o",
+          "cid": "bafyreieq5ywtwstgrqrt4kzxwl4x2v6vpesaocbqoahrrl4lkw34uzam3q",
+          "text": "what a poisoned endorsement. The public does not care about what kinda ai company they are, all they know is it's an ai company and they hate ai. it will prob spur MORE backlash.",
+          "created_at": "2026-05-13T20:10:21.832Z",
+          "indexed_at": "2026-05-13T20:10:22.075Z",
+          "author": {
+            "did": "did:plc:upmjygwhb4lpqkne3hqsykks",
+            "handle": "spaceds8008s.bsky.social",
+            "display_name": "Space Man"
+          },
+          "like_count": 10,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 14
+        },
+        {
+          "uri": "at://did:plc:i34gvdziid6w5tf7s625wa7y/app.bsky.feed.post/3mlrc5zikv22i",
+          "cid": "bafyreihocu5oktphuprzimzwinfdno4po7hp2lu43o3wl3rlikhl2gjkva",
+          "text": "He sucks so much. Replacement level\nDem at best.",
+          "created_at": "2026-05-13T21:54:59.677Z",
+          "indexed_at": "2026-05-13T21:55:00.073Z",
+          "author": {
+            "did": "did:plc:i34gvdziid6w5tf7s625wa7y",
+            "handle": "honestdenverman.bsky.social",
+            "display_name": ""
+          },
+          "like_count": 3,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 3
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:fdbks7ugpy5i6nweuhffho4b/app.bsky.feed.post/3mlok5ci6wk2f",
+      "cid": "bafyreifxwwgfbtzh6claowjcsryiymzk4gb4kngwvgrevlzc2xkrw35eyy",
+      "text": "starting to see why these people ask chatgpt to write everything for them\n\nthat reads like it was choked out by a sewer mutant",
+      "created_at": "2026-05-12T19:39:46.266Z",
+      "indexed_at": "2026-05-12T19:39:45.272Z",
+      "author": {
+        "did": "did:plc:fdbks7ugpy5i6nweuhffho4b",
+        "handle": "ubergreen.northsky.social",
+        "display_name": "⚔️𝖙𝖍𝖊 𝖑𝖎𝖈𝖙𝖔𝖗 𝖔𝖋 𝖙𝖍𝖗𝖆𝖘𝖍⚔️"
+      },
+      "like_count": 221,
+      "repost_count": 1,
+      "reply_count": 1,
+      "quote_count": 0,
+      "engagement_score": 228,
+      "source_queries": [
+        "ChatGPT"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:vrvdpj7oehyo65maor5qdjzu/app.bsky.feed.post/3mlokqwzrp22o",
+          "cid": "bafyreieicr5prgar3pb4enzafzoar7hiysqx353f6tt37lk3kb6vqtdfem",
+          "text": "\"Begs to as what about experiencing the web in general?\"\n\nWhat do you mean? This doesn't make sense to you? She is a very talented writer /s",
+          "created_at": "2026-05-12T19:50:45.349Z",
+          "indexed_at": "2026-05-12T19:50:46.176Z",
+          "author": {
+            "did": "did:plc:vrvdpj7oehyo65maor5qdjzu",
+            "handle": "denimglasses.bsky.social",
+            "display_name": "DenimGlasses"
+          },
+          "like_count": 75,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 75
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:uufz3dvrdnbm6ptii46y7j7u/app.bsky.feed.post/3mljuasvvik2o",
+      "cid": "bafyreidnzlxgzgzlnrfxnihym7dvtox3exf3xihcc2npuav2ylqpchydea",
+      "text": "Indefensible for educators (or anybody) to continue to use OpenAI products.",
+      "created_at": "2026-05-10T22:57:22.882Z",
+      "indexed_at": "2026-05-10T22:57:23.372Z",
+      "author": {
+        "did": "did:plc:uufz3dvrdnbm6ptii46y7j7u",
+        "handle": "charleswlogan.bsky.social",
+        "display_name": "Charles Logan"
+      },
+      "like_count": 98,
+      "repost_count": 37,
+      "reply_count": 3,
+      "quote_count": 1,
+      "engagement_score": 226,
+      "source_queries": [
+        "OpenAI"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:c546tpyb4rcn3bjzbb63itsx/app.bsky.feed.post/3mllv4qel4k2a",
+          "cid": "bafyreifbcos45hlvw5x5ogtn2vh3uqjxlwhhox7pf7kzzjjxzsfzh2zdwq",
+          "text": "Yes and Instructure (company that owns Canvas) has a partnership with OpenAI",
+          "created_at": "2026-05-11T18:18:19.219Z",
+          "indexed_at": "2026-05-11T18:18:19.776Z",
+          "author": {
+            "did": "did:plc:c546tpyb4rcn3bjzbb63itsx",
+            "handle": "heatherleslie.bsky.social",
+            "display_name": "Dr. Heather Leslie"
+          },
+          "like_count": 1,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 5
+        },
+        {
+          "uri": "at://did:plc:cpmjppob3kswdrpr4oeo4cof/app.bsky.feed.post/3mlkplloqz22z",
+          "cid": "bafyreidcbvyvdlba5ki4xt6ap2gxv22kml52jijdfcl4vyejmpw3h6bvja",
+          "text": "Remove the “Open” & remains true\n\nEducators REALLY should know better. I recently left the Silicon Valley campus that prides itself on generating IT pricks. Reason #1? Colleagues gulping *all* the koolaids. I was seeking exit strategies well b4 Dump 2.0 put the lives of my family in the crosshairs",
+          "created_at": "2026-05-11T07:06:35.437Z",
+          "indexed_at": "2026-05-11T07:06:35.972Z",
+          "author": {
+            "did": "did:plc:cpmjppob3kswdrpr4oeo4cof",
+            "handle": "gabriellehecht.bsky.social",
+            "display_name": "Gabrielle Hecht • 🇵🇷 • she/elle/ella/cis⚔️ • AOC 4 president"
+          },
+          "like_count": 1,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 1
+        },
+        {
+          "uri": "at://did:plc:fhj7zqi5jd5jvronc6ik7kzu/app.bsky.feed.post/3mllp4bkuuc2o",
+          "cid": "bafyreieosebpeiraed2nbby7n5wmkcxzy3hhg7tqrqu7d5hdwt4o2fs5qm",
+          "text": "so disgusting. pure criminal intent. crush it!",
+          "created_at": "2026-05-11T16:30:41.246Z",
+          "indexed_at": "2026-05-11T16:30:41.775Z",
+          "author": {
+            "did": "did:plc:fhj7zqi5jd5jvronc6ik7kzu",
+            "handle": "cowenwriter.bsky.social",
+            "display_name": "Catherine Owen"
+          },
+          "like_count": 0,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 0
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:rrjvo5jwuateqep2i7ih5ckl/app.bsky.feed.post/3mlomplpsi22q",
+      "cid": "bafyreiboeg6meysqovwyldbays73pefn6oosalqkmfgk4ygw4glcdjippq",
+      "text": "Anyway, my point is: All the \"how to use ChatGPT\" workshops in the world are not going to \"fix\" lagging AI adoption if the actual problem is that many people have deep ethical objections to AI.\n\nSee also: the AI gender gap.",
+      "created_at": "2026-05-12T20:25:47.414Z",
+      "indexed_at": "2026-05-12T20:25:48.077Z",
+      "author": {
+        "did": "did:plc:rrjvo5jwuateqep2i7ih5ckl",
+        "handle": "cfiesler.bsky.social",
+        "display_name": "Dr. Casey Fiesler"
+      },
+      "like_count": 143,
+      "repost_count": 20,
+      "reply_count": 3,
+      "quote_count": 2,
+      "engagement_score": 225,
+      "source_queries": [
+        "ChatGPT"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:rrjvo5jwuateqep2i7ih5ckl/app.bsky.feed.post/3mlor52h4ls2x",
+          "cid": "bafyreiatarc67y7lhhcri2e3b7cvj6w26oersmuuytljnhk4aiex2il55q",
+          "text": "While I have the attention of folks thinking about this topic: Please share recent published (or pre-print) research that explores reasons for or prevalence of gen AI non-use. It's funny how even things published a year ago are starting to feel a bit dusty and I'd like to know if I'm missing things!",
+          "created_at": "2026-05-12T21:44:54.036Z",
+          "indexed_at": "2026-05-12T21:44:54.674Z",
+          "author": {
+            "did": "did:plc:rrjvo5jwuateqep2i7ih5ckl",
+            "handle": "cfiesler.bsky.social",
+            "display_name": "Dr. Casey Fiesler"
+          },
+          "like_count": 35,
+          "repost_count": 3,
+          "reply_count": 2,
+          "quote_count": 0,
+          "engagement_score": 52
+        },
+        {
+          "uri": "at://did:plc:ebf4pdz3mhrxtwjldqfl6kii/app.bsky.feed.post/3mlop3cuytk2a",
+          "cid": "bafyreib3loj6zhs2hg6cwwcwiynrsp6uttcpiyh6o73izucndgsrfxx7je",
+          "text": "In NYC this week:",
+          "created_at": "2026-05-12T21:08:08.285Z",
+          "indexed_at": "2026-05-12T21:08:10.971Z",
+          "author": {
+            "did": "did:plc:ebf4pdz3mhrxtwjldqfl6kii",
+            "handle": "goodnessispower.bsky.social",
+            "display_name": "Don’t follow me. Just don’t."
+          },
+          "like_count": 2,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 2
+        },
+        {
+          "uri": "at://did:plc:qnnbtstx3a4edcwu2jkz4h7d/app.bsky.feed.post/3mlq7udvpek2m",
+          "cid": "bafyreifwieupwgep7uqdg34epshdykhyv4g5g27bqaxto3accuqoo4r3xm",
+          "text": "The at-home AI gender gap statistics appear to be a downstream effect of women having less leisure time due to more responsibility for kids and chores. The at-work gap is really interesting to me, though, because, despite predictions that women-filled roles are at greater risk of elimination, +",
+          "created_at": "2026-05-13T11:41:07.826Z",
+          "indexed_at": "2026-05-13T11:41:09.171Z",
+          "author": {
+            "did": "did:plc:qnnbtstx3a4edcwu2jkz4h7d",
+            "handle": "aaronsterling.bsky.social",
+            "display_name": "Aaron Sterling"
+          },
+          "like_count": 0,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 4
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:plike46pn6bnig6vfoo6tzzj/app.bsky.feed.post/3mljw3zqsus2w",
+      "cid": "bafyreiaoagnjbtyp4k5jtjoqcab764sc67mzndzv3iannhq6zkm5onf6om",
+      "text": "If ChatGPT were a person, they would be an accomplice to the FSU shooter's crimes. It aided and abetted while exhibiting the requisite mens rea based on the chats. We should be asking why we are allowing this to continue simply because ChatGPT is non-human.",
+      "created_at": "2026-05-10T23:30:29.767Z",
+      "indexed_at": "2026-05-10T23:30:29.977Z",
+      "author": {
+        "did": "did:plc:plike46pn6bnig6vfoo6tzzj",
+        "handle": "coreyryung.bsky.social",
+        "display_name": "Corey Rayburn Yung"
+      },
+      "like_count": 84,
+      "repost_count": 29,
+      "reply_count": 6,
+      "quote_count": 2,
+      "engagement_score": 205,
+      "source_queries": [
+        "ChatGPT"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:plike46pn6bnig6vfoo6tzzj/app.bsky.feed.post/3mljw7erips2w",
+          "cid": "bafyreidi6p3byg4lfarcomsvp5crcmsrfffk43aesitn2y7clw4lzothk4",
+          "text": "Tort liability cannot properly address and deter what is otherwise criminal activity. Either criminal law should be applied to ChatGPT's leaders or the product should be pulled from the market (until such conduct can be guaranteed not to occur).",
+          "created_at": "2026-05-10T23:32:21.988Z",
+          "indexed_at": "2026-05-10T23:32:22.075Z",
+          "author": {
+            "did": "did:plc:plike46pn6bnig6vfoo6tzzj",
+            "handle": "coreyryung.bsky.social",
+            "display_name": "Corey Rayburn Yung"
+          },
+          "like_count": 24,
+          "repost_count": 2,
+          "reply_count": 2,
+          "quote_count": 1,
+          "engagement_score": 43
+        },
+        {
+          "uri": "at://did:plc:mlmmqj55ov7vrxqk44f4vmy5/app.bsky.feed.post/3mljwkld2zc2r",
+          "cid": "bafyreia32x4hskgxhap67g6fvnm4mi6yu26ck5jtebldvm2ggxxdldiqme",
+          "text": "I get there are real and reasoned arguments against strict liability as it could effectively compel speech (re: moderation) or invasion of privacy (re: monitoring the chats by Corp actors), but frankly those arguments aren't as compelling to me as just simple faulty product design.",
+          "created_at": "2026-05-10T23:38:37.954Z",
+          "indexed_at": "2026-05-10T23:38:38.773Z",
+          "author": {
+            "did": "did:plc:mlmmqj55ov7vrxqk44f4vmy5",
+            "handle": "projectazar.com",
+            "display_name": "Project Azar"
+          },
+          "like_count": 4,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 8
+        },
+        {
+          "uri": "at://did:plc:ys2vfoqlg5apny7ixrffozad/app.bsky.feed.post/3mljxfvyf7s2w",
+          "cid": "bafyreih5l2a7be36sh56f57esdkt77iknu7bruro62f4a5kcfv4nvmzqi4",
+          "text": "It doesn’t have the requisite mens rea because it doesn’t have a mens. It can’t form intent because it has no consciousness. \n\nIts owners and programmers do, though, and they should be held ruinously liable for this and the other offenses they - not it - have committed.",
+          "created_at": "2026-05-10T23:53:55.108Z",
+          "indexed_at": "2026-05-10T23:53:55.576Z",
+          "author": {
+            "did": "did:plc:ys2vfoqlg5apny7ixrffozad",
+            "handle": "cjthered.bsky.social",
+            "display_name": "Chris"
+          },
+          "like_count": 2,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 6
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:gpi3j2si3fzote4fgw6ycpiz/app.bsky.feed.post/3mljw3nqxoc2z",
+      "cid": "bafyreiavjfd7lxv6iq3dfv5q6axagbcirsv5apsomeonexvf3c2da5ugry",
+      "text": "Q: You know who is not going to jail? \n\nA: ChatGPT\n\nChatGPT advised the FSU shooter that a mass shooting would get more attention from media if it involved several children, according to a new lawsuit against OpenAI\n\nwww.nbcnews.com/news/us-news...",
+      "created_at": "2026-05-10T23:30:17.189Z",
+      "indexed_at": "2026-05-10T23:30:19.373Z",
+      "author": {
+        "did": "did:plc:gpi3j2si3fzote4fgw6ycpiz",
+        "handle": "jennburrill.bsky.social",
+        "display_name": "Jenn"
+      },
+      "like_count": 58,
+      "repost_count": 33,
+      "reply_count": 2,
+      "quote_count": 6,
+      "engagement_score": 195,
+      "source_queries": [
+        "OpenAI"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:wovz3whdkughp6decczypkqq/app.bsky.feed.post/3mljwhcqysc24",
+          "cid": "bafyreieljgruavku7zpn4qoijuzpuxlqme4mavda2qyo73bmmykixlfm5e",
+          "text": "Don't be so sure.  www.myfloridalegal.com/newsrelease/...",
+          "created_at": "2026-05-10T23:36:48.308Z",
+          "indexed_at": "2026-05-10T23:36:49.773Z",
+          "author": {
+            "did": "did:plc:wovz3whdkughp6decczypkqq",
+            "handle": "adambonin.bsky.social",
+            "display_name": "Adam Bonin"
+          },
+          "like_count": 6,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 1,
+          "engagement_score": 11
+        },
+        {
+          "uri": "at://did:plc:ofpldesfu3ajm3l7w6j52wnd/app.bsky.feed.post/3mlkcvruw7k2a",
+          "cid": "bafyreidauq7r4ksdtbl6t5akdghu36mqntqtgfwa2gu6v5rlfvg34vq3fm",
+          "text": "I will believe corporations are people when Florida executes one of them.\n\nThat time may be coming.",
+          "created_at": "2026-05-11T03:19:38.831Z",
+          "indexed_at": "2026-05-11T03:19:39.474Z",
+          "author": {
+            "did": "did:plc:ofpldesfu3ajm3l7w6j52wnd",
+            "handle": "charliemas.bsky.social",
+            "display_name": "Charlie Mas"
+          },
+          "like_count": 2,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 2
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:wmho6q2uiyktkam3jsvrms3s/app.bsky.feed.post/3mlr2mrhf762t",
+      "cid": "bafyreidkgyaxgha4yek6sltjor5bgywkjxceguvlqa2uotnxhuy7bys2xm",
+      "text": "Elon Musk has traveled to China with President Trump, despite his ongoing trial over his lawsuit with OpenAI and a federal judge’s order that he remain at the ready to be recalled to testify at short notice.",
+      "created_at": "2026-05-13T19:40:04Z",
+      "indexed_at": "2026-05-13T19:40:05.487Z",
+      "author": {
+        "did": "did:plc:wmho6q2uiyktkam3jsvrms3s",
+        "handle": "nbcnews.com",
+        "display_name": "NBC News"
+      },
+      "like_count": 35,
+      "repost_count": 21,
+      "reply_count": 19,
+      "quote_count": 4,
+      "engagement_score": 194,
+      "source_queries": [
+        "OpenAI"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:qonn4mlrmc6py35stphgrt7w/app.bsky.feed.post/3mlr2uou32226",
+          "cid": "bafyreibqk4vljmq4dakqservsh76qh5b37lt6yxswvuajy4ukx2juaqqva",
+          "text": "Flying under the protectiive wing of a convicted felon...",
+          "created_at": "2026-05-13T19:44:30.336Z",
+          "indexed_at": "2026-05-13T19:44:31.474Z",
+          "author": {
+            "did": "did:plc:qonn4mlrmc6py35stphgrt7w",
+            "handle": "dralant.bsky.social",
+            "display_name": "🖐️ DrAlanT 🎬 📚 📎"
+          },
+          "like_count": 6,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 6
+        },
+        {
+          "uri": "at://did:plc:zza4f3pdbt5umnfvb2zimtt7/app.bsky.feed.post/3mlr2uj4d5s2m",
+          "cid": "bafyreiaudykn6oelhubvn7hfjnjr2szt7wcok2eo2gm37t4z3esz7c22uu",
+          "text": "If any of the rich and powerful just once had to live by normal laws and what 99% can’t get away with, it’d be the first time.",
+          "created_at": "2026-05-13T19:44:24.316Z",
+          "indexed_at": "2026-05-13T19:44:24.680Z",
+          "author": {
+            "did": "did:plc:zza4f3pdbt5umnfvb2zimtt7",
+            "handle": "m40dotcom.bsky.social",
+            "display_name": "Marc Bloomquist"
+          },
+          "like_count": 6,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 6
+        },
+        {
+          "uri": "at://did:plc:wgcex3fkvjuyd3233uav7yk5/app.bsky.feed.post/3mlrecxjapc2g",
+          "cid": "bafyreihtrg4mbdvaynr2fgfyaakebegmqnb6zsml3baqaf2nngzuwejkyi",
+          "text": "So what if the judge fines him $1M or even $10M for not appearing. That is peanuts for Musk. And Trump will probably pardon him if he gets jail sentence.",
+          "created_at": "2026-05-13T22:33:32.858Z",
+          "indexed_at": "2026-05-13T22:31:55.772Z",
+          "author": {
+            "did": "did:plc:wgcex3fkvjuyd3233uav7yk5",
+            "handle": "geertcuypers.bsky.social",
+            "display_name": "Geert Cuypers"
+          },
+          "like_count": 1,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 1
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:5goslz5l3ggwpoxqtneh5fjc/app.bsky.feed.post/3mlqm3hy5bs2q",
+      "cid": "bafyreifsgdc6alnqanrl7m5md7tguijox7kk4qh2hpix4eycn7nt2psgye",
+      "text": "I wonder if it's a reference to that MIT paper 'Your brain on chatgpt', which had three groups of writers, one of which was called the brain-only group.\n\nwww.media.mit.edu/projects/you...",
+      "created_at": "2026-05-13T15:19:51.884Z",
+      "indexed_at": "2026-05-13T15:19:57.373Z",
+      "author": {
+        "did": "did:plc:5goslz5l3ggwpoxqtneh5fjc",
+        "handle": "ergative-abs.bsky.social",
+        "display_name": "Ergative Absolutive"
+      },
+      "like_count": 142,
+      "repost_count": 9,
+      "reply_count": 2,
+      "quote_count": 3,
+      "engagement_score": 192,
+      "source_queries": [
+        "ChatGPT"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:fs6z2b756buwsdsjkle6utfi/app.bsky.feed.post/3mlqmd26d5c23",
+          "cid": "bafyreibprgagavprp6iqwkk3acqjp2az3flqjadpwlzfje2ecljp3e23yu",
+          "text": "ah funny",
+          "created_at": "2026-05-13T15:24:05.841Z",
+          "indexed_at": "2026-05-13T15:24:05.673Z",
+          "author": {
+            "did": "did:plc:fs6z2b756buwsdsjkle6utfi",
+            "handle": "thelincoln.bsky.social",
+            "display_name": "Lincoln Michel"
+          },
+          "like_count": 17,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 17
+        },
+        {
+          "uri": "at://did:plc:vxbszkvy27ric6lg537xquyv/app.bsky.feed.post/3mlqueakzvk2n",
+          "cid": "bafyreihioquauztyu6yepbh6usvsunlsptt7qkdgjjmyuqh2hlc6yuklji",
+          "text": "Including a list of no-no words for describing the study is hilarious 😂",
+          "created_at": "2026-05-13T17:47:56.038Z",
+          "indexed_at": "2026-05-13T17:47:56.872Z",
+          "author": {
+            "did": "did:plc:vxbszkvy27ric6lg537xquyv",
+            "handle": "imaginesirikeeton.bsky.social",
+            "display_name": "Feminecronomicon 🏳️‍⚧️"
+          },
+          "like_count": 7,
+          "repost_count": 0,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 11
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:vovinwhtulbsx4mwfw26r5ni/app.bsky.feed.post/3mln47oq6rt2o",
+      "cid": "bafyreiddklbx6wpci3yqhjrj3zoggelji2pxcvexe5qgteadvip2pccubq",
+      "text": "‘A consistent pattern of lying’: Musk v OpenAI trial exposes what insiders think of Sam Altman",
+      "created_at": "2026-05-12T05:57:53.635Z",
+      "indexed_at": "2026-05-12T05:57:55.175Z",
+      "author": {
+        "did": "did:plc:vovinwhtulbsx4mwfw26r5ni",
+        "handle": "theguardian.com",
+        "display_name": "The Guardian"
+      },
+      "like_count": 67,
+      "repost_count": 24,
+      "reply_count": 7,
+      "quote_count": 3,
+      "engagement_score": 182,
+      "source_queries": [
+        "OpenAI"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:qdxmsqaqt2wbhslvujmd2wcd/app.bsky.feed.post/3mln4fu6ihk2b",
+          "cid": "bafyreic4uwwrcn2fpfjoeb5fk5kjchduj2db2o5fqc7hiqa6ct33co5ljq",
+          "text": "His own board has said that he's a mixture of pathetically keen for approval (and willing to say anything to get it), and totally uninterested in facts.\n\nSounds like anything? #chatgpt",
+          "created_at": "2026-05-12T06:01:21.134Z",
+          "indexed_at": "2026-05-12T06:01:22.677Z",
+          "author": {
+            "did": "did:plc:qdxmsqaqt2wbhslvujmd2wcd",
+            "handle": "fernly.eurosky.social",
+            "display_name": "headdesking"
+          },
+          "like_count": 4,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 4
+        },
+        {
+          "uri": "at://did:plc:42ncxi3axyiwjukl35l3kyx4/app.bsky.feed.post/3mlnpcqvvgk2j",
+          "cid": "bafyreigwdoftmlxdit7gz4d5xdnxgzxt5yuwf5gu4kxjmq6x6lggflxjvu",
+          "text": "I’m sorry… are we talking about Trump or Musk?",
+          "created_at": "2026-05-12T11:39:38.139Z",
+          "indexed_at": "2026-05-12T11:39:38.972Z",
+          "author": {
+            "did": "did:plc:42ncxi3axyiwjukl35l3kyx4",
+            "handle": "erlichmanr.bsky.social",
+            "display_name": "JustSomeGuy"
+          },
+          "like_count": 2,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 2
+        },
+        {
+          "uri": "at://did:plc:nqfafodc3rts3wsebhgzyl4z/app.bsky.feed.post/3mln4wyeqys2w",
+          "cid": "bafyreiczzvoylv5shaei3c6vbj7uf22hctbgkm3hpb5zmplgdiqcfjdl7a",
+          "text": "Whut?  There is no honor among low-life thieving billionaires?  I am shocked.",
+          "created_at": "2026-05-12T06:10:55.959Z",
+          "indexed_at": "2026-05-12T06:10:56.874Z",
+          "author": {
+            "did": "did:plc:nqfafodc3rts3wsebhgzyl4z",
+            "handle": "fmdtop.bsky.social",
+            "display_name": ""
+          },
+          "like_count": 2,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 2
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:wb4judvgfjbiqu646hkggjxc/app.bsky.feed.post/3mlm5jxbsny2m",
+      "cid": "bafyreida3vjjvqawtaaovl6biiewvj3rlbysuutghutjw42ustjxarhhta",
+      "text": "The widow of a man killed in last year's mass shooting at Florida State University is suing ChatGPT maker OpenAI, blaming the company's artificial intelligence chatbot for giving advice on how to carry out the rampage.\n\nwww.mississippifreepress.org/lawsuit-blam...",
+      "created_at": "2026-05-11T20:48:51.918Z",
+      "indexed_at": "2026-05-11T20:48:53.075Z",
+      "author": {
+        "did": "did:plc:wb4judvgfjbiqu646hkggjxc",
+        "handle": "mississippifreepress.org",
+        "display_name": "Mississippi Free Press"
+      },
+      "like_count": 67,
+      "repost_count": 33,
+      "reply_count": 2,
+      "quote_count": 1,
+      "engagement_score": 179,
+      "source_queries": [
+        "OpenAI"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:a2hauqb7zpg6owr62kl4fxpx/app.bsky.feed.post/3mlmbmmgvtc2r",
+          "cid": "bafyreiaufxmmpirjmbz3jnpp3czhw6qcm4hheku3sj3zbomgxdjq4rxq7i",
+          "text": "Few more such suits, AI will be a thing of the past.",
+          "created_at": "2026-05-11T22:01:56.874Z",
+          "indexed_at": "2026-05-11T22:01:57.179Z",
+          "author": {
+            "did": "did:plc:a2hauqb7zpg6owr62kl4fxpx",
+            "handle": "churchlady320.bsky.social",
+            "display_name": "churchlady320"
+          },
+          "like_count": 1,
+          "repost_count": 1,
+          "reply_count": 1,
+          "quote_count": 0,
+          "engagement_score": 8
+        }
+      ]
+    },
+    {
+      "uri": "at://did:plc:mt3o2cf5fqpyqbyalwkegzef/app.bsky.feed.post/3mlqictyies2w",
+      "cid": "bafyreidl5ghmjhjcmpbcw5zo6suj4ubfuat2gy3rb6rfvbem5httzqtiom",
+      "text": "Elon Musk's DOGE crew slashed critical government programs…using ChatGPT keyword searches. \n\nThen, unsurprisingly, struggled under oath to explain their own criteria.\n\nBuffoonery defines this administration.",
+      "created_at": "2026-05-13T14:12:24.391Z",
+      "indexed_at": "2026-05-13T14:12:23.775Z",
+      "author": {
+        "did": "did:plc:mt3o2cf5fqpyqbyalwkegzef",
+        "handle": "publiccitizen.bsky.social",
+        "display_name": "Public Citizen"
+      },
+      "like_count": 77,
+      "repost_count": 26,
+      "reply_count": 2,
+      "quote_count": 2,
+      "engagement_score": 173,
+      "source_queries": [
+        "ChatGPT"
+      ],
+      "replies": [
+        {
+          "uri": "at://did:plc:xxqnak6biuosjcmeg6nj65rf/app.bsky.feed.post/3mlqjlviwhk2p",
+          "cid": "bafyreifrhnrxd3o435xwpso3whz65unx55spwtzgba4tjqov45vrshqy7y",
+          "text": "And like rats in your trash, #DOGE, at #Elon 's behest (?) grabbed your #SocialSecurity # and all the sensitive data attached to it.\n\nAnd no, this isn't ok.\n\nReckless #corruption   A Hallmark of Everything #Trump\n\nAnd look what #SCOTUS did...",
+          "created_at": "2026-05-13T14:35:21.708Z",
+          "indexed_at": "2026-05-13T14:35:24.474Z",
+          "author": {
+            "did": "did:plc:xxqnak6biuosjcmeg6nj65rf",
+            "handle": "imaflosser.bsky.social",
+            "display_name": "ImaFlosser"
+          },
+          "like_count": 0,
+          "repost_count": 0,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 0
+        },
+        {
+          "uri": "at://did:plc:d6fem6f2sqvwuekmdwahquq6/app.bsky.feed.post/3mlqixjybac2h",
+          "cid": "bafyreiax6oztkijtheezyml6xvoxruwji4jzam6xoar4vnmryhnal5oqjm",
+          "text": "Dems have to commit to putting in place safeguards to avoid a repeat of the destructive force that emerged since 2017.  Here is a start of what is necessary",
+          "created_at": "2026-05-13T14:23:58.541Z",
+          "indexed_at": "2026-05-13T14:24:00.475Z",
+          "author": {
+            "did": "did:plc:d6fem6f2sqvwuekmdwahquq6",
+            "handle": "informationbank.bsky.social",
+            "display_name": ""
+          },
+          "like_count": 0,
+          "repost_count": 1,
+          "reply_count": 0,
+          "quote_count": 0,
+          "engagement_score": 3
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

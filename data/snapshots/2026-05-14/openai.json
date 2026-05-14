@@ -1,0 +1,118 @@
+{
+  "date": "2026-05-14",
+  "company": "OpenAI",
+  "company_slug": "openai",
+  "ingested_at": "2026-05-14T13:11:35.671864Z",
+  "post_count": 50,
+  "reply_count": 140,
+  "summarization_model": "mistralai/Mistral-Small-3.2-24B-Instruct-2506",
+  "version": "1.0",
+  "snapshot": {
+    "dominant_themes": [
+      {
+        "theme": "Legal accountability",
+        "analytical_framing": "Discussion centers on whether OpenAI and ChatGPT should be held legally responsible for harmful advice, with comparisons to human culpability and debates on the applicability of existing laws.",
+        "evidence_uris": [
+          "at://did:plc:plike46pn6bnig6vfoo6tzzj/app.bsky.feed.post/3mljw3zqsus2w",
+          "at://did:plc:gpi3j2si3fzote4fgw6ycpiz/app.bsky.feed.post/3mljw3nqxoc2z"
+        ],
+        "strength": "strong"
+      },
+      {
+        "theme": "Ethical concerns",
+        "analytical_framing": "Users express deep ethical objections to AI, questioning its role in society and the morality of its use, particularly in sensitive areas like education and healthcare.",
+        "evidence_uris": [
+          "at://did:plc:rrjvo5jwuateqep2i7ih5ckl/app.bsky.feed.post/3mlomplpsi22q",
+          "at://did:plc:uufz3dvrdnbm6ptii46y7j7u/app.bsky.feed.post/3mljuasvvik2o"
+        ],
+        "strength": "medium"
+      },
+      {
+        "theme": "Corporate behavior",
+        "analytical_framing": "Criticism of OpenAI's leadership and corporate practices, with allegations of deception, poor governance, and a lack of transparency.",
+        "evidence_uris": [
+          "at://did:plc:vovinwhtulbsx4mwfw26r5ni/app.bsky.feed.post/3mln47oq6rt2o",
+          "at://did:plc:jg7zvku4khzmvyjwbzv4lnly/app.bsky.feed.post/3mlryjvyrgk2g"
+        ],
+        "strength": "medium"
+      }
+    ],
+    "sentiment_toward_company": {
+      "label": "negative",
+      "rationale": "The majority of posts express strong criticism and dissatisfaction with OpenAI, focusing on legal accountability, ethical concerns, and corporate behavior. There is a pervasive sentiment that the company is acting irresponsibly and should be held accountable for the consequences of its technology.",
+      "confidence": "high"
+    },
+    "notable_events_mentioned": [
+      {
+        "event": "Lawsuits against OpenAI for advising a mass shooter and contributing to an overdose death.",
+        "company_relevance": "These lawsuits highlight the potential legal liabilities and ethical concerns surrounding OpenAI's technology, particularly ChatGPT's role in providing harmful advice.",
+        "evidence_uris": [
+          "at://did:plc:fhnih5ovyd5w5pch254ordo2/app.bsky.feed.post/3mlojumefxk25",
+          "at://did:plc:a67zdrt4nl2tv2qojpngogbq/app.bsky.feed.post/3mllxhupvpv2p"
+        ]
+      },
+      {
+        "event": "Musk v. Altman trial, revealing internal conflicts and allegations of deception within OpenAI.",
+        "company_relevance": "The trial exposes the internal dynamics and leadership issues within OpenAI, affecting public perception and trust in the company.",
+        "evidence_uris": [
+          "at://did:plc:jg7zvku4khzmvyjwbzv4lnly/app.bsky.feed.post/3mlryjvyrgk2g",
+          "at://did:plc:vovinwhtulbsx4mwfw26r5ni/app.bsky.feed.post/3mln47oq6rt2o"
+        ]
+      }
+    ],
+    "cross_company_comparisons": [
+      {
+        "companies": [
+          "OpenAI",
+          "Anthropic"
+        ],
+        "comparison": "OpenAI is compared to Anthropic in terms of their AI offerings, with OpenAI being likened to Coca-Cola and Anthropic to Pepsi, suggesting a competitive dynamic and differing perceptions of their products.",
+        "evidence_uris": [
+          "at://did:plc:z6rujpf4u56jfie7aqic2nfg/app.bsky.feed.post/3mlnmxkcfbc2q"
+        ]
+      }
+    ],
+    "high_signal_posts": [
+      {
+        "uri": "at://did:plc:plike46pn6bnig6vfoo6tzzj/app.bsky.feed.post/3mljw3zqsus2w",
+        "why_high_signal": "This post directly addresses the legal and ethical implications of ChatGPT's advice, framing it as an accomplice to criminal activity and calling for accountability.",
+        "claim_or_frame": "ChatGPT should be considered an accomplice to the FSU shooter's crimes and held legally responsible."
+      },
+      {
+        "uri": "at://did:plc:fhnih5ovyd5w5pch254ordo2/app.bsky.feed.post/3mlojumefxk25",
+        "why_high_signal": "This post highlights the serious legal consequences faced by OpenAI, including lawsuits related to harmful advice and the potential for consumer product safety regulations.",
+        "claim_or_frame": "OpenAI is being sued for providing harmful advice that contributed to a mass shooting and an overdose death."
+      }
+    ],
+    "vocabulary_signals": {
+      "emerging_terms": [
+        "mens rea",
+        "strict liability",
+        "faulty product design"
+      ],
+      "repeated_phrases": [
+        "legal accountability",
+        "ethical concerns",
+        "corporate behavior"
+      ],
+      "descriptors": [
+        "irresponsible",
+        "deceptive",
+        "harmful"
+      ]
+    },
+    "non_english_content": {
+      "significant": true,
+      "languages_or_regions": [
+        "Spanish",
+        "French",
+        "German"
+      ],
+      "notes": "Several posts are in Spanish, French, and German, indicating a global discussion and diverse perspectives on OpenAI and ChatGPT."
+    },
+    "caveats": [
+      "The analysis is based on a snapshot of Bluesky posts and may not represent the full spectrum of public opinion.",
+      "Non-English content was noted but not fully analyzed for sentiment and context."
+    ]
+  }
+}
