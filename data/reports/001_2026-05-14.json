@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "generated_at": "2026-05-14T13:21:49.142019Z",
+    "period": {
+      "start_date": "2026-05-06",
+      "end_date": "2026-05-14"
+    },
+    "snapshots_analyzed": 3,
+    "model": "openai/gpt-oss-120b",
+    "triggered_by": "manual",
+    "version": "1.0"
+  },
+  "narrative": {
+    "openai": "The current narrative around OpenAI is sharply negative, centering on legal accountability for harmful advice (lawsuits tied to a mass‑shooter and an overdose) and ethical concerns about its products. Posts also criticize corporate behavior, accusing leadership of deception, poor governance, and lack of transparency, framing the company as irresponsible.",
+    "anthropic": "Anthropic is portrayed through an ethical and environmental lens, with strong criticism of its corporate practices. Discussions highlight a partnership with Code for America and the use of the Colossus 1 data center, raising concerns about data usage, environmental impact, and broader AI ethics. Sentiment is predominantly negative.",
+    "deepmind": "DeepMind receives a mixed narrative. While there is criticism of Google’s Gemini integration, a significant thread celebrates DeepMind workers unionizing to prevent AI militarization, reflecting a positive ethical stance. Additional debate focuses on a DeepMind scientist’s claim that AI will never achieve consciousness, adding philosophical nuance.",
+    "meta_observations": [
+      "All three companies are subject to ethical scrutiny, but the specific focus differs: legal liability for OpenAI, environmental/ethical practices for Anthropic, and labor/philosophical issues for DeepMind.",
+      "Non‑English content is notable across all three, suggesting a global conversation that may contain additional themes not captured in the English‑language analysis."
+    ]
+  },
+  "drift_summary": {
+    "openai": {
+      "trajectory": "unclear",
+      "confidence": "low",
+      "key_shift": "none detected",
+      "shift_start": "unknown",
+      "primary_driver": "insufficient temporal data"
+    },
+    "anthropic": {
+      "trajectory": "unclear",
+      "confidence": "low",
+      "key_shift": "none detected",
+      "shift_start": "unknown",
+      "primary_driver": "insufficient temporal data"
+    },
+    "deepmind": {
+      "trajectory": "unclear",
+      "confidence": "low",
+      "key_shift": "none detected",
+      "shift_start": "unknown",
+      "primary_driver": "insufficient temporal data"
+    }
+  },
+  "comparative_findings": [
+    {
+      "finding": "Negative sentiment dominates OpenAI and Anthropic, while DeepMind shows a mixed sentiment due to unionization support.",
+      "confidence": "high",
+      "evidence": [
+        "OpenAI sentiment label: negative (high confidence)",
+        "Anthropic sentiment label: negative (high confidence)",
+        "DeepMind sentiment label: mixed (medium confidence)"
+      ]
+    },
+    {
+      "finding": "Ethical criticism is a common thread, but manifests as legal liability for OpenAI, environmental impact for Anthropic, and militarization concerns for DeepMind.",
+      "confidence": "high",
+      "evidence": [
+        "OpenAI themes: Legal accountability, Ethical concerns",
+        "Anthropic themes: AI ethics, Corporate practices (environmental)",
+        "DeepMind themes: Unionization (militarization), AI consciousness"
+      ]
+    },
+    {
+      "finding": "Unionization and anti‑militarization language appears only in DeepMind discourse, marking a distinct labor‑rights narrative.",
+      "confidence": "high",
+      "evidence": [
+        "DeepMind dominant theme: Unionization",
+        "No unionization themes in OpenAI or Anthropic snapshots"
+      ]
+    }
+  ],
+  "vocabulary_drift": {
+    "emerging": [
+      "ethical use",
+      "environmental impact",
+      "legal accountability",
+      "unionization",
+      "militarization of AI",
+      "AI consciousness",
+      "Gemini integration"
+    ],
+    "fading": []
+  },
+  "uncertainties": [
+    "Only a single day's snapshots are available; trends over the past 9 days cannot be established.",
+    "Non‑English posts were identified but not fully analyzed for sentiment or nuance.",
+    "Bluesky user base may not represent the broader public, introducing sample bias."
+  ]
+}
