@@ -1,0 +1,120 @@
+# Narrative Drift
+
+Vane monitors Bluesky for narrative drift around OpenAI, Anthropic, and Google DeepMind.
+
+It runs in five layers:
+
+1. Ingest top Bluesky posts for each company and associated service.
+2. Summarize each company/day into a structured JSON snapshot.
+3. Store raw ingestions, snapshots, and reports as flat JSON files.
+4. Reason across a rolling 9-day window.
+5. Save a machine-readable report with human-readable narrative paragraphs.
+
+## Setup
+
+Vane uses the OpenAI-compatible Berget API. Set one of these environment variables:
+
+```powershell
+$env:BERGET_API_KEY = "your-key"
+```
+
+Optional overrides:
+
+```powershell
+$env:BERGET_BASE_URL = "https://api.berget.ai/v1"
+$env:VANE_API_KEY = "your-key"
+$env:VANE_BASE_URL = "https://api.berget.ai/v1"
+```
+
+Install locally:
+
+```powershell
+python -m pip install -e .
+```
+
+## Commands
+
+Run daily ingestion and summarization for all three companies:
+
+```powershell
+vane daily
+```
+
+Create a rolling narrative drift report:
+
+```powershell
+vane report
+```
+
+When no date is supplied, reporting uses the latest available snapshot date.
+
+Useful narrower commands:
+
+```powershell
+vane ingest --company openai
+vane summarize --company openai
+vane report --days 9 --trigger manual
+```
+
+All dates are UTC. You can pass `--date YYYY-MM-DD` to run for a specific date.
+
+## Data Layout
+
+Raw Bluesky ingestions:
+
+```text
+data/raw/YYYY-MM-DD/company.json
+```
+
+Daily snapshots:
+
+```text
+data/snapshots/YYYY-MM-DD/company.json
+```
+
+Reports:
+
+```text
+data/reports/NNN_YYYY-MM-DD.json
+```
+
+## Bluesky Collection
+
+Vane calls the Bluesky AppView without authentication:
+
+- `app.bsky.feed.searchPosts` once for the company term and once for the service term.
+- `sort=top`, `limit=100`.
+- Deduplicates by `uri`.
+- Sorts by `likeCount + 3*repostCount + 4*replyCount + 5*quoteCount`.
+- Keeps the top 50 posts.
+- Calls `app.bsky.feed.getPostThread` for each kept post and stores the top 3 direct replies by `likeCount`.
+
+Gemini service posts are filtered client-side to keep AI-context posts only.
+
+If Bluesky starts requiring authentication for search in the future, `vane daily` will fail with the HTTP error from Bluesky.
+
+## Models
+
+Summarization:
+
+```text
+mistralai/Mistral-Small-3.2-24B-Instruct-2506
+```
+
+Reasoning:
+
+```text
+openai/gpt-oss-120b
+```
+
+## GitHub Actions
+
+Add `BERGET_API_KEY` as a repository secret.
+
+The included workflows:
+
+- Run ingestion and summarization daily at 23:52 UTC.
+- Run reporting every third calendar day and on manual dispatch.
+- Commit generated JSON files back to the repository.
+
+Never commit API keys. `.env` is ignored.
