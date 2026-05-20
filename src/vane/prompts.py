@@ -1,10 +1,17 @@
+"""System and user prompts for Vane LLM inference tasks.
+
+Contains prompt templates and JSON schemas for daily summarization (Mistral Small)
+and multi-day cross-company rolling narrative reasoning (GPT-OSS).
+"""
+
 from __future__ import annotations
 
 from typing import Any
 
 from .jsonio import compact_json
 
-
+# System instruction prompting the model to summarize daily Bluesky ingestion
+# data into a structured, analytical JSON format.
 SUMMARIZATION_SYSTEM = """You are Vane, an analytical narrative drift monitor.
 Compress Bluesky posts and direct replies into a structured JSON snapshot.
 Be analytical rather than descriptive: infer how topics are being framed, what comparisons are implied, and what vocabulary signals may matter later.
@@ -13,6 +20,17 @@ Return only a JSON object."""
 
 
 def summarization_messages(raw_ingestion: dict[str, Any]) -> list[dict[str, str]]:
+    """Build the ChatCompletion message list for the summarization phase.
+
+    Specifies the JSON shape the model must return and embeds the raw ingestion
+    data in compact form to conserve input tokens.
+
+    Args:
+        raw_ingestion: Dictionary representing raw social data ingested for a company on a date.
+
+    Returns:
+        List of system and user role/content message dictionaries.
+    """
     company = raw_ingestion["company"]
     content = f"""Summarize this Bluesky ingestion set for {company}.
 
@@ -74,6 +92,9 @@ Raw ingestion JSON:
     ]
 
 
+# System instruction prompting the model to reason across historical snapshots.
+# Demands an initial <thinking> tag block to support chain-of-thought, followed
+# by a final structured JSON report.
 REASONING_SYSTEM = """You are Vane, an honest narrative drift analyst.
 Reason across rolling daily snapshots for OpenAI, Anthropic, and Google DeepMind.
 Distinguish strong from weak signals, explicitly state confidence, and treat relative drift as just as important as absolute drift.
@@ -83,6 +104,19 @@ After that, output exactly one JSON object and no other prose."""
 
 
 def reasoning_messages(snapshots: list[dict[str, Any]], *, triggered_by: str, generated_at: str) -> list[dict[str, str]]:
+    """Build the ChatCompletion message list for the comparative reasoning phase.
+
+    Provides a 5-step analysis guide (Baseline, Historical, Cross-company, Causal,
+    and Confidence evaluation) along with the expected output JSON structure.
+
+    Args:
+        snapshots: List of daily snapshot dictionaries within the rolling window.
+        triggered_by: String indicating how the execution was run ('manual' or 'scheduled').
+        generated_at: ISO timestamp of report generation.
+
+    Returns:
+        List of system and user role/content message dictionaries.
+    """
     content = f"""Generate a narrative drift report from these snapshots.
 
 Reason in these steps before producing JSON:

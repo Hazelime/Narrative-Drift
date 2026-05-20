@@ -1,3 +1,10 @@
+"""Orchestration pipeline for the Vane Narrative Drift Tracker.
+
+Defines tasks to query APIs (ingest), call LLM text summarization (summarize),
+combine ingestion and summarization (daily), and synthesize multi-day cross-company
+analytical reports (report).
+"""
+
 from __future__ import annotations
 
 from datetime import timedelta
@@ -13,14 +20,42 @@ from .timeutil import iso_now, parse_date
 
 
 def raw_path(day: str, company_slug: str) -> Path:
+    """Resolve the file system path for a raw API ingestion file.
+
+    Args:
+        day: ISO date string (YYYY-MM-DD).
+        company_slug: Lowecase slug of the company.
+
+    Returns:
+        Path pointing to `data/raw/YYYY-MM-DD/company_slug.json`.
+    """
     return RAW_DIR / day / f"{company_slug}.json"
 
 
 def snapshot_path(day: str, company_slug: str) -> Path:
+    """Resolve the file system path for a daily summarization snapshot.
+
+    Args:
+        day: ISO date string (YYYY-MM-DD).
+        company_slug: Lowecase slug of the company.
+
+    Returns:
+        Path pointing to `data/snapshots/YYYY-MM-DD/company_slug.json`.
+    """
     return SNAPSHOT_DIR / day / f"{company_slug}.json"
 
 
 def ingest(day: str | None = None, company_slug: str | None = None) -> list[Path]:
+    """Fetch raw post records from Bluesky and save them to the filesystem.
+
+    Args:
+        day: Optional ISO date string targeting the run. Defaults to today's date.
+        company_slug: Optional slug filter to run ingestion for a single company.
+                      If None or 'all', ingests all configured companies.
+
+    Returns:
+        List of Path objects where raw JSON files were written.
+    """
     target_day = parse_date(day).isoformat()
     written: list[Path] = []
     for company in select_companies(company_slug):
@@ -33,6 +68,18 @@ def ingest(day: str | None = None, company_slug: str | None = None) -> list[Path
 
 
 def summarize(day: str | None = None, company_slug: str | None = None) -> list[Path]:
+    """Call the LLM summarizer to compress previously ingested raw data into daily snapshots.
+
+    Args:
+        day: Optional ISO date string representing the target raw folder. Defaults to today.
+        company_slug: Optional company slug filter. Defaults to all companies.
+
+    Returns:
+        List of Path objects where summarized daily snapshot JSON files were written.
+
+    Raises:
+        FileNotFoundError: If the raw ingestion file for the target day does not exist.
+    """
     target_day = parse_date(day).isoformat()
     written: list[Path] = []
     for company in select_companies(company_slug):
@@ -64,6 +111,14 @@ def summarize(day: str | None = None, company_slug: str | None = None) -> list[P
 
 
 def daily(day: str | None = None) -> tuple[list[Path], list[Path]]:
+    """Execute both ingestion and summarization for all companies sequentially for a given day.
+
+    Args:
+        day: Optional ISO date string. Defaults to today.
+
+    Returns:
+        A tuple containing (list of raw paths, list of snapshot paths) written.
+    """
     target_day = parse_date(day).isoformat()
     raw_files = ingest(target_day)
     snapshot_files = summarize(target_day)
@@ -71,6 +126,22 @@ def daily(day: str | None = None) -> tuple[list[Path], list[Path]]:
 
 
 def report(day: str | None = None, *, days: int = 9, triggered_by: str = "manual") -> Path:
+    """Analyze snapshots across a rolling window and generate a narrative drift report.
+
+    Queries the LLM reasoning model to identify trajectories, cross-company contrasts,
+    causal event drivers, and language shifts across the target date range.
+
+    Args:
+        day: Optional end-date of the rolling window. Defaults to the latest available snapshot date.
+        days: Size of the rolling window in days. Defaults to 9.
+        triggered_by: String label denoting invocation mode ('manual' or 'scheduled').
+
+    Returns:
+        The Path to the newly written report JSON file.
+
+    Raises:
+        FileNotFoundError: If no snapshots are found in the target window.
+    """
     end_day = parse_date(day) if day else parse_date(latest_snapshot_day())
     start_day = end_day - timedelta(days=days - 1)
     snapshots = load_snapshots(start_day.isoformat(), end_day.isoformat())
@@ -99,6 +170,15 @@ def report(day: str | None = None, *, days: int = 9, triggered_by: str = "manual
 
 
 def load_snapshots(start_day: str, end_day: str) -> list[dict[str, Any]]:
+    """Load and sort all daily snapshot files within an inclusive date range.
+
+    Args:
+        start_day: Start date string (YYYY-MM-DD).
+        end_day: End date string (YYYY-MM-DD).
+
+    Returns:
+        A sorted list of snapshot dictionary contents.
+    """
     snapshots: list[dict[str, Any]] = []
     for path in sorted(SNAPSHOT_DIR.glob("*/*.json")):
         if not path.is_file():
@@ -111,6 +191,14 @@ def load_snapshots(start_day: str, end_day: str) -> list[dict[str, Any]]:
 
 
 def next_report_number() -> int:
+    """Determine the next sequential report number prefix by scanning existing files.
+
+    Scans the `reports` directory, parses digits from names like '002_2026-05-18.json',
+    and increments the highest number found.
+
+    Returns:
+        The integer code for the next report (e.g. 3).
+    """
     REPORT_DIR.mkdir(parents=True, exist_ok=True)
     highest = 0
     for path in REPORT_DIR.glob("*.json"):
@@ -121,11 +209,24 @@ def next_report_number() -> int:
 
 
 def latest_snapshot_day() -> str | None:
+    """Find the date string of the most recent snapshot directory containing files.
+
+    Returns:
+        The YYYY-MM-DD date string of the latest snapshot, or None if no snapshots exist.
+    """
     days = sorted({path.parent.name for path in SNAPSHOT_DIR.glob("*/*.json") if path.is_file()})
     return days[-1] if days else None
 
 
 def select_companies(company_slug: str | None) -> tuple[CompanyConfig, ...]:
+    """Helper to select either all companies or a single company config by slug.
+
+    Args:
+        company_slug: The target company slug, or 'all', or None.
+
+    Returns:
+        A tuple of selected CompanyConfig objects.
+    """
     if not company_slug or company_slug == "all":
         return COMPANIES
     return (company_by_slug(company_slug),)

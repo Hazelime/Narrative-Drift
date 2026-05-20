@@ -1,3 +1,10 @@
+"""Command-line interface (CLI) for Vane.
+
+Handles parsing of user inputs, setting system output stream encodings to UTF-8
+for cross-platform print compatibility, dispatching to specific pipeline tasks
+(ingestion, summarization, reporting), and displaying standard helper screens.
+"""
+
 from __future__ import annotations
 
 import argparse
@@ -10,6 +17,14 @@ from .spinner import run_with_spinner
 
 
 def main(argv: list[str] | None = None) -> int:
+    """Execute Vane CLI commands.
+
+    Args:
+        argv: Optional list of command-line arguments. Defaults to sys.argv[1:].
+
+    Returns:
+        The exit status integer (0 for success, 1 for runtime failure, 2 for usage error).
+    """
     configure_output_encoding()
     parser = build_parser()
     args = parser.parse_args(argv)
@@ -53,12 +68,29 @@ def main(argv: list[str] | None = None) -> int:
 
 
 def configure_output_encoding() -> None:
+    """Configure terminal standard streams to use UTF-8.
+
+    Ensures that social posts containing emojis or non-English characters do not
+    trigger encoding crash errors on Windows command-line environments.
+    """
     for stream in (sys.stdout, sys.stderr):
         if hasattr(stream, "reconfigure"):
             stream.reconfigure(encoding="utf-8", errors="replace")
 
 
 def build_parser() -> argparse.ArgumentParser:
+    """Construct the main ArgumentParser containing all subcommands and flags.
+
+    Supported commands:
+      - ingest: Fetch raw Bluesky posts
+      - summarize: Synthesize raw data into snapshots
+      - daily: Sequence ingestion and summarization for all companies
+      - report: Generate narrative reports across rolling snapshot windows
+      - help: Detail flags and examples
+
+    Returns:
+        The configured ArgumentParser object.
+    """
     parser = argparse.ArgumentParser(
         prog="vane",
         description="Monitor narrative drift on Bluesky.",
@@ -106,10 +138,20 @@ def build_parser() -> argparse.ArgumentParser:
 
 
 def add_date_arg(parser: argparse.ArgumentParser) -> None:
+    """Helper to append a consistent --date option to a subparser.
+
+    Args:
+        parser: The target subcommand parser.
+    """
     parser.add_argument("--date", help="UTC date to process, formatted YYYY-MM-DD. Defaults to today.")
 
 
 def add_company_arg(parser: argparse.ArgumentParser) -> None:
+    """Helper to append a consistent --company option to a subparser.
+
+    Args:
+        parser: The target subcommand parser.
+    """
     parser.add_argument(
         "--company",
         choices=("all", *(company.slug for company in COMPANIES)),
@@ -119,12 +161,23 @@ def add_company_arg(parser: argparse.ArgumentParser) -> None:
 
 
 def print_paths(label: str, paths: list[object]) -> None:
+    """Log file write path arrays to the standard output.
+
+    Args:
+        label: Descriptive prefix message.
+        paths: List of written file path objects.
+    """
     print(f"{label}:")
     for path in paths:
         print(f"  {path}")
 
 
 def print_full_help(parser: argparse.ArgumentParser) -> None:
+    """Print the complete parser CLI help screen, including subcommands.
+
+    Args:
+        parser: The ArgumentParser to detail.
+    """
     parser.print_help()
     print("\nSubcommand details:\n")
     for action in parser._actions:

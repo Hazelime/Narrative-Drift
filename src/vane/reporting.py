@@ -1,3 +1,9 @@
+"""Formatting and representation utilities for Vane reports.
+
+Converts structured, machine-readable report JSON files into readable,
+formatted plain-text/markdown summaries for CLI and user inspection.
+"""
+
 from __future__ import annotations
 
 from pathlib import Path
@@ -8,11 +14,31 @@ from .jsonio import read_json
 
 
 def latest_report_path() -> Path | None:
+    """Find the path of the most recently written report JSON file in the reports directory.
+
+    Scans the `reports` directory and returns the last sorted filename.
+
+    Returns:
+        The Path to the latest report file, or None if no reports exist.
+    """
     reports = sorted(REPORT_DIR.glob("*.json"))
     return reports[-1] if reports else None
 
 
 def format_report(report: dict[str, Any], *, source_path: Path | None = None) -> str:
+    """Translate a report dictionary into an academic, human-readable text string.
+
+    Organizes metadata, company-specific narratives, meta-observations,
+    historical trajectory summary tables, comparative findings, vocabulary
+    drifts, and uncertainties into structured sections.
+
+    Args:
+        report: The dictionary representing the parsed JSON report content.
+        source_path: Optional Path to print the source filename in metadata.
+
+    Returns:
+        A multi-line formatted report string.
+    """
     metadata = report.get("metadata") or {}
     narrative = report.get("narrative") or {}
     drift = report.get("drift_summary") or {}
@@ -84,6 +110,14 @@ def format_report(report: dict[str, Any], *, source_path: Path | None = None) ->
 
 
 def read_latest_report() -> tuple[Path, dict[str, Any]]:
+    """Retrieve and read the most recent narrative report file.
+
+    Returns:
+        A tuple of (Path to report, deserialized report dictionary).
+
+    Raises:
+        FileNotFoundError: If no reports are found in the reports directory.
+    """
     path = latest_report_path()
     if not path:
         raise FileNotFoundError("No reports found in data/reports.")
